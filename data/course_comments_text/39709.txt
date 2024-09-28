@@ -1,6 +1,6 @@
 {
     "crn": "39709",
-    "course_title": "",
+    "course_title": "Algorithms",
     "responses": [
         {
             "question": "what were the strengths of this course andor this instructor",
