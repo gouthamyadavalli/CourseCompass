@@ -27,8 +27,25 @@
 # You can install the library using the following command:
 # pip install pymupdf
 
+import os
 import pymupdf
 import json
+import pandas as pd
+
+question_csv_files = {
+    "what were the strengths of this course andor this instructor": "Q1.csv",
+    "what could the instructor do to make this course better": "Q2.csv",
+    "please expand on the instructors strengths andor areas for improvement in facilitating inclusive learning": "Q3.csv",
+    "please comment on your experience of the online course environment in the openended text box": "Q4.csv"
+}
+
+# Initialize DataFrames for each question
+dataframes = {
+    "what were the strengths of this course andor this instructor": pd.DataFrame(columns=["crn", "response", "instructor"]),
+    "what could the instructor do to make this course better": pd.DataFrame(columns=["crn", "response", "instructor"]),
+    "please expand on the instructors strengths andor areas for improvement in facilitating inclusive learning": pd.DataFrame(columns=["crn", "response", "instructor"]),
+    "please comment on your experience of the online course environment in the openended text box": pd.DataFrame(columns=["crn", "response", "instructor"])
+}
 
 def extract_data_from_pdf(file_path):
     # Open the pdf file
@@ -39,9 +56,8 @@ def extract_data_from_pdf(file_path):
 
     # Initialize the structured data dictionary
     structured_data = {
-        "course_code": "",
+        "crn": "",
         "course_title": "",
-        "course_description": "",
         "responses": []
     }
 
@@ -53,11 +69,13 @@ def extract_data_from_pdf(file_path):
         # Check if the page contains course information
         if "Course ID" in page_text:
             # Extract course code, title, and description
+            instructor = page_text.split("Instructor: ")[1].split("\n")[0]
             course_code = page_text.split("Course ID: ")[1].split("\n")[0]
             # course_title = page_text.split("Course Title: ")[1].split("\n")[0]
             # course_description = page_text.split("Course Description: ")[1].split("\n")[0]
 
             structured_data["crn"] = course_code
+            structured_data["instructor"] = instructor
             # structured_data["course_title"] = course_title
             # structured_data["course_description"] = course_description
 
@@ -85,7 +103,7 @@ def extract_data_from_pdf(file_path):
 
     # Close the pdf file
     pdf_file.close()
-    print(json.dumps(structured_data, indent=4))
+    # print(json.dumps(structured_data, indent=4))
 
     # Use nltk to clean the text
     for response in structured_data["responses"]:
@@ -102,5 +120,46 @@ def clean_text(text):
     text = text.lower()
     return text
 
-file_path = "./data/course_comments/15377.pdf"
-extract_data_from_pdf(file_path)
+def process_dataframes(structured_data):
+    crn = structured_data["crn"]
+    instructor = structured_data["instructor"]
+    
+    for response_data in structured_data["responses"]:
+        question = response_data.get("question", "")
+        responses = response_data.get("responses", [])
+        
+        if question in dataframes:
+            for response in responses:
+                if response:  # Ignore empty responses
+                    # Add response to the DataFrame for the corresponding question
+                    new_row = {"crn": crn, "response": response, "instructor": instructor}
+                    dataframes[question] = dataframes[question]._append(new_row, ignore_index=True)
+
+def save_dataframes_to_csv():
+    """
+    Save each DataFrame to its respective CSV file.
+    """
+    for question, df in dataframes.items():
+        csv_filename = question_csv_files[question]
+        # If the CSV already exists, append without headers, otherwise create a new CSV
+        if os.path.exists(csv_filename):
+            df.to_csv(csv_filename, mode='a', header=False, index=False)
+        else:
+            df.to_csv(csv_filename, index=False)
+
+
+def process_pdfs(pdf_directory):
+    for pdf_file in os.listdir(pdf_directory):
+        if pdf_file.endswith('.pdf'):
+            pdf_path = os.path.join(pdf_directory, pdf_file)
+            print(f"Processing: {pdf_file}")
+            
+            # Extract and parse text from the PDF
+            structured_data = extract_data_from_pdf(pdf_path)
+            process_dataframes(structured_data)
+
+    save_dataframes_to_csv()            
+
+file_path = "data/course_comments"
+
+process_pdfs(file_path)
