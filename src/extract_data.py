@@ -71,11 +71,12 @@ def extract_data_from_pdf(file_path):
             # Extract course code, title, and description
             instructor = page_text.split("Instructor: ")[1].split("\n")[0]
             course_code = page_text.split("Course ID: ")[1].split("\n")[0]
-            # course_title = page_text.split("Course Title: ")[1].split("\n")[0]
+            course_title = page_text.split("\n")[0].split("(")[0].strip()
             # course_description = page_text.split("Course Description: ")[1].split("\n")[0]
 
             structured_data["crn"] = course_code
             structured_data["instructor"] = instructor
+            structured_data["course_title"] = course_title
             # structured_data["course_title"] = course_title
             # structured_data["course_description"] = course_description
 
@@ -160,9 +161,6 @@ def process_pdfs(pdf_directory):
             file_path = "data/course_comments_text/{courseId}.txt".format(courseId=courseId)
             with open(file_path, "w") as f:
                 f.write(json.dumps(structured_data, indent=4))
-            #  save the structured data to a txt file
-            
-    
 
 file_path = "data/course_comments"
 

@@ -1,6 +1,6 @@
 {
     "crn": "20312",
-    "course_title": "",
+    "course_title": "Information Retrieval",
     "responses": [
         {
             "question": "what were the strengths of this course andor this instructor",
