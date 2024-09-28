@@ -1,0 +1,81 @@
+{
+    "crn": "39756",
+    "course_title": "",
+    "responses": [
+        {
+            "question": "what were the strengths of this course andor this instructor",
+            "responses": [
+                "",
+                "passion and creativity love the fact that he brings other tech inspirations other than just react and firebase to the course",
+                "participation",
+                "hes the best",
+                "excellent interaction in class and very motivated to teach the subject",
+                "this instructor knows a lot and he can extend other points of knowledge explained through one small aspect",
+                "i love seeing professor john teaching with enthusiasm and hes always looking for new things happening in the cs field this helps me learn a lot",
+                "projects",
+                "the atmosphere in class is quite intriguing",
+                "very friendly and funny",
+                "classes are always impressive and full of knowledge professor can answer any questions while giving sample code"
+            ]
+        },
+        {
+            "question": "what could the instructor do to make this course better",
+            "responses": [
+                "",
+                "update homework rubric on time",
+                "make a clearer syllabus in homework session",
+                "na",
+                "nothing prof john is the best ",
+                "i have no idea i think current is good maybe edit the assignment ahead of time",
+                "maybe it would be better to put things we mentioned in classes in the canvas modules every week we have plenty of links to the interesting resources published on slack but sometimes i get lost in themessage stream and forget to read them all",
+                "its interesting to learn about pdp on a software hardware platform instead of just the web this provides more opportunities for students to apply for jobs in line with market needs",
+                "i think we spent a solid amount of time learning a programming language instead of the different programming paradigms this is something that could be improved",
+                "professor is constantly changing honestly i enjoy this uncertainty in classroom as well except for the implicitness of assignments requirements i hope i can learn various aspects through changes in classwhile knowing the exact expectation of assignments so i can focus on what should i do"
+            ]
+        },
+        {
+            "question": "please expand on the instructors strengths andor areas for improvement in facilitating inclusive learning",
+            "responses": [
+                "",
+                "introduce more of new ai tools like transformerjs and more of how to build a full stack web like using firebase with vite",
+                "his profound knowledge in the subject",
+                "i think the professor promoted very inclusive learning nothing to improve anywhere",
+                "i think now he is good for me",
+                "professor john introduced many things that are used very often in the cs field that im not very familiar with and this really excites me he gives us an insight of what the thing is trying to do and how it solvesthe problem",
+                "some pdp on the software of hardware platform maybe",
+                "prof john is very funny and engaging but he often steers off topic which is okay in most cases but this is the only thing that he can maybe work on the course overall was great",
+                "nan"
+            ]
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": [
+                "",
+                "so far so good",
+                "recording is very helpful",
+                "very helpful material when we need to go over any class material",
+                "the recording helps me a lot since i may forget the detail steps",
+                "everything goes well",
+                "good",
+                "enjoyable",
+                "this was an offline course",
+                "the online materials are helpful books videos etc and professor john always records the class so we can review"
+            ]
+        },
+        {
+            "question": "what i could have done to make this course better for myself",
+            "responses": [
+                "",
+                "already my best",
+                "been a little more proactive",
+                "maybe read some external materials",
+                "na",
+                "more structured deadlines and rubrics",
+                "nothing",
+                "dont be lazy clearly plan my work and finish on time",
+                "spend more time on the projects"
+            ]
+        }
+    ],
+    "instructor": "Guerra Gomez, John Alexis"
+}

@@ -1,0 +1,67 @@
+{
+    "crn": "31575",
+    "course_title": "",
+    "responses": [
+        {
+            "question": "what were the strengths of this course andor this instructor",
+            "responses": [
+                "",
+                "taught effectively  answered questions and explained concepts to any student in need",
+                "course content was interesting instructor delivered content well",
+                "the class has alot of resources to ask for help and assistance",
+                "the professor and tas are very understanding and willing to help students at any time",
+                "she was very ethusiastic and clearly cared about the materials she also was great answering questions outside of class",
+                "clear schedule and well structured course material",
+                "lots of office hours times are very helpful as well as demos for the homework",
+                "the instructor was knowledgeable"
+            ]
+        },
+        {
+            "question": "what could the instructor do to make this course better",
+            "responses": [
+                "",
+                "make the course more challenging in terms of concepts not homework especially for the ml stuff at the end which could have been related to ir since most of us knew ml to a certain extent",
+                "make certain homeworks take less time i think i can learn the concepts better if the codeassignment didnt need to run forever",
+                "stop having assignments that build on each other that group project was entirely unnecessary also dont have assignments that are designed to take a minimum of 12 hours find another way to reinforcethe material that doesnt require hours of processing power",
+                "it was hard to follow derivationsmath explanations that werent essential to course content it would be great to see more real world demos that would help bring the course into 2023  esp info retrieval inindustry",
+                "alot of the assignments have you doing work that is not related to the tasks at hand and just makes you spend way more time on it than what is necessary i also feel that the content needs to be refreshedas we are using things made from the early 2000s for example treceval this course is also apart of the ai concentration and i fail to see how this would fall under it",
+                "i feel that the lectures get dull at times as most of it is just lecturing having more forms of student engagement would help facilitate learning",
+                "her lectures were not engaging and i found myself drifting a lot also attendance plummeted and the last lecture only had 1075 people",
+                "way too much was asked of us for the assignments they rarely had much to do with the content",
+                "some of the homework instructions are confusing and some of the homework is not helpful in topic understanding consider make it more clear  reduce the workload so that it only contain necessary tasksthat helps student understand topics being covered",
+                "split some of the larger assignments into multiple parts the first few assignments are very difficult and it feels like being thrown into the deep end",
+                "the majority of the grading in this course was based on the practical applications of course material but the instructor mostly taught the theoretical parts"
+            ]
+        },
+        {
+            "question": "please expand on the instructors strengths andor areas for improvement in facilitating inclusive learning",
+            "responses": [
+                "",
+                "how is this class in the ai concentration for cs we did one ai homework and it wasnt even remotely challenging",
+                "the instructor is very kind was fairly flexible with deadlines and clearly cares about student success and wellbeing"
+            ]
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": [
+                "",
+                "the assignments are worded very confusingly on the course website and pretty much only the demo explains what you need to do",
+                "the online course environment mainly consisted of asking questions on piazza attending office hours and watching demos all three of these were useful for learning the course materialthere were some scheduling issues such as assignments and demos being released late or not having enough slots to demo but the professor and tas were very accommodating and were flexible with theiroffice hours and moved deadlines to adapt"
+            ]
+        },
+        {
+            "question": "what i could have done to make this course better for myself",
+            "responses": [
+                "",
+                "more proactive trying to get tas help or communicate with the tasprofessor to get things started early",
+                "assignments were large and infrequent i should have started them earlier  spread out the work attended office hours more etc",
+                "starting earlier",
+                "starting assignments earlier would have been helpful because it allows me to demo earlier to tas and receive feedback on my work however given i have other classes and sometimes assignments arereleased before the relevant content is covered in class it was sometimes difficult to start assignments early",
+                "started with assignment early",
+                "not sure this course was a lot of work",
+                "na"
+            ]
+        }
+    ],
+    "instructor": "Amor-Tijani, Ghita"
+}

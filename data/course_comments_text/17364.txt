@@ -1,0 +1,67 @@
+{
+    "crn": "17364",
+    "course_title": "",
+    "responses": [
+        {
+            "question": "what were the strengths of this course andor this instructor",
+            "responses": [
+                "",
+                "na",
+                "great enthusiasm and very knowledgeable about the subject",
+                "he makes students to get inter connected with the breakout room sessions in class",
+                "the instructor has prepared a lot and shown energy on this class",
+                "friendly and helpful",
+                "the course provided varied depth of materials for each subject area and the instructor successfully encouraged participation and engagement in the course materials",
+                "professor mwaura is clearly very knowledgeable about the subject matter and is very skilled at communicating that knowledge",
+                "material mindopening"
+            ]
+        },
+        {
+            "question": "what could the instructor do to make this course better",
+            "responses": [
+                "",
+                "be more control of the class pace the class is chaoticreduce the unproductive class discussion time or actually give students meaningful topics to discussdeliver meaning class content",
+                "the organization of the course could be improved assignments would be posted before they were covered and sometimes would be due before they were covered additionally several times assignmentinstructions were for past courses with bad dates",
+                "everything is good with course",
+                "hope to learn more knowledge about llm and chatgpt",
+                "nothing yet",
+                "more tas and more office hours",
+                "class more organized"
+            ]
+        },
+        {
+            "question": "please expand on the instructors strengths andor areas for improvement in facilitating inclusive learning",
+            "responses": [
+                "",
+                "could improve the autograder for assignment works so that students get right feedback and learning from assignments as well",
+                "nothing yet",
+                "the class environment felt extremely inclusive",
+                "i felt at times in class i would ask a question and not really get an answer back that i was able to understand",
+                "material"
+            ]
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": []
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": [
+                "",
+                "overall good",
+                "the online course environment was split in a very unintuitive way with grades instructions submissions and due dates all in different locations and no easy way to keep track of what assignments are duewhen and which class topics are relevant to which problem set",
+                "i go inperson doesnt apply to me"
+            ]
+        },
+        {
+            "question": "what i could have done to make this course better for myself",
+            "responses": [
+                "",
+                "read more out course material",
+                "im not sure i struggled significantly and dont really know what i could have done differently",
+                " more interaction in class"
+            ]
+        }
+    ],
+    "instructor": "Mwaura, Jonathan"
+}

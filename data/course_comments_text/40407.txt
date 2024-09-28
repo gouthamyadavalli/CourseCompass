@@ -1,0 +1,62 @@
+{
+    "crn": "40407",
+    "course_title": "",
+    "responses": [
+        {
+            "question": "what were the strengths of this course andor this instructor",
+            "responses": [
+                "",
+                "cristian is responsive for all of my questions that i dm him via teams",
+                "professor cristian is a very helpful professor not only with his uptodate knowledge of the current work environment but also with very useful skills outside of the books he replies fast to our questions andpatiently answers our questions",
+                "could clearly answer students questions in class",
+                "professor is very helpful and easy to discuss questions with",
+                "the instructor is very knowledgable and professional and brings a perspective from the industry point of view homework and assignments are really useful in the real world"
+            ]
+        },
+        {
+            "question": "what could the instructor do to make this course better",
+            "responses": [
+                "",
+                "add more exercises",
+                "adding some materials to fill up all of the class time",
+                "cannot think of any now",
+                "schedule the class to an earlier time i understand that the instructor has commitments but the current class time is quite late"
+            ]
+        },
+        {
+            "question": "please expand on the instructors strengths andor areas for improvement in facilitating inclusive learning",
+            "responses": [
+                "",
+                "na",
+                "the instructor delivers clear and helpful teaching material reflecting significant effort it helps in understanding complex concepts effectively"
+            ]
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": [
+                "",
+                "it is especially great that professor cristian provide recordings of all his class sessions so that it is super helpful for me to review my class material and refresh my memory of past chapters for our intensivecourse content"
+            ]
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": [
+                "",
+                "the course is onground",
+                "i found the instructor for the web development course to be excellent the content was thorough covering everything from basic html and css to more advanced frameworks like react i learned a greatdeal and was able to apply this knowledge in my final project",
+                "great"
+            ]
+        },
+        {
+            "question": "what i could have done to make this course better for myself",
+            "responses": [
+                "",
+                "the actual web design requires more learning outside of class time and i could spend more time connecting outside resources with class learning materials to acquire more knowledge in this class",
+                "do more preclass reading",
+                "take more effort on coding actually instead of reading material it helps understanding concepts when actually taking a try",
+                "start earlier"
+            ]
+        }
+    ],
+    "instructor": "Penarrieta, Cristian"
+}

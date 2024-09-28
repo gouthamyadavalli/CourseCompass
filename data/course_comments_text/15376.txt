@@ -1,0 +1,66 @@
+{
+    "crn": "15376",
+    "course_title": "",
+    "responses": [
+        {
+            "question": "what were the strengths of this course andor this instructor",
+            "responses": [
+                "",
+                "good course content and structure",
+                "based on my past experience and what ive seen of prof shesh he is a uniquely qualified person to teach in general and this course was no different i really enjoyed attending his lectures even if some ofthe topics were dry not a fault of the instructor",
+                "course is pretty well structured and prof shesh is is well prepared for the classes so they feel cohesive",
+                "explanation of in depth concepts is fantastic the assignments were challenging but ultimately rewarding",
+                "strengths are his love for teaching you can really see he loves teaching the way he has taught us",
+                "great assignments and labs made use of the material covered in class the instructor followed the schedule and the timemanagement in class was on point the syllabus materials and the lectures showthat they have been iteratively improved over the years",
+                "the syllabus is easy to ready and summarizes the lectures wellprof sheshs lectures are fun interesting and even though the syllabus has everything attending the lecture is a plus",
+                "assignments 47 were better suited to this course as it really employed applying design principles and how it could be carry forwarded the deadlines were equally placed and gave sufficient time tocomplete them the instructor used to attend all questions after class and helped out",
+                "the instructor knew the material inside and out he still was engaged during lecture and was very responsive to answering questions and thinking through different ideas"
+            ]
+        },
+        {
+            "question": "what could the instructor do to make this course better",
+            "responses": [
+                "",
+                "appropriately evaluating the tas that are hired for this course most of the tas were to be honest terrible and couldnt answer basic doubts the instructor should actually put in the effort to interview andevaluate the ta applications before appointing them the as tas",
+                "the one thing that pops into my mind is the fact that some of the assignments could have been better vetted and validated in order to remove easily preventable errors another thing that this course couldbenefit from are more professor office hours the current ones are already well scheduled but i feel like a little more time per week couldnt hurt otherwise i do not really have any other complaints",
+                "lab 1assignment 1 instructions are slightly outdated so a new video can be created for thatthere are some topics that become that are taught after an assignment has been released and students are working on it alreadyexample command pattern testing the controller with mock modelif these topics could be taught 12 classes earlier then it would help us for assignments more effectively instead of needing to rethink note that is only for a few topics other topics were taught on time",
+                "the tas selected should have been better often i had to end up solving something myself after a long time because the tas were not helpful enough or well acquainted with the subject",
+                "while the examples covered during the lectures and in labs showcased the benefits of the design patterns i would have liked to see some examples of evaluatingcomparingdesigning larger scaleapplications eg similar to the image manipulation app that we built throughout assignments 47i think it was the biggest weakness of the course there were limited opportunitiesexperiences of designing and evaluating larger systems",
+                "the only thing that i can think of is feedback especially when we get 100 on an assignment theres no feedback i felt like the comments from the tas when we lose small points werent enough i would reallyappreciate a review on the overall design in each of the assignments not sure if its feasible though",
+                "the specifications of the assignments could be clearer labs couldve been more more informative could hire better tas most really did not give feedback in the right direction the things discussed in theclass were coded but never debugged by emulating mistakes that students commonly make"
+            ]
+        },
+        {
+            "question": "please expand on the instructors strengths andor areas for improvement in facilitating inclusive learning",
+            "responses": [
+                "",
+                "prof sheshs ability to teach is his biggest skill which makes him an effective instructor the only area of improvement like mentioned earlier is more availability to his students i know he is the dean of cswhich could make this more challenging",
+                "get better tas who are able to grade more consistently",
+                "prof shesh knows how to capture students attention and is very eloquent i am impressed and admire his way of teaching his comments and answers are very interesting and can be interpreteddifferently depending on the student",
+                "the instructor is knowledgeable and has the teaching skills required however it could have been better if the instructor could actually cover the content required for the assignment before the deadline ofthe assignment"
+            ]
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": [
+                "",
+                "this is not an online course however the professor recorded the lectures most of the time so that was useful the piazza discussions and interactions were very useful for completing the assigned coursehomeworks",
+                "amazing course doubts were resolved quickly and help was prompt",
+                "piazza helped to clear common doubts handins helped me to keep track of my grades",
+                "course material was comprehensive and detailed assignments were not proofread properly had issues with them"
+            ]
+        },
+        {
+            "question": "what i could have done to make this course better for myself",
+            "responses": [
+                "",
+                "better prepared for java basics oops concepts junit tests",
+                "i could have taken more time to finish the given homeworks which in turn would have improved the quality of my submissions otherwise i feel like paying more attention in general is a useful piece of advicethat i would give myself",
+                "better time management and planning",
+                "i couldve read the online course material before every class to be aware of what would have been taught",
+                "be more proactive"
+            ]
+        }
+    ],
+    "instructor": "Shesh, Amit"
+}

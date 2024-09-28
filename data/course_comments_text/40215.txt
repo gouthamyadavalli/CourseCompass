@@ -1,0 +1,63 @@
+{
+    "crn": "40215",
+    "course_title": "",
+    "responses": [
+        {
+            "question": "what were the strengths of this course andor this instructor",
+            "responses": [
+                "",
+                "instructor was clearing passionate about the course material however by halfway through the semester nearly 75 of the class wasnt attending lecture ultimately the lecture material isnt useful tosolving homework and exam problems",
+                "instructor has the clear vision of how this class would go and we followed along well",
+                "i think professor lee always came prepared and was super cheerful i appreciated his enthusiasm for the subject he also is pretty responsive to messages",
+                "ervklvhiohvjerwipohjvb",
+                "wellversed in the topics",
+                "the strengths of this course were that the instructor seemed wellversed in the material"
+            ]
+        },
+        {
+            "question": "what could the instructor do to make this course better",
+            "responses": [
+                "",
+                "give students a better chance to showcase understanding of course work lecturing in a unconcise manner and then using leetcode question as the only homework source doesnt worklecture material and homeworks werent engaging at all this could be the nature of the subject however improvement in this category would certainly help with the problem of student attendance inlecture",
+                "i wish the examples shown in class were less messy and drawn more clearly it would also be good if they were uploaded to canvas to make learning easier",
+                "there are so many tas no excuse to be grading homework so late when you assign so much of it the quizzes are unfair  the textbook and modules dont align if you ding a student on homework problemswhen you didnt request their code do a certain item or provide an example to work on it is completely unfair",
+                "fvnerigjerpogjpoer",
+                "the course would be better with a different textbook the current textbook is very dry and many studentstas have expressed their dislike of the textbook instructor could also practice lecturing in acohesive manner maybe include an attendance grade as the lectures had very few people in attendance"
+            ]
+        },
+        {
+            "question": "please expand on the instructors strengths andor areas for improvement in facilitating inclusive learning",
+            "responses": [
+                "",
+                "sometimes certain subjects are hard to understand so i think more examples are needed but they should be drawn in a clear and neat way and not all over the place it makes understanding for the firsttime a little easier when we can go back and look at the examples we did in class",
+                "wv klervhoerivpoer",
+                "the instructor knew the material well more time could have been spent teaching in lecture instead of reading off of lecture slides lecture slides can be read by students outside of class"
+            ]
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": []
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": [
+                "",
+                "professor was hardly available to reach online tas were very disrespectful with grading would mark off points and say our work was lucky to even be partially correct implying",
+                "there was not really an online course environment besides asking questions on piazza classes were in person and no lectures were recorded",
+                "sdv kdsvnidsvnjpodbvop"
+            ]
+        },
+        {
+            "question": "what i could have done to make this course better for myself",
+            "responses": [
+                "",
+                "should have brushed up on my python skills in advance python is the most essential skill in this class not knowledge of algorithms there is no chance to showcase understanding of course material expectthrough python implementation",
+                "better understand of the knowledge",
+                "i wish the pdf slides were made in a way that it wasnt two pages per slide i wish it was just a single page per slide i also wish the slides that had questions had a slide that showed the right answer and maybethe process of getting the right answer",
+                "trvnkernverkgner",
+                "i could have realized sooner that the teaching style did not align with my learning style perhaps joined a study group of students"
+            ]
+        }
+    ],
+    "instructor": "Lee, Hyonho"
+}

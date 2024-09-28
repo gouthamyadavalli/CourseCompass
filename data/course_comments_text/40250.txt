@@ -1,0 +1,66 @@
+{
+    "crn": "40250",
+    "course_title": "",
+    "responses": [
+        {
+            "question": "what were the strengths of this course andor this instructor",
+            "responses": [
+                "",
+                "uptodate with current web dev technologies",
+                "the in class exercises were great some parts of the course material had so many moving parts that it was very helpful to work with my classmates to understand logic syntax etc professor bogden wasgreat about answering questions and clarifying key concepts",
+                "easy and water",
+                "very accommodating and reasonable professor who brings a lot of resources for the students to refer to apart from coursework",
+                "enthusiasm for the content availability of support and the structure of the assignments and challenges presented in the course",
+                "throughout the course i found the material to be exceptionally wellstructured and thoughtfully delivered",
+                "passionate about web development technologies platforms and knowledgeable"
+            ]
+        },
+        {
+            "question": "what could the instructor do to make this course better",
+            "responses": [
+                "",
+                "not in relation to professor but if an additional web dev class was offered to have more time to work with all the different tools and frameworks",
+                "sometimes homework due dates were a little confusing but otherwise no notes",
+                "nothing",
+                "id appreciate slightly more time spent in class discussing theoretical concepts we spent a lot of time in active programming work which i really enjoyed but i think a few more minutes of each class couldhave been focused on theory structure or best practices since often our assignments were to finish the inclass activities it would have been okay to have the inclass activities get slightly less time",
+                "maybe some additional readings information tutorials about different frameworks or beginning each class with a here is the big idea for today and what i want you to leave todays class having learnedhe does do this but i think maybe needs to be a bit clearer in what will be covered and how it fits into the big picture"
+            ]
+        },
+        {
+            "question": "please expand on the instructors strengths andor areas for improvement in facilitating inclusive learning",
+            "responses": [
+                "",
+                "in class exercises  lecturesi love a good lecture to introduce ideas but actually doing the coding myself really helped to make the connections in my mind",
+                "na",
+                "professor bogden really focuses on inclusive learning i appreciated the commitment to pollev and making sure we were all progressing smoothly through the assignments",
+                "the professor is fair and provided necessary feedback in a timely manner",
+                "enjoyable friendly and welcomes questions"
+            ]
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": []
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": [
+                "",
+                "professor bogden did a good job keeping everything accessible and organized",
+                "taught trending web development technologies instead of obsolete technology gave the liberty to experiment with things",
+                "this course occurred mostly in person the online materials were well organized and helpful",
+                "this course has been enjoyable and informative i learned a lot"
+            ]
+        },
+        {
+            "question": "what i could have done to make this course better for myself",
+            "responses": [
+                "",
+                "i learned a lot in then course and feel good about my habits and the professors teaching style i could have made it better by practicing more rather than diving immediately into the homework but we do somuch in class work that it didnt seem necessary",
+                "do even more projects for myself",
+                "i could have devoted a little more time to research and skill development our assignments were every open ended and i could have challenged myself further i would have needed better timemanagement for that though",
+                "i could have been more consistent"
+            ]
+        }
+    ],
+    "instructor": "Bogden, Philip"
+}

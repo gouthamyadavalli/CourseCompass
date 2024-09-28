@@ -1,0 +1,65 @@
+{
+    "crn": "31750",
+    "course_title": "",
+    "responses": [
+        {
+            "question": "what were the strengths of this course andor this instructor",
+            "responses": [
+                "",
+                "david is very knowledgeable about search engines and passionate about the material it feels like a very niche subject but he has a great depth of knowledge implementing some of the topics from the classin python felt difficult but rewarding",
+                "the instructor has been very helpful throughout the semester anytime i got stuck in my assignments i would attend his office hours and my doubts would be cleared by him i enjoyed his teaching ",
+                "professor is very passionate about the topic he clearly is very very knowledgeable about every topic he covers the homeworks are very helpful in reinforcing the content i couldnt understand the firsttime in class",
+                "the professor is extremely knowledgeable on the subject and was able to lecture on topics covered in class with ease and was able to provide a lot of information the professor is very nice and was alwaysable to help during office hours and was very helpful during the office hoursrecording the lectures and providing them on canvas was very helpfulthe homeworks were extremely interesting and actually really quite fun to work on i feel like i learned more from the few homeworks than the entire class itself i wish there were morei appreciated the breaks we were sometimes given in class they were a good reset to allow to me to attempt to refocus",
+                "the instructor was great at introducing new and difficult topics and making them easier to understand",
+                "the instructor is very good in research side which showed his ability to teach concepts"
+            ]
+        },
+        {
+            "question": "what could the instructor do to make this course better",
+            "responses": [
+                "",
+                "the lectures were sometimes difficult to follow because of their length and complexity of the topics  i think that sometimes it was difficult to come away with the main ideas because of all the informationprovided in the slides",
+                "nothing much 1",
+                "lectures are way to dry people stopped showing up to class because we just couldnt follow the lectures i think the class just covers way to much information this could be split up into two classes also ithink the few lectures where we had a small in class activity were fine ie that one time we had to compress a file so professor needs to have something like that almost every lecture but that goes back tothe class needing to cover less information lastly the homeworks were very helpful in learning the content but there were only 4 of them so please add more maybe like 68 slightly smaller homeworksthat take a week to do overall the problem in my opinion lies more with the class than the professor but i hope the professor can adjust in the future",
+                "the lectures given in class were way way way too dense to have any chance of being able to store all of the information or even take notes on it there was also so much lecture material that i felt that therewas no real benefit of going to class as there was no way i was going to remember to solve this i think the content in this course needs to be greatly cut down maybe cover half to two thirds of the contentthis semester each class just seemed like a fire hose of information and after 15 minutes i was usually unable to continue paying attention i think this sentiment was felt by most other students given thesevere lack of attendance in classi think there was also just such a huge lack of homework in the class the fact that we had only four homeworks one midterm and a final project for a 4000 level class is just crazy to me the homeworkswere all really good really interesting and were a good level of challenging i think we could have done with maybe 6 7 or even 8 homeworks over the semester these assignments is where i learned themost and also had the most fun in the classthe midterm was good i just feel like given the such huge amount of information covered in the course there was no real good way to study and the lack of reinforcement of knowledge outside of classmade it even more difficulti think there could have been a lot more room for interactivity during class i think that would have greatly improved attendance as well as made the class a lot less boringi also feel that there is no reason to have the class so theory based and having more homeworks would help greatly with this i think what makes northeastern cs so good is that it is so application based andthere was absolutely none of this during the course",
+                "the project was very confusing to understand what i mean by that is we had very little idea about what is actually expected of us and the scope that the instructor is looking for this was exacerbated bythe fact that we didnt have any sample project to compare to so we could understand the extent to which we should evaluate our results to match the expectations of the course",
+                "the instructor could have taught the concepts more clearly as it was like he"
+            ]
+        },
+        {
+            "question": "please expand on the instructors strengths andor areas for improvement in facilitating inclusive learning",
+            "responses": [
+                "",
+                "david is a very kind and respectful person i definitely recommend him as a professor",
+                "professor is very inclusive tries to get all students to participate actively in class",
+                "i dont think there is anything the instructor could have done to help improve inclusive learning"
+            ]
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": [
+                "",
+                "the course was very accessible online through recorded zoom lectures slides were posted for later review",
+                "it was a fun course and i learned a lot  assignments were very helpful",
+                "attending class over zoom was fine no issues",
+                "it was there",
+                "i appreciated the clear instructions on how the online components worked it wouldve been good to have an ideal solution set of some sort to understand what standards were expected",
+                "the audio was not clear in the zoom meetings and was not able to listen to the class properly since the audio was not clear"
+            ]
+        },
+        {
+            "question": "what i could have done to make this course better for myself",
+            "responses": [
+                "",
+                "taken notes consistently theres a ton of content so it wouldve been good to take notes on main ideas during lectures",
+                "attended lectures more regularly",
+                "pay more attention during the lectures attend office hours from the taprofessor",
+                "nothing really maybe payed attention to the lectures to make the midterm a little easier there really was no benefit to going to the lectures though",
+                "probably reading through the other optional textbook as opposed to just the one",
+                "study regularly the assignments midterm and final project are spaced out which is great but it requires you to study regularly on your own to keep up",
+                "i should have spent more time to study the subject"
+            ]
+        }
+    ],
+    "instructor": "Smith, David"
+}

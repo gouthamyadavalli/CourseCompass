@@ -1,0 +1,108 @@
+{
+    "crn": "30569",
+    "course_title": "",
+    "responses": [
+        {
+            "question": "what were the strengths of this course andor this instructor",
+            "responses": [
+                "",
+                "he explained complex topics well but he could have explained them a little slow",
+                "prof helped and motivated throughout the class to keep people curious throughout this intensive course",
+                "everything",
+                "the course is clear and understandable even for those who learn algorithm at the first time",
+                "it was a deep dive into algorithms it is really helpful for interviews and generally to hone your core computer science skills",
+                "herc is always enthusiastic on the class and will have some questions for students to think on the class and students can ask any questions any time on the class if they dont understand some partsbesides the lecture notes are organized very well students will learn very well based on the lecture notes and the homework question is also good",
+                "",
+                "prof tsekourakis is an enthusiastic teacher and very interested in communicating with students during lecture he provides detailed instruction and will always answer questions during lecture or online",
+                "prof tsekourakis is an interesting and fun professor",
+                "the professor was very kind and fair he is great with his explanations and encourages us to challenge his ideas to reinforce our learnings",
+                "lectures were as as good as a 35 hour lecture can get and the professor had informative slides that were often more digestible than the textbook",
+                "inclass example",
+                "great course",
+                "helped visualize the different algorithms the lectures homework book and exams were all consistent with each other",
+                "the course itself is organized very well the objectives and requirements are clear which i appreciate he always stressed reading the book and completing practice problems and these were key to doingwell in the course i also like professor herc since he always took his time to make sure everyone understood what was being presented he seems like he enjoys teaching and tries to keep the class engaged",
+                "this course doesnt require a specific program language i can use any program language in this course",
+                "good way of communicating aspects of algorithms"
+            ]
+        },
+        {
+            "question": "what could the instructor do to make this course better",
+            "responses": [
+                "",
+                "provide better resources for preparing for exams the two exams compromised 60 of my final grade and covered so much content that i wasnt sure what to study it would have been helpful to havesample exams to know what kind of questions to expect it would have also been helpful to have in class or out of class review sessions in the week leading up to the exam to ask questions and gainclarification",
+                "he could keep online recordings",
+                "post lecture notes before hand",
+                "put slides up preclass",
+                "make the lectures available online it is 2024 and classroomonly lectures only cause inconvenience as there is no way of looking back at something that was missed",
+                "maybe try to keep class size as small as possible but i think this is not the problem of instructor",
+                "recordings of lectures",
+                "i wish exams were weighted slightly less and assignments weighted slightly more",
+                "i dont think this is really on the instructor but the course content probably could have gone a bit deeper i took the course as an undergraduate student hoping that it would skip me past a lot of the basicdata structuresalgorithms you learn in high school ap cs but we ultimately spent a lot of time going over things that i would have expected a graduate class to expect preexisting knowledge ofalso grading on homework wasnt always the best though this is on the tas more than the instructor the regrade request system made it so issues could ultimately be resolved but there were many timesthat it was annoying that there was even an issue in the first place and some grading choices had me questioning the graders literacy",
+                "all good",
+                "great course",
+                "post the lecture notes before the class during oh explain concepts in a different way",
+                "the only real part of the course i would change would be to release the notes before the class lectures i find in my other classes that reviewing the notes beforehand helps me absorb the information duringclass more easily",
+                "he could give us some optional practice questions",
+                "preferably spend some more time going in depth explaining what is going on with the algorithm and make sure people understand complicated ideas"
+            ]
+        },
+        {
+            "question": "please expand on the instructors strengths andor areas for improvement in facilitating inclusive learning",
+            "responses": [
+                "",
+                "the professor used to be quite abstract at times about the concepts he was trying to explain this is subjective but having more visualizations would have really helped me score better there is a lot of selflearning involved which is good but also infeasible at times due to time constrains in general",
+                "i think my instructor is good enough",
+                "",
+                "sometimes his penmanship is hard to read",
+                "strength explanation of complex problem statements very wellimprovements could go little slow",
+                "all good",
+                "great course",
+                "he will ask us questions if we dont have any questions the questions guide us to think on different aspect of the algorithm"
+            ]
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": [
+                "",
+                "no online classes were available and the classes were not recorded",
+                "the tas were knowledgable but there was no online environment as such as the course was classroomonly",
+                "i attend to the class in person",
+                "lecture notes were uploaded on canvas and easy to access otherwise the course was taught in person",
+                "na",
+                "lecture slides were always posted to canvas and piazza made it easy to get timely answers to questions for the homework",
+                "great",
+                "great course",
+                "questions were answered at a reasonable rate through piazza",
+                "good class good professor he is strict at times but everything is fair the course followed closely with the required textbook so as long as you go to classes and do practice problems in the book you shoulddo well in this class the lectures were nice too although i might not recommend the 3hourlong section its a lot to process in one sitting overall i highly recommend his class",
+                "piazza is a good way to ask questions",
+                "piazza was good and helpful"
+            ]
+        },
+        {
+            "question": "what i could have done to make this course better for myself",
+            "responses": [
+                "",
+                "read the textbook synchronously with the class sessions",
+                "i could have attended more office hours of the ta and the professor to get my doubts clarified",
+                "maybe if the lecture notes were posted before the class itd help me to look up the prerequisites and come prepared to class",
+                "kept on track reading textbook practiced more",
+                "could have attended more classes",
+                "started early",
+                "read the text book completely but i have 4 courses this semester i could only spend time on studying the lecture notes",
+                "",
+                "keep up with the readings prior to lecture",
+                "taking the perquisites",
+                "solve the assignment on time",
+                "i could have completed studying the topics of the course right after every lecture this would have increased my understanding of that topic",
+                "probably do more homework on time the late policy made it very easy to put it off",
+                "great course",
+                "i did pretty well but i think that i shouldve started studying earlier before each test than i did i luckily gave myself enough time before the midterm to study everything but it was stressful the two testsare worth 30 each after all make sure to ask questions on piazza if you are not sure the tas or the professor will answer you quickly i also shouldve studied the textbook chapters before each class sincethe classes can often get complicated very quickly and i had to go back later to review them",
+                "i need more practice on the best and worst case of algorithm",
+                "i could solve more leetcode questions along with this course",
+                "started early on the assignments and readings",
+                "doing more textbook problems"
+            ]
+        }
+    ],
+    "instructor": "Tsekourakis, Iraklis"
+}

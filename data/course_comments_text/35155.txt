@@ -1,0 +1,74 @@
+{
+    "crn": "35155",
+    "course_title": "",
+    "responses": [
+        {
+            "question": "what were the strengths of this course andor this instructor",
+            "responses": [
+                "",
+                "thoughtful well designed classduring class the instructor goes around the class and discusses the design patterns we used in our projects and gives valuable feedback and it is great",
+                "great communication",
+                "the instructor addressed the topic clearly to the students",
+                "explaining all the concepts clearly",
+                "good course work interactive sessions and extremely helpful assignments and class activities",
+                "good java knowledge",
+                "kindness",
+                "one particular ta was bad he himself doesnt know much but expects everyone to know everything",
+                "outsidebox thinking was the best part of the professor prof focused more on learning rather than just grades it was cool",
+                "professor was very enthusiastic and willing to help anyone the course itself has a lot of freedom to explore how to complete assignments"
+            ]
+        },
+        {
+            "question": "what could the instructor do to make this course better",
+            "responses": [
+                "",
+                "na",
+                "course is already great",
+                "add an additional 12 assignments to explore more about the technologies",
+                "nothing",
+                "more clear questions in the assignemnt its better if they tell hoe they are grading",
+                "bring more challenging assignments",
+                "could have given more collaborative activities like discussion quizzes that may be done in groups"
+            ]
+        },
+        {
+            "question": "please expand on the instructors strengths andor areas for improvement in facilitating inclusive learning",
+            "responses": [
+                "",
+                "the inclass activities even though they are small add up in the end and they are very useful covering the design patterns and stuff one at a time",
+                "instructor set clear norms and commitments for student interaction contribute to a respectful supportive and productive learning environment",
+                "i found the instructor to be extremely helpful and the instructor provided us with interactive assignments adding more such interactive assignments would help students more in the future",
+                "well knowledged friendly and supportive of our ideas",
+                "strengths focusing more on learning",
+                "na"
+            ]
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": [
+                "",
+                "great experience",
+                "it was an extremely good experience and i got to learn a lot of new techniques and technologies the lectures were pretty interactive and provided an opportunity to learn and collaborate with other people",
+                "great",
+                "it is okay",
+                "it was a good experience i learned a lot",
+                "na"
+            ]
+        },
+        {
+            "question": "what i could have done to make this course better for myself",
+            "responses": [
+                "",
+                "i did well in this course and i am extremely happy with that",
+                "i could do more research about other programming paradigm that wasnt taught in class and practice using these programming paradigms",
+                "i could have done more projects using different design patterns",
+                "i could have devoted more time which would have helped me more during the course period",
+                "could have spent more time on assignments",
+                "be more interactive in class",
+                "could have included coding more",
+                "allocating more time regularly instead of sudden bursts of time and energy"
+            ]
+        }
+    ],
+    "instructor": "Dym, Brianna"
+}

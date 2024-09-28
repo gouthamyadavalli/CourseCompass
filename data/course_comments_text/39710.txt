@@ -1,0 +1,91 @@
+{
+    "crn": "39710",
+    "course_title": "",
+    "responses": [
+        {
+            "question": "what were the strengths of this course andor this instructor",
+            "responses": [
+                "",
+                "i really liked how prof lama taught she is a very dedicated teacher and took into account our feedback",
+                "the weekly course plan is well designed",
+                "the pre quiz part is good to encourage student to think and get prepared  and the course has covered many topics and very challenging can help us prepare for future studies and job interview professoris very nice and prepared to teach",
+                "na",
+                "the course material is challenging and the professor helped break down a lot of information for us to understand it better",
+                "the contents are well organized",
+                "good patience",
+                "good grasp of everything needed for the course",
+                "patient professor and great teaching method",
+                "professor lama explains content in detail",
+                "na",
+                "care about student actual learn from courses"
+            ]
+        },
+        {
+            "question": "what could the instructor do to make this course better",
+            "responses": [
+                "",
+                "i honestly think the prof did teach everything perfectly",
+                "maybe she can publish the answer after grading the problemset to hlep students understand whats wrong",
+                "i dont like professor calls on students to answer questions during class",
+                "the problem sets are challenging and sometimes doesnt has sufficient materials to support the completion or thinking and the math takes a great portion of the problem set if the course can give morecredits for leetcode problems and analyze those problem that associated with textbooks lectures that will be even more helpful for students",
+                "na",
+                "optional quizzes before the class to help us study and get an understanding of what we dont understand that way during class we can ask questions and can prepare better for actual quizzes andassignments",
+                "lecture is mostly repeating what ive already learned in reading",
+                "good",
+                "moving outside the module quizzes and teaching beyond the concepts in coursework",
+                "the homework the two tests the seminar presentation and the final project are too much for me",
+                "maybe workload can be more balanced",
+                "na",
+                "less discussions about easy question"
+            ]
+        },
+        {
+            "question": "please expand on the instructors strengths andor areas for improvement in facilitating inclusive learning",
+            "responses": [
+                "",
+                "i like how the prof creates a environment of learning i still remember in the first lecture maam brought cards to teach us insertion sort being able to picture what was happening made it very easy for meto understand it i really enjoyed studying this course and would love to take more course under prof lama",
+                "professor is very nice and knowledgeable if we could focus more on leetcode questions and let us discuss  solve those questions with what we learned that will be more helpful",
+                "na",
+                "include more content in lecture thats not in reading",
+                "the weekly course plan is well designed",
+                "good",
+                "great",
+                "na"
+            ]
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": [
+                "",
+                "sometimes the online recording are not very clear or the lines are too small",
+                "good i can get recording for this course",
+                "good good",
+                "na",
+                "good",
+                "good",
+                "na",
+                "great"
+            ]
+        },
+        {
+            "question": "what i could have done to make this course better for myself",
+            "responses": [
+                "",
+                "i could have practiced more questions but i did get to learn a lot and i am now able to successfully use my knowledge to solve questions",
+                "i live too far away from the campus about 1 hrs  so i cant attend this class in person frequently i always go through the materail via the recordings on canvas",
+                "do more leetcode",
+                "i would spend more time to learn graph theory and practice more leetcode problems and i would ask ta more often and discuss questions instead of spending hours to figuring it out sometimes myunderstanding was wrong",
+                "spend more time",
+                "work through the course material and ask more questions",
+                "i think i did good enough",
+                "none",
+                "self study of courses taught in class",
+                "understand the algorithm with more coding",
+                "solve leetcode problems",
+                "na",
+                "practice more actual algorithm in reality"
+            ]
+        }
+    ],
+    "instructor": "Hamandi, Lama"
+}

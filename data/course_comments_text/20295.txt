@@ -1,0 +1,51 @@
+{
+    "crn": "20295",
+    "course_title": "",
+    "responses": [
+        {
+            "question": "what were the strengths of this course andor this instructor",
+            "responses": [
+                "",
+                "the instructor was knowledgeable about the subject matter",
+                "hes very knowledgeable and friendly the worktime provided in lecture is valuable and greatly appreciated wish tas were available during that work time to ask other questions to but they are also veryhelpful during office hours"
+            ]
+        },
+        {
+            "question": "what could the instructor do to make this course better",
+            "responses": [
+                "",
+                "a better plan of instruction adjusting the approach when it is obvious that most people are not grasping the subject matter focus on students learning instead of just focusing on trying to cover as muchmaterial as possible with no one grasping it",
+                "it would be nice for people with strict obligations outside of class to not have a punitive approach to attendance stream and record your lectures come with lecture slides prepared that you made yourself and posted before lecture begins so people can follow along and so that you are familiar with the exact packagesimplementations the studentswill need to interact with to avoid issues with versionsyntax changes maybe dont threaten students with spontaneous quizzes at the end of lectures to ensure people stay the whole time dont doubleup on assignments during the holidaysschoolbreaks because people are very busy and effectively lose their time for a break if given more homework during itmore generally though it would have been nice if the professor taught us how to write test files and had a homework dedicated to learning that skill reduced the pace of material introduction  hw was able to get grades posted quicker"
+            ]
+        },
+        {
+            "question": "please expand on the instructors strengths andor areas for improvement in facilitating inclusive learning",
+            "responses": [
+                "",
+                "the passion for experiential learning is great but this is not experiential learning experiential learning needs more flexibility to adapt to the needs of the students this was instead more of a learn on yourown but with an impossible deadline there wasnt the time available to learn before we moved on to the next topic"
+            ]
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": [
+                "",
+                "good"
+            ]
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": [
+                "",
+                " generally has been stressful and felt worse and worse each week attending the class this is a stark contrast to my other course that im taking here it feels like we are teaching ourselves everything and are expected to have foundational knowledge to help us navigate the doitourselves style of homework and if we dont have that expectedknowledge then we have an additional lesson incidentally thrown into our lap that we have to deal with if you dont find the time to teach yourself that thing now you are fundamentally behind on eachfuture assignment for students who are taking a significant financial risk in participating in this program this aspect is extremely frustrating ive had the hardest time trying to just keep up because the pace in which material is introduced in lecture with seemingly no time to properly absorb or learn the topic is incredibly fast theres seemingly no consideration for students with obligationsresponsibilities outside of class the pace of material exacerbates the stress produced from having less time to decompress between worksessionsother obligations while technically i learned a lot i strongly feel that the means to have learned what i have dont justify the ends i definitely feel like there is a higher quality of this same education to be had elsewhere andits frustrating to feel this way"
+            ]
+        },
+        {
+            "question": "what i could have done to make this course better for myself",
+            "responses": [
+                "",
+                "taken this course with as my only course and had a background already in the subject"
+            ]
+        }
+    ],
+    "instructor": "Veliz, Oscar"
+}

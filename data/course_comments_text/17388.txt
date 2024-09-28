@@ -1,0 +1,85 @@
+{
+    "crn": "17388",
+    "course_title": "",
+    "responses": [
+        {
+            "question": "what were the strengths of this course andor this instructor",
+            "responses": [
+                "",
+                "none the instructor is a ghost",
+                "as the course was asynchronous online i didnt feel the sense of class setting",
+                "the strengths of this course are that it covered a broad range of topics and made students think about algorithms in a more mathematical way",
+                "professor kennedy seems like a nice guy its a lot of work but the grading seemed easy",
+                "the format of the course with videos and short quizzes and then hw that allowed us to apply that weeks material to problems was helpful the numerous tas with varying hours was helpful",
+                "complex problem sets",
+                "the teaching slides are concise and provide good directions for self learning the extracurricular materials are helpful and the problem sets are well designed to let us think about the algorithms fromvarious perspectives",
+                "na",
+                "this courses strength is saving alot peoples time and the top itself is good enough it gives a good structure for us to get our hands on the topics and problems and there are people learning based on thisstructure got jobs therefore i believe the potential of the topic structure",
+                "instruction was very well organized",
+                "his ability to demonstrate complex material"
+            ]
+        },
+        {
+            "question": "what could the instructor do to make this course better",
+            "responses": [
+                "",
+                "too much to list",
+                "some flexibility in the release of course content so that we can plan our study sessions better",
+                "this was the worst course i have ever taken at northeastern as i said in the strength professor kennedy is a nice person but doesnt teach anythingthe videos are from another professor and are only 10 minutes each for very advanced topics professor kennedy doesnt grade the tas did i dont understand why he was paid for this course he held aweekly lecture that was usually an hour long where he simply went over the same slides as the module videos no additional context they were a waste and most people stopped watching themthe worst part was when you ask the professor a question about a homework assignment he wouldnt answer he wanted you to provide justification when turning in your homework as to what youassumed the problem may have been asking this guy is the worst professor at this schoolavoid at all costs you will spend 99 of your time on youtube or taking a coursera course to actually learn",
+                "the instructor could work on value add with his teams comments and the intro video he made each week for the video he often seemed to go over the slides directly which is what the course videos do sothey were not helpful",
+                "more space for project and deleting the homework for last two modules",
+                "it was hard to find the tas office hour schedule and there was no feedback on which parts of the assignment solutions were wrong it would be better to provide a dropin office hour schedule of tas andmore feedback when grading assignments",
+                "make it more lively or communicative sessions live classes",
+                "the best way to make this course better for the instructor is leave this position immidiately this instructor is not good at helping students with close followups and not able to handle large group ofstudents there are nearly no interactions or office hours and students has great difficuties finding him for questions what makes things worse he does not follow his own rules on grading my suggestion ishe could be perform better on small groups on special topics but not courses like this we all can feel this course is killing him and us",
+                "the course videos are quite rushed with some examples not really getting the depth they probably need for instruction external content was needed",
+                "change the due time for first two assignments and quizes",
+                "my experience in this course was challenging due to the complexity of the subject compounded by the limitations of an online format while navigating this course i sought guidance and clarification onseveral occasions hoping to solidify my understanding my attempts to confirm my comprehension of the material were denied responses from one of the tas which left me feeling confused anddisappointedfurthermore the responses provided to students seeking clarification on homework questions or topics often boiled down to a nonresponse read the instructions this approach felt insufficient anddiscouragingencouraging a more interactive and supportive environment during office hours and in responses to questions would benefit students striving to grasp this challenging subject matter i hope that futureiterations of this course consider these aspects to provide a more enriching learning experience",
+                "for complex algorithms if instructor can explain with more examples or more detailed examples it would be even better"
+            ]
+        },
+        {
+            "question": "please expand on the instructors strengths andor areas for improvement in facilitating inclusive learning",
+            "responses": [
+                "",
+                "this is the first time i felt a course is a waste of my time and money i learned almost nothing from this professor or this course the professors interaction with students is minimal impacting the learningexperience and he makes everything very difficult for students ta office hour is not clear on teams regrading need to send a report that even takes more time than the homework itself the syllabusdoesnt match the course material too much to list please check all his wired setting for the class the course materials particularly the videos and slides are bad they primarily consist of reading offslides which is not effective for deep learning especially in an algorithm class where critical thinking and detailed explanations are crucial i am very disappointed",
+                "online engagement through teams was decent",
+                "1 make your own module videos2 provide actual feedback to students and answer their questions",
+                "there is a lot of opportunity for the live professor to add value to the course",
+                "the instructor did a good job on wellorganized teaching materials it would be better if more details about the application examples are given",
+                "na",
+                "i guess professor kennedys strength could show up once he found relaxed with small group of people without dumb questions there is no chances for him creating an inclusive learning at this scale he isnot capable of this but on small groups maybe there could be a chance"
+            ]
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": [
+                "",
+                "overall the course set up for online learning was to be expected with use of microsoft teams and recorded video lectures",
+                "the format of the class was good but the videos presented were often not helpful and the instructor added little value to the class",
+                "the online course provides a great convenience to the students the study schedule is flexible and fits our practical needs it is okay to find the team members through the teams platform however it isharder to ask for the help of tas than inperson environment",
+                "this was the worst 7000  i have ever spent in my life",
+                "the overall experience of this course does not meet my expectations for online learning environment im now enrolling other institutions online sessions and i have to say this course is not as good as otherinstitutions programs it is not worth it i can see the material from ravi is in good alignment with his homeworks but those topics are disaligned with todays instructors teach and assignments the gapbetween the learning material and assignments are causing a lot trouble among the students"
+            ]
+        },
+        {
+            "question": "what i could have done to make this course better for myself",
+            "responses": [
+                "",
+                "some more challenging tasks",
+                "i could have given myself more time to find outside resources to fully understand the topics we arent given all the knowledge we need to complete the assignments from the short 58 minute videos so weneed to find other resources to guide our learning",
+                "started using youtube videos sooner",
+                "na"
+            ]
+        },
+        {
+            "question": "what i could have done to make this course better for myself",
+            "responses": [
+                "",
+                "could not have taken the course",
+                "i made this course better for myself by taking the source of what this course is coming from it is a shame that this courses second half is borrowing examples from kevin waynes cos423 without goodexplain therefore i went for their help as a formal educator i know it could be painful to make transitions to online asychronized learning i totally understand and accept flawwed product but this onlinesession as a core course i cant bear it it is ruining the reputation of this program a good course does not need to teach everything but at least it needs to provide a motivation for students so even theyleft with an f as long as they are still interested in the algorithms they will be back and ultimately be good at it it is a shame for a course tells me not how hard the course could be but how hard the life couldbe please dont drive away your student to other classrooms thanks to what happened to this session",
+                "more focus on the project"
+            ]
+        }
+    ],
+    "instructor": "Kennedy, Justin"
+}

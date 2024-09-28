@@ -1,0 +1,69 @@
+{
+    "crn": "20450",
+    "course_title": "",
+    "responses": [
+        {
+            "question": "what were the strengths of this course andor this instructor",
+            "responses": [
+                "",
+                "very good and passionate instructor",
+                "taking this course is quite helpful for me to do leetcode",
+                "the passion on the class",
+                "none",
+                "ryan is very passionate about teaching he is very good at teaching and he really makes an effort as a student id like to thank him for being such an incredible teacher",
+                "excellent lecture",
+                "ryan is very dedicated in preparing the lessons homework problem sets and additional learning materials",
+                "very helpful"
+            ]
+        },
+        {
+            "question": "what could the instructor do to make this course better",
+            "responses": [
+                "",
+                "all good",
+                "perhaps cancel the midterm exam",
+                "make the calculate and chat independently practice the calculate firstly once we know ts better we can work on the chat function",
+                "none",
+                "i wish we had precourse videos instead of reading the textbook because i find the textbook incredibly hard to readunderstand videos are the other hand would be more straightforward",
+                "no midterm exam",
+                "this semester we encountered several public holidays which had some impact on the original course schedule it would be even better if we could explore more after the topics of greedy and graph sincethose contents have already been covered in course cs 5008"
+            ]
+        },
+        {
+            "question": "please expand on the instructors strengths andor areas for improvement in facilitating inclusive learning",
+            "responses": [
+                "",
+                "",
+                "the lecture is very clear",
+                "good"
+            ]
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": []
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": [
+                "",
+                "the videos are good",
+                "its good",
+                "good",
+                "none",
+                "perfect"
+            ]
+        },
+        {
+            "question": "what i could have done to make this course better for myself",
+            "responses": [
+                "",
+                "all good",
+                "prepare in advance",
+                "practice ts",
+                "none",
+                "do more previews before coming to class"
+            ]
+        }
+    ],
+    "instructor": "Rad, Ryan"
+}

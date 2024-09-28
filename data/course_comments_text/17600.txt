@@ -1,0 +1,64 @@
+{
+    "crn": "17600",
+    "course_title": "",
+    "responses": [
+        {
+            "question": "what were the strengths of this course andor this instructor",
+            "responses": [
+                "",
+                "reading and quizzes were very help in learning material and coming into class prepared a strength of this is the lecture set up lectures styles is is very helpful in correcting quizzes and learning moreinformation related to it",
+                "lama is my favorite professor so far and i have no complaints whatsover about her  she is always organized communicative friendly and understandablehowever i dont exactly see the point of having 5008 and 5800 at the same time  there is so much overlap of knowledge between the two i think we should cover more content on 5800 that was not taughtin 5008 or more leetcode exercise etc to make this course more useful to be fair this course was not nearly as challenging and rewarding as 5008 because so much of 5800 is already covered in 5008",
+                "fair and kind to every student",
+                "the absolute best professor at the sf campus she is so dedicated to the students learning it is amazing to seegets students to participate in class gives good amount of assignments to learn but also not too much that it overwhelms students",
+                "topic are explained very clearly",
+                "professor hamandi is extremely helpful when answering questions and would only continue lecture after knowing that everyone is on the same page and understands the topic being covered she alsomade the classroom setting comfortable leading me to be able to askanswer questions without feeling embarrassed she also used class time effectively with a mix of lecture inclass activities andrecitation activities"
+            ]
+        },
+        {
+            "question": "what could the instructor do to make this course better",
+            "responses": [
+                "",
+                "instructor did well in everything",
+                "i think lama did a great job as always i just hoped we learned more new topic in this class over 50 of the course is reviewing things we already laerned in 5008",
+                "more leetcode style question in assignmentsmore regularly instead of 2 prog sets",
+                "all good",
+                "i think the course is great and goes at a manageable pace the assignments are also fair and there are lots of office hours"
+            ]
+        },
+        {
+            "question": "please expand on the instructors strengths andor areas for improvement in facilitating inclusive learning",
+            "responses": [
+                "",
+                "this is my second course with professor hamandi her teaching is the best i have come across her lectures are structured very well she does in great job in ensuring that all students are following alongshe dissects complex topics and explains them very well to first time users i would 100 take all her courses if given the chance",
+                "she is organized keeps the course engaging communicative friendly",
+                "the workload is a little big",
+                "very inclusive",
+                "all good",
+                "i felt comfortable in this class due to the small class size and ability to askanswer questions at any point i never felt like i could not ask a question regardless of how simple it was professor hamandi fostersa very inclusive learning environment and is always willing to take time to help us through questionsassignments"
+            ]
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": [
+                "",
+                "all material online was very helpful it helped me feel prepare for class and to come in with any question",
+                "the course was very well organized on canvas which i liked",
+                "perfect",
+                "online zoom recordings were always posted on time",
+                "good experience"
+            ]
+        },
+        {
+            "question": "what i could have done to make this course better for myself",
+            "responses": [
+                "",
+                "stay on track with readings",
+                "more attentive at lecture sometimes i get distracted by things on my laptop",
+                "study the online materials after class",
+                "i definitely could have been more diligent at reviewing the materials after each class to make sure i am understanding the material before moving onto the next module",
+                "i could have spent more hours to have a better understanding of the algorithms i wish i had more time to solve more algorithm problems"
+            ]
+        }
+    ],
+    "instructor": "Hamandi, Lama"
+}

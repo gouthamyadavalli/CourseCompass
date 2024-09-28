@@ -1,0 +1,59 @@
+{
+    "crn": "40214",
+    "course_title": "",
+    "responses": [
+        {
+            "question": "what were the strengths of this course andor this instructor",
+            "responses": [
+                "",
+                "class and homework are of great quality",
+                "the structure of this course is clear",
+                "the instructor has excellent ability to clearly explain the algorithm using whiteboard",
+                "i am extremely lucky that i got into this class with all the waitlist instructor sun zhifeng provides the algorithmic thinking that is not available outside the class he is extremely knowledgable when it comes todata structures and algorithms and provides indepth analysis that helps us remember what we have learnt"
+            ]
+        },
+        {
+            "question": "what could the instructor do to make this course better",
+            "responses": [
+                "",
+                "record lessons to facilitate the review process",
+                "give more examples for homework",
+                "if the recording could work for every class it will be fantastic",
+                "i wish he provided additional notes as well his current way of teaching is excellent though some notes can make it more effactive"
+            ]
+        },
+        {
+            "question": "please expand on the instructors strengths andor areas for improvement in facilitating inclusive learning",
+            "responses": [
+                "",
+                "great class with useful class content",
+                "improve recording",
+                "the instructor is doing fine for this class"
+            ]
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": [
+                "",
+                "good"
+            ]
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": [
+                "",
+                "good"
+            ]
+        },
+        {
+            "question": "what i could have done to make this course better for myself",
+            "responses": [
+                "",
+                "summarize the key knowledge conveyed in class",
+                "take more time to do homework",
+                "well if the curriculum could be normal the last two week of curriculum is too intense as 2 assignments following a quiz is a bit overloading"
+            ]
+        }
+    ],
+    "instructor": "Sun, Zhifeng"
+}

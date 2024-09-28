@@ -1,0 +1,50 @@
+{
+    "crn": "20448",
+    "course_title": "",
+    "responses": [
+        {
+            "question": "what were the strengths of this course andor this instructor",
+            "responses": [
+                "",
+                "none",
+                "class materials were well explained",
+                "the coding examples presented in the course are very good i often go back and look at these examples on github when i forget how to do certain operations"
+            ]
+        },
+        {
+            "question": "what could the instructor do to make this course better",
+            "responses": [
+                "",
+                "dont cover too many things hardly able to remember anything or reduce the complexity of the assignments"
+            ]
+        },
+        {
+            "question": "please expand on the instructors strengths andor areas for improvement in facilitating inclusive learning",
+            "responses": [
+                "",
+                "dont cover too many things hardly able to remember anything or reduce the complexity of the assignments"
+            ]
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": [
+                "",
+                "hardly learn anything"
+            ]
+        },
+        {
+            "question": "what i could have done to make this course better for myself",
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "question": "what i could have done to make this course better for myself",
+            "responses": [
+                "",
+                "i should have started my project early"
+            ]
+        }
+    ],
+    "instructor": "Penarrieta, Cristian"
+}

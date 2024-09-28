@@ -1,0 +1,64 @@
+{
+    "crn": "37894",
+    "course_title": "",
+    "responses": [
+        {
+            "question": "what were the strengths of this course andor this instructor",
+            "responses": [
+                "",
+                "compared to other courses this one was very organized and detailed in the syllabus weekly modules and expected deliverables",
+                "prof kennedy is willing to help me whenever i have trouble in this course his help is very important for me to achieve my learning goal in this course",
+                "online courses easy to access anytime",
+                "the time that i get due to it being online i am able to spend my time more effectively managing things"
+            ]
+        },
+        {
+            "question": "what could the instructor do to make this course better",
+            "responses": [
+                "",
+                "provide more pdf content rather than word based formats i often had to convert ppt slides to pdf to interact with them",
+                "i think a bit more of livetime interaction with the professor and other students will make this course more interesting",
+                "nothing",
+                "maybe create their own material which relate a lot more to the assignments kind of felt a disconnect between assignment and materials given",
+                "the course was taught in form of recorded videos by another professor there could have been a proper zoom session by the courses professor for 34 hours a week to go over the topics and explain themin a better way"
+            ]
+        },
+        {
+            "question": "please expand on the instructors strengths andor areas for improvement in facilitating inclusive learning",
+            "responses": [
+                "",
+                "i was able to answer all assignments using python rather than straight math as other algo teachers have required i am most comfortable demonstrating my knowledge and understanding of the material inpython rather than math proofs for me math proofs are akin to writing in a language i dont speak fluently i appreciate the ability to use the language and format that enables me to most accuratelyexpress my understanding of the material especially given that the course is a computer science course",
+                "i dont think there is much to do",
+                "online course is nice"
+            ]
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": []
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": [
+                "",
+                "this course was very organized which helped me to prioritize both my coursework and my workwork while i didnt have many interactions with my professor i did feel as though he was always available",
+                "i think it is good enough nothing too fancy everything is as expected",
+                "good",
+                "expected the professors own course content rather than depending on prof ravi sundarams course so was disappointed in that aspect",
+                "easily one of the poorer course preparations ive ever seen the videos provided does not explain the concepts well enough always need to learn from outside sources",
+                "great"
+            ]
+        },
+        {
+            "question": "what i could have done to make this course better for myself",
+            "responses": [
+                "",
+                "not wait until last minute to do the modules",
+                "not have to work full time while in school full time although i still did pretty damn good given this",
+                "i think i should some leetcode problems to enhance my understanding on the course materials",
+                "nothing",
+                "procrastinate less as the class was very nicely structured and if i spread out the contents over the week it was much more simple compared to doing it all in 3 days of the week"
+            ]
+        }
+    ],
+    "instructor": "Kennedy, Justin"
+}

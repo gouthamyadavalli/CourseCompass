@@ -1,0 +1,58 @@
+{
+    "crn": "21011",
+    "course_title": "",
+    "responses": [
+        {
+            "question": "what were the strengths of this course andor this instructor",
+            "responses": [
+                "",
+                "cristian is very kind and helpful to the students",
+                "the topics of his course is quite helpful and usefulif u want to get a job u need to take this course",
+                "openness clarity",
+                "examples of implementation through code walks were very helpful instructor is super knowledgeable in fullstack development",
+                "its not easy for students who has never studied web to learn these web knowledges so i always have a lot of questions even though the class materials helped me a lot everytime i asked cristian questionson teams he always responds me warmly and helpfully he is a good teacher"
+            ]
+        },
+        {
+            "question": "what could the instructor do to make this course better",
+            "responses": [
+                "",
+                "nothing he is perfect",
+                "expand the sections on deploying and explore those in a lot more depth different options their perks deploying different scales of projects deploying scalable things etc deploying to droplets aws vpsetc",
+                "align learning with industry use cases and reduce pace early on to accommodate classroom based exercises"
+            ]
+        },
+        {
+            "question": "please expand on the instructors strengths andor areas for improvement in facilitating inclusive learning",
+            "responses": [
+                "",
+                "he is very nice and kind and he records every class so u can watch these records many times until u fully understand"
+            ]
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": [
+                "",
+                "good course a lot of overlap with 5500feels like final 2030 of the course could be stretched to be the latter 50 and first 7080 condensed into the first 50",
+                "it was well structured and materials were useful and deep to cover basic requirements i particularly appreciated how the instructor grouped what was urgent for immediate consumption and what wasoptional although as always theres no enough time to really delve deep into the learning",
+                "very good",
+                "a really great experience online resources each week was organized well professor christian is also patient and willing to help with solving problems"
+            ]
+        },
+        {
+            "question": "what i could have done to make this course better for myself",
+            "responses": [
+                "",
+                "nothing",
+                "i could have tried completing a preparatory course that would align with the classroom learning it was just so fast paced when it got to react"
+            ]
+        }
+    ],
+    "instructor": "Penarrieta, Cristian"
+}

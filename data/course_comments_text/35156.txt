@@ -1,0 +1,104 @@
+{
+    "crn": "35156",
+    "course_title": "",
+    "responses": [
+        {
+            "question": "what were the strengths of this course andor this instructor",
+            "responses": [
+                "",
+                "the material is fun and the overall pace was good and interesting the professors enthusiasm for the content was good to see",
+                "enthusiastic nice knowledgeable",
+                "the professor makes the classes exciting and teaches all topics in depth he makes sure everyone has clear understanding of the course the updated assignments used in this semester were very helpfulas they focused more on ai algorithms rather than coding knowledge",
+                "you can see his passion for the subject and the way he teaches the subject reciprocates that passion itself in his teaching and he keeps the class actively engaged student actively participate and learn aswe are going through the class",
+                "the instructor interacts actively with students in class and online creating a positive learning atmosphere",
+                "professor amato has a lot of enthusiasm for the subject and that comes through in his inflection and tone during lecturesthe course covers the necessary curriculum needed to understand the basics of ai and goes through it in a logical flow that builds concepts on top of each other the curriculum is basically identical to theberkeley cs188 course which is outstanding",
+                "the professor is very passionate",
+                "communication and knowledge",
+                "clear and organized",
+                "very nice lectures and having them recorded makes all the difference being able to rewatch something to understand a concept is invaluable",
+                "super interesting content going through the atari rl games was super fun",
+                "materials and assignments",
+                "it provided basics of ai and its origin the instructor had indepth knowledge in this domain",
+                "professor is very supportive and considerate to students",
+                "the professor seemed very excited to teach this course"
+            ]
+        },
+        {
+            "question": "what could the instructor do to make this course better",
+            "responses": [
+                "",
+                "more examples do the calculations on the board for more complex problems the last midterm was too long for the time that was given it could be made slightly shorter",
+                "midterm 2 was a bit too difficult although the grades were curved the wait until i got my results was brutal",
+                "the assignments could be split and be provided on weekly basis as towards the end the assignment weightage increased",
+                "keep exam simple as assignment",
+                "design the assignments and exams with tas more carefully since they are too hard for most students and contain many bugs which waste our time to figure them out",
+                "make clearer slides some slides are just bogged down by math and extra informationlet the students apply what we learned there was barely any coding in this course to see the fruits of our ai education homework assignments were centered around theory with written solutions andfilling out outcomes of methodsalgorithms which is still helpful but it only goes so far for our brains and our resume if we dont learn how to do anything practical in ai then our knowledge will just pass overour heads",
+                "maybe reduce workload",
+                "reduce the syllabus to make it less overwhelming",
+                "more support materials",
+                "the new hws had some errors and that increases the time required to do them accounting for that with extended deadlines might be helpfulalso need a lot more office hours",
+                "go over more concrete examples showing the specific math steps",
+                "need to better grasp the key idea in lecture need more examples to explain the concepts",
+                "reduce reinforcement learning material and and more on supervised learning",
+                "develop more online office hour like zoom to help more students to slove their problems",
+                "pace the course betterthe first exam covered very little and was made very simple which left us a ton of material to cover for the second exam on top of multiple long homework assignment on top of a large project the end ofthe semester was incredibly stressful and felt a little like we were being punished for the professor not pacing the class correctly"
+            ]
+        },
+        {
+            "question": "please expand on the instructors strengths andor areas for improvement in facilitating inclusive learning",
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "question": "please expand on the instructors strengths andor areas for improvement in facilitating inclusive learning",
+            "responses": [
+                "",
+                "the instructor is very good and helps clear doubts of each and every student",
+                "he is very proficient with the subject material and the concept itself nothing to improve on",
+                "the instructor displayed enthusiasm for the course and facilitated a respectful and inclusive learning environment",
+                "the instructor was not optimal and needs more training a little ml joke for you chrispeople were often lost in class due to a lack of clarity of walking through concepts during lectures and for explaining vague wording in the homework problems there was deafening silence in class when hewould ask questions because he was not good at breaking down the material for students who dont have the same mental connections as someone who has phd in this fieldhe was too lazy to check homework assignments that he took from professor raj venkat and we suffered from typos and vague wording all the time which made the homework less effective for learninghe was an absent father in piazza along with most of the tas but even they showed up more than he did overall there was low accountability for the tas to actively help students so we would often have torepeatedly post or bump posts in piazza there were huge logistical oversights not using the khoury office hours sandbox website to conduct queuestyle office hours online chris not booking rooms foroffice hours tas moving office hours frequently or just not being present it was a nightmare to get the support you needed and after talking with my peers a lot of us just relied on each other and selfstudied berkleys materials its crazy that without berkleys online cs188 content i wouldve failed the course its even crazier that im paying thousands of dollars for lower quality education to teachmyself everything online from another school anyway some professors are just meant for research and not for teaching and chris amato is definitely one of them chris one could say you overfit theresearch environment and can not generalize enough to do well teach in the testing environment the classroom another ai joke womp womp",
+                "the workload is kind of heavy make sure you have time to handle this course",
+                "professor communicated really well during class",
+                "practice exam",
+                "doing interactive exercises in class was great having people work together to solve some problems",
+                "ta anurag is rude and disrespectful",
+                "good way of teaching friendly and receptive",
+                "the professor seemed very interested in teaching but i often found him a little condescending he would often treat students questions as elementary and make it seems like it was strange that the studentasked the question in the first place he also made a comment after an exam that many people struggled with about how easy he made the exam which felt rude and unnecessary"
+            ]
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": [
+                "",
+                "it was good",
+                "coding assignments were fun sometimes instructions were a bit unclear but i enjoyed them",
+                "na",
+                "the instructor tas and students are very active in discussing and answering questions",
+                "na",
+                "the professor would go to a conference and we would have recorded lectures which is almost impossible to foster a sense of community and interactivity",
+                "good",
+                "the course is designed really well but at the same tine it contains too much it is difficult for a student whos studying ai for the first time to keep up with the speed of teaching this made course littleoverwhelming",
+                "great"
+            ]
+        },
+        {
+            "question": "what i could have done to make this course better for myself",
+            "responses": [
+                "",
+                "more examples and more advanced problems done in the class itself",
+                "prep more for lectures",
+                "started preparing for exam 2 sooner",
+                "time management towards the end is the key",
+                "read course textbook  learn the maths",
+                "learn more content from the textbook and other online materials the instructor recommended",
+                "na",
+                "i did the best i could and pretty sure i got an a down below i put i learned a lot from this course allow me to clarify that was because of my own initiative to teach myself the material",
+                "extraaaa effort",
+                "i could have practiced problems and codes little more than i did",
+                "more materials"
+            ]
+        }
+    ],
+    "instructor": "Amato, Christopher"
+}

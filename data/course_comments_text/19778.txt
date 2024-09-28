@@ -1,0 +1,65 @@
+{
+    "crn": "19778",
+    "course_title": "",
+    "responses": [
+        {
+            "question": "what were the strengths of this course andor this instructor",
+            "responses": [
+                "",
+                "very enthusiastic",
+                "dr socha specialize in math so it does provide some advantage in lecturing the math part",
+                "gives great resource materials",
+                "shes the kindest professor ive ever met i strongly believe that she did all she could to teach the course as effectively as she could i have a lot of respect for the amount of effort that she had put into thecourse always trying to be helpful and cheerfulalso i really loved the way she evaluated me she gave me a lot of detailed and very useful feedback which helped me to improve my understanding of what i was tested upon she was more than willing toreiterate on a concept being taught in class if i or any of my other peers werent able to understand it though i have a",
+                "professor really patient in solving problem",
+                "really helpful and kinda teacher open to helping each student by how much they need",
+                "i had to do a lot of self learning for the assignments instructor is really good at math concepts"
+            ]
+        },
+        {
+            "question": "what could the instructor do to make this course better",
+            "responses": [
+                "",
+                "better organization of classroom content and syllabus",
+                "however algorithm course in cs major is not only about math but also about coding adding more helpful skills from coding side will helps a lot",
+                "1 please fix the technical issues and organize the canvas so that everything is in the right place2 please provide grades on time3 please use only one textbook for the course as students we spend 60 on an online required book and only use it 23 times the entire semester therefore kindly choose one of the following textbookscormens book dasguptas book or kleinbergtardos book",
+                "the instructor should focus a lot on stepping through whats being taught in class and covering the syllabus instead of spending a lot of time on trying to nudge the class towards the solution though intheory it sounds good in practice it just results in a lot of class time being wastedproblem sets were extremely difficult and frustrating to solve now i understand that as a masters level student i am expected to learn some concepts on my own and that the professor is not expected toteach every single thing in the syllabus but several problem sets included a lot of content that was not even mentioned in the class at all and that made it extremely difficult to complete themi strongly believe that that the structure of the course is to be blamed here i believe that the professor did everything that she could to help us go through this syllabusthis entire course was structured very poorly and i am beyond disappointed it felt like the course aimed to cover different topics just for the sake of covering it there was no structure to this course at alland it felt like we kept jumping from one concept to another in a haphazard manner the only reason as to why i was able to cope up with this course was because of the fact that i had previously some priorknowledge about some concepts that were taught in this course i could not imagine myself taking this course without the prior knowledge that i had",
+                "could make the teaching plan more organized",
+                "sometimes lectures were a little too surface level for the work asked of us in problem sets",
+                "i feel the course could have been more organized in terms of the material we followed and topics which were covered in the class"
+            ]
+        },
+        {
+            "question": "please expand on the instructors strengths andor areas for improvement in facilitating inclusive learning",
+            "responses": [
+                "",
+                "reduce the emphasis on certain mathematical aspects and incorporate more content related to algorithm improvements and applications",
+                "",
+                "none"
+            ]
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": [
+                "",
+                "nice",
+                "however the composition of the material is somehow chaotic",
+                "not applicable",
+                ""
+            ]
+        },
+        {
+            "question": "what i could have done to make this course better for myself",
+            "responses": [
+                "",
+                "more practical experience in algorithm implementation",
+                "do more algorithm problems",
+                "i could done some prep work before each class",
+                "",
+                "do some exercises",
+                "more consistently used modules",
+                "spent more time coding but i was not able to manage my time effectively"
+            ]
+        }
+    ],
+    "instructor": "Socha, Katherine"
+}

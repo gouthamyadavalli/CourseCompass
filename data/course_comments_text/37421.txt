@@ -1,0 +1,67 @@
+{
+    "crn": "37421",
+    "course_title": "",
+    "responses": [
+        {
+            "question": "what were the strengths of this course andor this instructor",
+            "responses": [
+                "",
+                "progression of toolslanguages built off one another in a way that made it easy to learn and expand skillset",
+                "this course teaches you true web development",
+                "very knowledgeable and enthusiastic eager to help students debug code and talk through any blocks in understanding",
+                "one of the key strengths of this course was its wellstructured content which facilitated a clear understanding of complex subjects the instructor excelled in presenting the material in an engaging andaccessible manner often using realworld examples to connect theory with practice additionally the instructor was highly approachable and responsive providing valuable feedback and supportthroughout the course these attributes significantly enhanced the learning experience and student engagement",
+                "the course covered all necessary topics the instructor had a good course setup",
+                "class activity really helps me understand deeply",
+                "in class activities were good instructor clearly had enough activities to keep the class engaging while imparting more skills"
+            ]
+        },
+        {
+            "question": "what could the instructor do to make this course better",
+            "responses": [
+                "",
+                "providing more opportunities to practice working with react components and testing throughout the assignments can help to solidify what we learned",
+                "more in class activates current ones are amazing",
+                "make inclass activities a little more interactive this improved as the course went on",
+                "the instructor could further enhance the course by incorporating more interactive elements such as quizzes and practical exercises during the online sessions this would help reinforce learning and keepstudents more engaged additionally offering optional supplementary sessions on complex topics could provide additional support for those who may need more time to grasp the material lastly increasingthe frequency of feedback on assignments might also help students better understand their progress and areas for improvement throughout the course",
+                "please explain the concepts better only one slide and one example cannot help to do the assignments",
+                "class recording",
+                "the assignment specifications dont clearly delineate the description of a feature"
+            ]
+        },
+        {
+            "question": "please expand on the instructors strengths andor areas for improvement in facilitating inclusive learning",
+            "responses": [
+                "",
+                "hes very respectful to everyone",
+                "the instructors ability to create an inclusive and respectful classroom environment was a significant strength they consistently acknowledged diverse viewpoints and encouraged participation from allstudents which fostered a sense of community and belonging however there is room for improvement in adapting teaching materials to be more inclusive of different learning styles and abilities forinstance providing materials in multiple formats such as visual aids audio recordings and interactive activities could help accommodate students with varying needs and preferences",
+                "he did not explain concepts widely  he need to improvement in teaching the basics of the concepts",
+                "class activity is really good way to understand deeply for the class if the instructor can do class recording that would be great",
+                "instructors pretty good at organizing would be nice if there were more classes to work on a project together which could help"
+            ]
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": [
+                "",
+                "online resources were useful and easy to access",
+                "it was enriching",
+                "i found the overall design and structure of the course to be very clear and effective however students from other departments might struggle a bit after the initial foundational sections are covereddespite this the course is overall very helpful and informative",
+                "the office hours were not so helpful piazza is decent",
+                "prof mitra posts the ppt we discuss in class on canvas",
+                "this was not an online course"
+            ]
+        },
+        {
+            "question": "what i could have done to make this course better for myself",
+            "responses": [
+                "",
+                "being more proactive in the final project would help to speed up the completion",
+                "a little less emphasis on final project and a mixed total sum of marks",
+                "to enhance my own experience in the course i could have engaged more proactively in forums and discussions participating actively would have allowed me to clarify doubts in realtime and benefit fromdiverse perspectives additionally seeking extra resources or asking for more examples on complex topics from the instructor could have deepened my understanding and made the learning process moreenriching",
+                "had done the javascript assignment better",
+                "i did not do well in assignment 4 due to submit problem i should start assignment earlier"
+            ]
+        }
+    ],
+    "instructor": "Mitra, Joydeep"
+}

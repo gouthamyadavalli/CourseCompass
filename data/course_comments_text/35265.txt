@@ -1,0 +1,64 @@
+{
+    "crn": "35265",
+    "course_title": "",
+    "responses": [
+        {
+            "question": "what were the strengths of this course andor this instructor",
+            "responses": [
+                "",
+                "providing lectures and inclass quizzes",
+                "good interactive classes course resources provided and the challenging assignments were the strengths of the course",
+                "course was good more clear questions are needed in assignments",
+                "enthusiastic and eager to teach in a fun way",
+                "the instructor is always happy to help and very patient"
+            ]
+        },
+        {
+            "question": "what could the instructor do to make this course better",
+            "responses": [
+                "",
+                "maybe reduce the number of questions in the problem set assignments which may help students have a better time management during the semester",
+                "better management of the class material and coverage",
+                "sometimes the assignment question can be asked more concisely"
+            ]
+        },
+        {
+            "question": "please expand on the instructors strengths andor areas for improvement in facilitating inclusive learning",
+            "responses": [
+                "",
+                "provide lectures for all topics with more understandable explanations",
+                "the instructor is extremely knowledgeable and helpful and helped through all the queries and doubts i had during the course the instructor could focus more on covering different topics in the class whichwould provide a more understanding of the subject and also help in the assignments also for a topic questions similar to problem sets could be provided for personal practice of students so that they couldenhance their subject knowledge",
+                "none",
+                "na",
+                "the workload is a little big for me"
+            ]
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": []
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": [
+                "",
+                "na",
+                "the class experience was good with instructor having good discussions regarding the topic and technique taught in the session the assignments were pretty challenging and it increased my knowledgeabout the subject even though the number of assignments created a time crunch i was able to finish due to getting a proper understanding of the aspects in the class",
+                "great",
+                "na as i took this class in person"
+            ]
+        },
+        {
+            "question": "what i could have done to make this course better for myself",
+            "responses": [
+                "",
+                "na",
+                "studied more using the additional resources available",
+                "using more slides",
+                "work harder",
+                "done more coding",
+                "could have spent more time devoting to this course"
+            ]
+        }
+    ],
+    "instructor": "Mwaura, Jonathan"
+}

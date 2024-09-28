@@ -1,0 +1,75 @@
+{
+    "crn": "39706",
+    "course_title": "",
+    "responses": [
+        {
+            "question": "what were the strengths of this course andor this instructor",
+            "responses": [
+                "",
+                "great format fascinating material kind and encouraging professor with a good sense of humor challenging and interesting assignments that are very relevant to the field this is one of the few courses inthis master where i felt truly challenged and had to get out of my comfort zone to learn i felt the efforts paid off when i put that to work on my project professor used innovative teaching methods andinteracted with us his teaching was often connected to the book so that we can have exposure to the material in different settings some other professors suggest chapters but do not teach in relation tothat material here there is synergy between the two mediums",
+                "the course is attractive and the instructor is nice and informative",
+                "the instructor has a very strong knowledge of math and ai",
+                "he is good professor he is open to student questions and will repeat concepts if needed",
+                "professor saad is enthusiastic about teaching extremely patient and provides thorough explanations he is willing to make the effort to address questions sincerely and respond to every questions fromstudents",
+                "the instructor effectively clarifies new concepts using illustrative examples for student to understand detailed feedback is consistently provided for each assignment quiz and project to facilitate studentimprovement",
+                "professor is very patient and very knowledgeable to answer all questions we have",
+                "the instructor explains the materials really well and is very patient for helping students",
+                "the professor provided detailed examples and he was very patience during the office hour and the class also the professor taught very good",
+                "very hardworking puts in a lot of effort explains everything to the t"
+            ]
+        },
+        {
+            "question": "what could the instructor do to make this course better",
+            "responses": [
+                "",
+                "keep syllabus uptodate ensure assignments are posted promptly to online channels ensure students are able to submit assignments to online channels provide grades in a timely manner so we can seewhere we stand",
+                "give more examples",
+                "the instructor could introduce ai more in programming than only math and theory and provide guidance on some handson projects in class play around with different models",
+                "he could post the homework and other important information in advance sometimes i felt the information was posted without enough notice in advance",
+                "1 use the assignment and grades section on canvas so that students can better manage the deadlinedue date and requirements of each assignment and understand how they perform2 release the assignments earlier so that students can better balance the coursework",
+                "the instructor should adhere to the syllabus timelines allowing students to effectively schedule their time for assignments and projects",
+                "he did a great job already",
+                "be more reachable and responsive through email communication sometimes it takes weeks to get response",
+                "update material ahead and provide more optional readings which might be interesting",
+                "maybe deflect student questions for the end of class so that he can cover more topics during the lecture"
+            ]
+        },
+        {
+            "question": "please expand on the instructors strengths andor areas for improvement in facilitating inclusive learning",
+            "responses": [
+                "",
+                "this professor is irreproachable in this area he is sure to move at a pace that all can follow and does his best to allow all students to participate he also allows for ample question time",
+                "it would be helpful if the instructor could slow down the pace when explaining the new concepts and use less handwriting on the whiteboard",
+                "overall he is a friendly and good professor he provides good examples on the whiteboard and is open to student questions if he could provide information in advance that would be helpful",
+                "na",
+                "he did a great job already"
+            ]
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": [
+                "",
+                "one major advantage that this professor provides over other professors is that he scanned the exam and provided it on the online platform so we could see our mistakes and improve ourselves movingforward this is a big plusthe class is excellent but the online learning experience could be improved in some ways the materials were often distributed late in the week after the assignment was announced sometimes with missinginformation that needed to be reposted later the syllabus was not updated during the semester and had incorrect dates and classes posted during holidays and such in one case an assignment was due at1159 pm on a day and the submission link was not active until around the afternoon 2 or 3 on that day this can be a bit stressful for students and it would be helpful to have these things organized andready earlier so we can plan ahead and submit before the last minute",
+                "good",
+                "the course is conducted several times on zoom and the experience is good",
+                "it was good he explained concepts well and was open to questions in the online part of this course",
+                "professor saad is very responsive and responsible in online classes just the same as he is in onsite class and office hour",
+                "its an onground course but professor provided us some materials online"
+            ]
+        },
+        {
+            "question": "what i could have done to make this course better for myself",
+            "responses": [
+                "",
+                "i could have practiced performing some of the calculations on my own with greater frequency",
+                "watching more related videos",
+                "i could have improved my knowledge and skills in math and machine learning",
+                "i could spend more time preparing for the class lecture",
+                "take more related class online to enhance my understanding of key concepts in this course",
+                "so far so good i have tried my best spend around 40 hours a week on this course and went to professors office hour every week",
+                "improve my basic understanding for the course"
+            ]
+        }
+    ],
+    "instructor": "Saad, Nadim"
+}
