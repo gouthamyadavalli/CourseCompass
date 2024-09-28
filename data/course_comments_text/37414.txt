@@ -1,0 +1,160 @@
+{
+    "crn": "37414",
+    "course_title": "",
+    "responses": [
+        {
+            "question": "what were the strengths of this course andor this instructor",
+            "responses": [
+                "",
+                "prof amit shesh is very knowledgeable you can tell from the way he teaches the subject he is an expert on the matter he answers all questions politely",
+                "very engaging lectures enthusiastic about the course material so lectures wont be boring made challenging assignments which makes sure you really learned the course content and arent just getting by",
+                "the course is very comprehensive and covers concepts that is understandable by students coming from all coding backgrounds it has assignments that help visualize realworld scenarios and help utilizethe concepts learn practically it also improves the learning curve of the student due to the well structured course curriculum and effective assignments the assignments are challenging but extremelygood providing a way to learn implement concepts",
+                "the explanation of complex design patterns with real life examples were his major strengths that helped me to understand the course better",
+                "very knowledgeable professor one of the best teacher i have ever seen the course was well designed if followed in a timely manner",
+                "great course that teaches a lot of required things for any cs student prof amit shesh teaches very well and has great passion for the subject and answers our doubts patiently",
+                "the professor was always available for outoftheclass discussions and doubtsthe professor gave constructive feedback on the exam solutions and different ways to solve a problem",
+                "instructor is very personable and care about his students",
+                "he had very good knowledge of the course very well prepared and knew how to explain the concept",
+                "the course was really informative and the professor was enthusiastic about teaching the inperson classes were never a boreprofessor amit sesh was by far the best professor ive had during my academic journey",
+                "the coursework is extremely great with good assignments the professor teaches all design patterns in depth which helps in clear understanding the assignments and labs align well with the coursework",
+                "his approach for teaching",
+                "good lectures good materials and timely communication",
+                "the course content was comprehensive and wellstructured it covered all the essential topics that were very much required in detail",
+                "the professor was extremely effective with his methods of teaching and would often teach us what could be applied in the assignments without revealing the actual solutions of the assignments thecourse itself taught me various design implementations that could be really helpful with realworld projects",
+                "the material in this course if very good prof shesh know the material well and conveys it well",
+                "the course is very challenging and actually teaches a lot i learnt many things in this course that i had no idea about previously professor is really good and very good at explaining these topics he definitelyhas deep knowledge on the subject it was really fruitful to attend his lectures and take this course",
+                "great material and great in teaching",
+                "the course and assignment was challenging but the professor was experienced and overall brilliant",
+                "exhaustive course with plethora of submission to be graded upon",
+                "the instructor is easy to communicate about the cousereleative topics",
+                "the instructors depth of knowledge in java and foundational programming principles is commendable but thats it",
+                "prof shesh is one of the best lecturers i have taken he clearly loves what he does and his enthusiasm facilitates a productive learning experience during lecture",
+                "professor shesh described real world issues with passion and humor in a really approachable way the labs and homework assignments appropriately challenged us on the subject material",
+                "na"
+            ]
+        },
+        {
+            "question": "what could the instructor do to make this course better",
+            "responses": [
+                "",
+                "either give more time for the assignments or maybe reduce the difficulty level student who are fresh grad from college have a tough time in this subject something needs to be done to make it easier forthem i definitely learned a lot from the course but it was mentally draining",
+                "first there is no room for accommodation in this class you get a set number of late days and can only use one late day for an assignment i had a life situation come up that i had to take time to deal withand the professor offered an extension but later in the semester he refused to accept my assignment a little bit late despite me mentioning the extension that i didnt use i dont want to bend the rules butit felt ridiculous that i had justification for not having enough time and how hard me and my partner worked to finish up immediately after the deadline resulted in 0 credit for that worki think the workload is unreasonable especially when the nonstop projects assignments start coming up this class doesnt take into consideration that we are students with other classes andresponsibilities all of the assignments take 20 hours each and this is on top of weekly labs selfevaluations and code walks a new assignment is released every 2 weeks with no breaks most of the 2 weeksfor the first assignment was spring break so we had to work during the break one of the required portions was to write tests and we didnt have the lecture on how to test these kinds of programs until theday before the deadline it seemed unreasonable to expect us to make a fully functional modelviewcontroller mvc program with a user interface with no starter code when from lecture we only had thesimplest code examples of mvc",
+                "some of the grading rubric with respect to assignments focus more on other aspects as compared to design of the code more weightage can be given to the way the features are implemented or thestructure of the code"
+            ]
+        },
+        {
+            "question": "what could the instructor do to make this course better",
+            "responses": [
+                "",
+                "decrease the ambiguity in the assignment instructionsrefactor the ta selection process as the ones this semester were mostly misleading to what was expected most of all the newly appointed tas  in fact some of their suggestion cost a lot points to a fewstudentshave a better grading system where students can understand their mistakes in the first assignment and learn from them rather than finding out about the issue in the last few assignmentsplease mention it early about any new library to be used as learning a whole new ui library in few days at end sem would be challenging for students new to it while those who have previously worked on thelibrary will walk through it like a breeze creating an unjust handicaplet the tas know more about the assignments as some of their suggestions or replies were outright rejected when asked to the professor which means no one can be confident over the tas guidancehave a strict and clear scoring system where in if one student lost points due to certain reasons everyone else should too or else no one else shouldand scoring based on lot of things other than design has caused students to ineffectively spend more time in those things due to being scared of loosing points due to some unrelated unmentioned issue",
+                "mention all the desired outcomes in the assignment since students usually cannot assume what might be present in the rubric but not in the assignment i know that in real life clients do not specifyeverything but still there should be a hint in the assignment at least because a student cannot implement lot more things not asked in the assignment just by assuming some of them might be in the rubric",
+                "if the workload is slightly lighter",
+                "please make 1 or 2 lectures on how to write test cases i am really sad with the fact that i lost most of my grades on test cases and hence the students further should not go through the same please includea lecture for test cases",
+                "there was a factor of uneven workload distribution in the last 4 group assignments i do not know how one would tackle this but it is a concurrent issue also i think the course should have mandatedimplementation of at least 2 design patterns in the assignments",
+                "some assignments were ambiguous and were not clear making the requirements clear in assignments would great",
+                "teaching the topics that come in handy for assignments before the assignment is released",
+                "provide clear and reasonable rubrics train unified scoring ta",
+                "i liked the way the course topics were taught by the professor the professor kept the class very engaging and the concepts were explained clearly and in an easy to understand way",
+                "the assignment descriptions could have been a little more descriptive in certain cases highlighting clearly what was expected of us",
+                "make the deadlines at midnight instead of 9pm i dont see the point of making it earlier because some assignments are not graded immediately as students we have more time at night because we spendtime commuting during the day",
+                "the course even though being good was a bit fast paced maybe its just me but for the most part i tend to fell behind since java was new for me i only knew the basics and also being a fresher i had noexperience with oops or the various models that were taught in some places i felt that the labs even though taught a necessary skill that would be beneficial for the main assignments they used to come alittle late and i was not able implement those in the assignment maybe that is just me and others might not have felt this way",
+                "reduce the assignments please people have other courses to do make the deadline at 12 why 9 we need more time with other work as well this was way too much work also reduce the weight of thejava doc its cuts way too much into our grade and its hard to fix all of it before the deadline",
+                "the ta grading for each assignment could have been better and the rubric and requirements for certain assignments",
+                "along with the grades instructor can also release the rubric used for grading to make the grading process more transparent also some extracredit or leniency in rubrick can be shown so that studentsdont lose grades for small things",
+                "nothing",
+                "the instructors depth of knowledge in java and foundational programming principles is commendable and provides a strong basis for understanding key concepts however the reliance on java as theprimary language throughout the course may not align with the evolving preferences and needs of the current generation of students as the tech industry shifts towards more diverse programmingenvironments it becomes increasingly important for educational curricula to reflect this diversity and not remain confined to any single language this approach would not only make the learning moreinclusive but also more applicable to modernday programming contexts equipping students with the versatility needed in todays varied tech landscape",
+                "offer a chance for extra credit or a grading curve each assignment is strictly graded with no opportunity for recourse if a student takes longer to grasp the material fully in this way the course greatlyrewards students who are ahead of the curve so to speakthose who clearly understand material the first timeand this course consequently offers less reward to students who may need repeatedexposure to design topics before successfully implementing them in assignmentsone specific improvement may be to allow for some labs to be paced even further ahead of the applicable topic within the homework assignments thereby allowing students to practice the designtechniques earlier so that the techniques can be applied more readily in assignments the labs seemed to be paced slightly behind assignments so some topics were only sinking in just at the end or evenafterwards of the applicable assignment submission window",
+                "better communicate the objectives of the homework assignments as there were things that points were taken off for that was not part of the assignment description a lot of the homework assignmentsalso had details that were from previous years and were confusing to read it would be helpful to structure the assignments in such a way that students are not stuck with their partners for multipleassignments",
+                "1 more concise assignment expectations and rubrics2 consistent grading by different tas every ta had different assumptions on the grading rubricafter a weeks worth of effort i would love to see that im graded consistently with the same rubric by all tas"
+            ]
+        },
+        {
+            "question": "please expand on the instructors strengths andor areas for improvement in facilitating inclusive learning",
+            "responses": [
+                "",
+                "i liked the professors dedication to delivering highquality lecture the professor demonstrated clear passion for the subjecti am grateful for the opportunity to learn from such a knowledgeable instructor",
+                "none",
+                "overall it is a very inclusive class there was just one thing when classes first started the professor said that we are not allowed to join the teams live lecture its just for recording purposes if we doeveryone in person can see who is not attending class it felt kind of intimidating if we were actually sick or needed to attend remotely then we would be judged",
+                "he knows how to throughly explain concepts",
+                "the instructor is very knowledgeable and explains the concepts in a detailed manner he is very supportive and provides a good feedback on any doubts or queries asked his office hours are very useful andalso encourages students to push their boundaries to think of better coding approaches",
+                "overall the professor was great his teaching style was amazing and was very helpful in office hours as well i do not have any particular areas of improvement to suggest",
+                "hes good no comment",
+                "as mentioned one of the best professors ever met in terms of teachingexplains all the issues and solutions in detailcan hardly see any points that needs to be improved"
+            ]
+        },
+        {
+            "question": "please expand on the instructors strengths andor areas for improvement in facilitating inclusive learning",
+            "responses": [
+                "",
+                "the professor teaches the course very well so nothing much to improve",
+                "the professor was always available for outoftheclass discussions and doubtsthe professor gave constructive feedback on the exam solutions and different ways to solve a problem",
+                "every wednesday there will be a homework due however instructor always make an requirement change on tuesday class then everyone have to change their current progress even they have alreadydone",
+                "he is very good just 1 suggestion  he should explain how to write test cases please",
+                "he can make student understand knowledge easier by his speech",
+                "while i appreciate the structure and content of this course i believe there is significant room for improvement in terms of embracing evolving educational standards and methodologies as industries andtechnologies develop it is crucial for academic curricula to reflect these changes to remain relevant and effectivei observed that the course predominantly reflects a singular perspective primarily influenced by the instructors specific viewpoint in a dynamic learning environment incorporating multiple perspectivesand adapting to contemporary practices are essential for fostering a more robust understanding of the subjecti would recommend updating the curriculum to include a broader range of ideologies and teaching methods this update could better prepare students for practical application in their future careers byaligning more closely with the latest industry standards and practices",
+                "the group projects were the most fun ive ever had in a cs coursein terms of inclusive learning i wouldnt change a thing",
+                "sometimes the requirements are not clear for assignments which could be improved on",
+                "professor shesh is great at providing feedback in lecture and online through piazza or teams",
+                "professor shesh is a great instructor he makes his lectures accessible engaging and proivdes opportunities to put them in practice with his homework there are still struggles in managing the teamworkcomponents of his assignments as well as making sure his assignment materials are up to date",
+                "na",
+                "provide more transparent fair and reasonable scoring system"
+            ]
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": [
+                "",
+                "the course was quite difficult for me i had to dedicate around 50 hours each week apart from lectures for the assignment labs and codewalks i personally felt the difficulty level of the course was high",
+                "overall the experience was really good i found it to be very informative",
+                "the course itself was quite intense and challenging which in turn motivated and pushed me to give my best i learned a lot through this course and would like to thank the professor for his guidance and help",
+                "my only criticism is that the only way to keep track of the many assignments due each week is a calendar on the syllabus page in canvas it couldve been more clear where this was some of theassignments are on canvas some on handins and handins doesnt notify you when things have been graded",
+                "the online piazza form is very good the content is great as well",
+                "the course is very well structured and provides a complete idea about the design patterns to structure the code that is written it covers all concepts required to be able to follow better coding practicesand helps visualize realworld scenarios to understand the use case",
+                "the notes provided on canvas are detailed and sufficient it is easy to navigate the online course materials"
+            ]
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": [
+                "",
+                "its good",
+                "na",
+                "instructor is very smart and know stuff he cares about his student and very happy to answer his students any questions even the questions are very stupid id like to take another class ive taught if theworkload is not that insane",
+                "office hours and piazza were the way for online environment and it was very good and helpful",
+                "the online course was as good as onsite course",
+                "the online course environment provided a convenient and accessible platform for learning offering flexibility in managing coursework alongside other responsibilities the inclusion of collaborative projectswas a strong point enhancing learning through teamwork and practical application of course materials however the platform could benefit from more dynamic and interactive elements such as realtimequizzes these quizzes could serve as an engaging way to reinforce learning and assess understanding continuously additionally the discussion forums felt underutilized with minimal facilitation from theinstructor to encourage deeper dialogue among peers enhancing these aspects of the course would make the online environment more engaging and supportive promoting a more comprehensive andinteractive learning experience",
+                "prof shesh recorded each lecture but i attended in person he had two recorded lectures which we watched due to his travel but those were special circumstances",
+                "very useful tas were available online to help with any sort of question",
+                "loved the khoury office hours tools i was always able to interact with a ta available whenever i was stuck"
+            ]
+        },
+        {
+            "question": "what i could have done to make this course better for myself",
+            "responses": [
+                "",
+                "i could have personally worked on building my own project from the things which i had learnt it would have been more useful for me in understanding the concepts even more better",
+                "be more attentive in the lectures",
+                "it would have been extremely helpful if i was comfortable with creating projects and programs in java from the very beginning of this course",
+                "started on assignments earlier more proactive communication with my project partner",
+                "starting on assignments much earlier although other coursework has an effect as well",
+                "the assignments were difficult and a lot of time was spent on the logic of solving the problems instead of focussing on the design patterns so maybe we could have had logically simpler but designwiseextensive assignments",
+                "i could have read about the upcoming lectures in advance since these topics were new for me i fell behind the class on many occasions because i hadnt understood the previous ones",
+                "reduce the amount of work labs and assignments people have other courses too we cant give our entire time to just this course",
+                "better time management things do ramp up as we progress through the semester",
+                "could have done prelecture surveys",
+                "learnt more in detail about object oriented programming",
+                "started working on design patterns from the start where it would have been easier to implement in assignments and learn along the way",
+                "i could be more actively in tas office hour i could have done better",
+                "i could have written the test cases better i lost all my grades in self eval i regret that i didnt know how to write test cases otherwise i could have scored a but now i wont",
+                "nothing",
+                "i shouldnt have opted for this course initially as this course doesnt add any weightage to my profile",
+                "should have polished my foundations of oop before starting this course",
+                "unit testing is very important along with time management",
+                "read lecture notes early and continue to ask questions during office hours from tas and professor to understand material fully prior to attempting assignments",
+                "focus early to find a partner i work well with",
+                "na"
+            ]
+        }
+    ],
+    "instructor": "Shesh, Amit"
+}

@@ -1,0 +1,134 @@
+{
+    "crn": "17367",
+    "course_title": "",
+    "responses": [
+        {
+            "question": "what were the strengths of this course andor this instructor",
+            "responses": [
+                "",
+                "josh is really a wellprepared teacher and he prepared well for the labs assignments to let students learn building websitei really like josh and i hope a instructor can be like him who are responsible wellprepared knowledgable in teaching area",
+                "very caring organizes learning material well",
+                "professor annunziato knows a lot about web dev and very open to help students",
+                "professor is very responsible and concepts are super useful",
+                "nicely arranged learning steps and clearly elaborated lectures",
+                "the professor is patient and willing to answer questions even if he has already explained it before",
+                "enthusiasm responsiveness exposure to a lot of information",
+                "definitely professor annunziatos seasoned expertise in web development and his charisma helped throughout this whole semester",
+                "professor is very flexible in meeting students requirement i got sick with covid and professor was kind me to allow assignment submission later and yes without any penalty in unforeseen circumstance likecovid where you dont know where you got exposure assignment submission consideration from professor is a big help",
+                "a very accommodating and understanding professor very good at teaching explaining the material to better understand",
+                "very knowledgeable in course materials and patient",
+                "the instructor is skillful understanding and patient",
+                "the homework settings are very reasonable",
+                "the teacher is very responsible and the teaching materials are also prepared in great detail which helps me better understand the ideas and details of web development",
+                "all good",
+                "excellent teaching",
+                "the professor is very knowledgeable and clear in his explanations he is always trying to help us out and improve our understanding",
+                "nice professors learned a lot from him the doc is also very comprehensive",
+                "professor clearly communicated the materials",
+                "the professor is really good at web",
+                "easy to communicate",
+                "very detailed instruction"
+            ]
+        },
+        {
+            "question": "what could the instructor do to make this course better",
+            "responses": [
+                "",
+                "could check emailspiazza more often",
+                "if the office hours could be a bit more friendly to the students on the west coast since the ohs were too early i wasnt really able to join his office hours it was 5am on the west coast",
+                "less workload and response to email or piazza faster",
+                "improve ta grading training so as to be consistent with professor improve assignment instruction and fix small bugs",
+                "discussed above about assignments also on quizzes and exams i understand the reasoning of using random variable names like wer and uyt but it would be helpful to use short nouns or letter combos thatare easily distinguishable from each other several times i lost points on quizzes or exams just because i confused two variables in my head because they sounded very similar to each other",
+                "extending deadlines to allow students to not overload really quickly",
+                "professor is the best if something can change that would be last assignment could have been due on november instead of december that way we would have got plenty of time to implement in projectwhat we learned from last assignment even though project was opened beginning os semester what we learned in last two assignment was most implemented in project",
+                "better management in ta team and oh like having waiting room for professor oh consistent answer from different tas and manageable and sufficient ta office hours",
+                "have better office hour scheduling considering all of the students from different time zones",
+                "strengthen the training of teaching assistants the points they give are unreasonable",
+                "there are some errors in the teaching materials and they could be improved",
+                "all good",
+                "maybe simplify the first few assignments a bit as it is most related to styling and put more time to back end node app and api building async etc",
+                "some of the ta is not that good and responsible",
+                "i feel it could be better to use less ai autofill that we can better following the code"
+            ]
+        },
+        {
+            "question": "what could the instructor do to make this course better",
+            "responses": [
+                "",
+                "make communication more effective",
+                "tas need to align their grading standards",
+                "more organized office hour"
+            ]
+        },
+        {
+            "question": "please expand on the instructors strengths andor areas for improvement in facilitating inclusive learning",
+            "responses": [
+                "",
+                "the tas are not very responsible especially about their office hours they regularly dont show up on their office hours with or without prior notice furthermore there are too many office hours cancellationeven with the prior notification which frustrates students who need help for the class also some tas just easily say they dont know about the problem and ask us to ask other tas which is not veryprofessional as ta they must be more responsible and help their students especially when they encounter some problems they dont know they need to contact professor and get some solutions andcontact the student back not just saying they dont know other than some unprofessional tas this course was very well organized and helpful to learn web development",
+                "make the homework more reasonable so we dont need to waste time on doing repeat work",
+                "na",
+                "what in tarnation is inclusive learning",
+                "i greatly appreciated the detailed instructions for both labs and homework probably to make it more inclusive i would personally decreasecut the number of homework requirements",
+                "a lot of tas dont show up on their working hours at all it should be regulated that if they dont come please send out a message beforehand on canvas stop wasting lots of students time by ghosting in theoffice hours",
+                "strengthen the training of teaching assistants the points they give are unreasonable",
+                "recommend some better projects for us to study",
+                "all good",
+                "great teaching",
+                "the professor always listens to and incorporates our feedback into his teaching which is helpful this includes posting his code onto github so we can use it as a template and simplifying assignments to taketime to comprehend concepts also the class is structured in a way that you understand how the topics build off of each other and flow together",
+                "i hope professor could give more guidance for deploy issue",
+                "none",
+                "good"
+            ]
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": [
+                "",
+                "its flexible and i can study the course based on my schedule",
+                "professor jose annunziato is the best he is very friendly and makes the concepts really simple and easy to understand the course materials are really useful and the assignments are a good way to gethands on with the concepts",
+                "very clear explanation on concepts",
+                "i learned a lot from the course"
+            ]
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": [
+                "",
+                "professors and ta made the learning environment accessible to me despite the time difference",
+                "the professor is pretty nice and knowledgeable he is extra patient trying to help out students it would be nicer if he has some office hours for the west coast students all of his office hours are 8am whichis 5am for west coast students it is nearly impossible to get up that early to join his office hours",
+                "professor jose is very responsible and kind i love his class atmosphere and he is patient to answer any questions",
+                "the online course environment is really good",
+                "i learned a lot and got a lot of practice in the process of learning",
+                "the lecture is awesome",
+                "all good",
+                "great material",
+                "sometimes it was difficult to find the lecture recordings but other than that the notes objectives homework and quizzes were well organized on the canvas piazza was also really helpful as a lot of peoplehad the same questions as me",
+                "overall good",
+                "i think the time zone is really unfriendly to our west coast but the professor and ta already try them best to help us",
+                "good"
+            ]
+        },
+        {
+            "question": "what i could have done to make this course better for myself",
+            "responses": [
+                "",
+                "rewatch the course video and practice more",
+                "there are a lot of knowledge given in this course follow the instruction for one time is not enough to memorize them i think taking notes from the assignment instructions and review the important stepswould be helpful for grasping knowledge",
+                "practiced concepts more outside of assignments",
+                "i believe that with this years coursework i should have prepared myself better before the commencement of this course the workload is intense and time management is needed in order to succeed iremember spending over 40 hours for a2 but overall this course helped me a lot in embracing and appreciating usestate for react",
+                "i could have joined earlier but the course had tons of long waitlist i am glad i got a seat though late i enjoyed the course",
+                "work on the assignments earlier",
+                "get the hw done earlier",
+                "teaching assistants standards for grading homework are too inconsistent",
+                "do some related projects before studying this course",
+                "all good",
+                "worked on assignments way early",
+                "have some basic javascript knowledge",
+                "keep up with lecture recordings and start the assignments early",
+                "attend in person lecture",
+                "more organized office hour would be helpful"
+            ]
+        }
+    ],
+    "instructor": "Annunziato, Jose"
+}

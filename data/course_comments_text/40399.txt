@@ -1,0 +1,65 @@
+{
+    "crn": "40399",
+    "course_title": "",
+    "responses": [
+        {
+            "question": "what were the strengths of this course andor this instructor",
+            "responses": [
+                "",
+                "passion",
+                "he is very enthusiastic he can communicate with you proficiently in english and japanesehe will spend a lot of time on students and courses not on this annoying score please dont discuss the score with him you can do better next time because you have plenty of opportunities",
+                "great enthusiasm",
+                "the teaching methodology",
+                "challenging material but we had great guidance from richard",
+                "always bring a lot of energy to the class"
+            ]
+        },
+        {
+            "question": "what could the instructor do to make this course better",
+            "responses": [
+                "",
+                "i think this is the most enjoyable course i have ever taken at northeastern university the teachers put their best effort into teaching the course he is already the best the only thing that needs to bementioned is that please give more confidence and encouragement to students they will do very well with your helpin my opinion he is not worthy of being a teacher he is more of a mentor guiding us on the road to success",
+                "less assignments",
+                "cant think of any",
+                "not much",
+                "try to make it a cs course instead of a math course the materials is really hard but most of thing is not covered during class please use time efficiently and bring more example when we try to learnsomething new"
+            ]
+        },
+        {
+            "question": "please expand on the instructors strengths andor areas for improvement in facilitating inclusive learning",
+            "responses": [
+                "",
+                "this class will be very difficult but only compared to other water classes but precisely because of the difficulty the teacher will give a lot of help the only thing you need to do is to keep up with the teacherand seize the time for everything because you will find that this can be a very shining moment in your lifei would give richard a thumbs up",
+                "na",
+                "cant think of any",
+                "richard is knowledgeable passionate and approachable had all the great traits to help us succeed"
+            ]
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": []
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": [
+                "",
+                "you cannot attend the full course remotely",
+                "it was good and helpful",
+                "it was wonderful best professor i have so far in neu",
+                "very helpful",
+                "a lot of materials online but we have to learn most of things by ourselves"
+            ]
+        },
+        {
+            "question": "what i could have done to make this course better for myself",
+            "responses": [
+                "",
+                "you will think that this course is very difficult at the beginning but i hope you can bear it in fact it is not that difficult but it is difficult compared with other courses but i hope you dont waste it your tuitionfees this course will make you suddenly enlightened in the middle and later and what you learn will be worth itplease dont opt out of this course the first time it starts to feel difficult",
+                "started assignments earlier",
+                "better time management",
+                "read more textbook"
+            ]
+        }
+    ],
+    "instructor": "Hoshino, Richard"
+}

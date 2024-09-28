@@ -1,0 +1,96 @@
+{
+    "crn": "17401",
+    "course_title": "",
+    "responses": [
+        {
+            "question": "what were the strengths of this course andor this instructor",
+            "responses": [
+                "",
+                " very enthusiastic motivating professor great utilization of in class time syllabus and structure were well defined",
+                "he is a good teacher and knows how to breakdown complex concepts into simple bits",
+                "the homework assignments are designed well they are challenging but helpful for me to understand conceptsand the feedback and support from the professor is helpful when i was not doing well the professor sent an email and made me become more clear about my performance",
+                "teams communication  outside class availability",
+                "interactive and inclusive sessions",
+                "the strengths i saw with the course is the canvas course set up but there was not many strengths other than the course canvas set up",
+                "professor mwaura is incredibly enthusiastic about the material which really improves the experience",
+                "good",
+                "was able to visualize algorithms effectively and answer questionsconfusion in class well",
+                "respects ideas and topics external to the course",
+                "i appreciated his approach to specific algorithms leading the class to them in an organic manner rather starting with a top down pseudocode forward approach",
+                "prof mwaura was very friendly enthusiastic helpful in office hours and flexible"
+            ]
+        },
+        {
+            "question": "what could the instructor do to make this course better",
+            "responses": [
+                "",
+                " group office hours for students who could use more learning time in addition to inclass",
+                "i sometimes felt like class sessions were only loosely planned and sometimes it felt like we would get stuck in a topic and it would throw off the original time plan for the course as a whole while i appreciatedthe multimodality of the course especially early on where we did interactive activities in class along with discussion and lecture a little more planning about how long different class elements would takemight speed us along",
+                "good",
+                "have additional readings to compliment the classwork",
+                "schedule assignments better in accordance to current class topics",
+                "the zybook reading ended up being the least helpful for me  i gravitated towards the cormen and link to mit noteslectures the zybook a very concentrated and useful for review",
+                "accurately assess all students prior exposure to algorithms in first ever class for the semester",
+                "i thought the problem sets synthesis and quizzes were great for practicing the skills but i didnt have a lot of time to dedicate to them maybe we dont need to take on a significant workload to sufficientlymaster the material another suggestion could be to reduce the ratio of highly challenging problems",
+                "include more practical coding"
+            ]
+        },
+        {
+            "question": "please expand on the instructors strengths andor areas for improvement in facilitating inclusive learning",
+            "responses": [
+                "",
+                " all positive for professor mwaura on inclusive learning",
+                "professor mwaura really strives to include everyone id say its just an overall strength of his on the other hand sometimes wed stall class for a little to go over a topic if some folks didnt get it it would benice if some of that work could happen outside of class",
+                "good",
+                "was really good with this",
+                "he is an enthusiastic instructor but sometimes he can stretch out a specific topic for too many classes",
+                "the class itself was very enjoyable despite the difficulty of the material this is all thanks to dr mwaura",
+                "i imagine its easier to get a good grade in this class than in other professors because its all openbook and basically untimed and the grade is more based on putting in the time than actually mastering thematerial but if you want to really learn from your professor instead of learning from books on the side dont take this class",
+                "the professor always came very prepared for class sessions its very easy to feel the energy and passion he has and how much work he puts into preparing for lectures he knows how to slowdown whenstudents have hiccups with certain concepts and is always ready to give more elaborate explanations he is also readily available to chat after classes and during office hours about concerns anddifficulties"
+            ]
+        },
+        {
+            "question": "please expand on the instructors strengths andor areas for improvement in facilitating inclusive learning",
+            "responses": [
+                "",
+                "i was satisfied with this course but i suggest that the workload of the class and the number of challenging problems might be reducedanother option could be to give challenging ungraded problems that we work through in the class for example you make as much progress on it as you can in the homework then review it in class that wasan approach that we took in some of my physics and math courses in college"
+            ]
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": [
+                "",
+                "unknown  i joined in person",
+                "i participated in person",
+                "good",
+                "good",
+                "online materials being in both teams and canvas was confusing announcements were hard to follow because they were in teams",
+                "it was good",
+                "in some cases the reading got ahead of the in class content i found my skimming the reading and then coming back to it later so as not to split my focus between to many topics",
+                "it was perfect",
+                "i attended this course in person"
+            ]
+        },
+        {
+            "question": "what i could have done to make this course better for myself",
+            "responses": [
+                "",
+                " publish solutions when problem set grades come out do some more smaller projects throughout the semester",
+                "i could have started the more openended challenges like the leetcode portfolios earlier",
+                "good",
+                "concentrate more as 35 hours of class at one stretch gets too much",
+                "could have added more space in the last few assignments it was a little heavy postthanksgiving",
+                "dedicated specific hours for study",
+                "read more external textbooks"
+            ]
+        },
+        {
+            "question": "what i could have done to make this course better for myself",
+            "responses": [
+                "",
+                "it would have been easier to take this course if i was not working a full time job"
+            ]
+        }
+    ],
+    "instructor": "Mwaura, Jonathan"
+}

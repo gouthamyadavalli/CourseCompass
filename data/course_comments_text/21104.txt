@@ -1,0 +1,98 @@
+{
+    "crn": "21104",
+    "course_title": "",
+    "responses": [
+        {
+            "question": "what were the strengths of this course andor this instructor",
+            "responses": [
+                "",
+                "enthusiasm very knowledgable on the subject very skilled very passionate about teaching in class coding and fixing bugs",
+                "amazing humor very knowledgable amazing programming skills live coding was very helpful",
+                "very good",
+                "ta and professor were open to help the project were the main way of learning in this course",
+                "instructor is very passionate about course and making it useful and practical he makes you feel like he cares for your personal and career success which is invaluable in a professor and the project basedsystem was",
+                "the course professor provides a very efficient and interactive way to encourage student to dive into the class which makes me always absorbing a lot in class",
+                "good communication",
+                "humur",
+                "very funny enthusiastic and knowledgeable i love his style as a person",
+                "johns course is very informative and i can learn a lot hes a passionate professor who really want his students to learn something",
+                "useful and interesting",
+                "one of the biggest strengths of this course was the requirement to finish a lot of projects i learnt the most from struggling and trying to finish the project i felt very accomplished when i completed theprojects in addition to that i was able to put those projects into resume which prepared me better for my career i really appreciate that",
+                "excellent",
+                "the professor was very accommodating with deadlines and giving us adequate time to understand specific topics the course is contentheavy so having more time to understandimplement conceptswas helpful",
+                "the knowledge that professor has and the enthusiasm as well makes you to learn more"
+            ]
+        },
+        {
+            "question": "what could the instructor do to make this course better",
+            "responses": [
+                "",
+                "use class time better i feel like only the first 20 and the last 40 minutes of class time were useful we spent a lot of time sidetracked on nonimportant things",
+                "make the lottery more fair i guess some people didnt get a turn for 34 classes",
+                "when doing the living coding slow down a little bit",
+                "everything was good but sometimes as a beginner coder i felt like i was expected to know so much so fast",
+                "sometimes the strengths come to the cost of organization i enjoyed the idea of the recorded mid term and the lottery but the lack of communication over the mid term made scheduling stressful i alsothink the lottery needs some tweaking maybe in the framing only it made the class feel punishing more than anything although i do think there could be something valuable in this system",
+                "i think the professor really did a great work already",
+                "make deadlines longer and make some changes to make up for the project",
+                "sometimes the class can be quite stressful for introverted individuals like myselfi dont get any feedback from the assignmenthaving a project demo before we begin can greatly aid in our understanding and execution of the project",
+                "he is a bit unorganized",
+                "sometimes the course is way too informative and its a little bit overwhelming also sometimes the concept is way too deep and i cannot really understand and easily lost i hope the learning curve can benot that sharp",
+                "na",
+                "the only thing i feel like is that theres too much materials but too little time for the course it would have been better if we can become more specialized in some areas",
+                "na",
+                "i feel like this class covered too much which makes me feel like i have a surfacelevel understanding of these concepts it would be helpful to maybe divide lectures into portions where topics are brokendown more more of a theoretical explanation and then are implemented through live coding this way it is much easier to understand the flow of concepts and how they are interconnected moreanalogies and demonstrations would be helpful also it could be helpful to have group discussions on topics to discuss newlylearned concepts with peers to learn from others and be comfortable relayinginformation to others effectively",
+                "maybe give more time to complete projectshaha"
+            ]
+        },
+        {
+            "question": "please expand on the instructors strengths andor areas for improvement in facilitating inclusive learning",
+            "responses": [
+                "",
+                "very inclusive in all aspects probably the professor that cares about inclusivity the most so far i have seen",
+                "he is very friendly but i kind of hope the assignments are not so infrequent but big we pretty much just have 4 massive projects and almost nothing else i hope we had more lightweight projects and lessheavy massive projects instead",
+                "everything is good",
+                "loved the attitude i liked coming to class",
+                "overall well appreciated him mentioning he was learning chinese",
+                "show more cases related to the web development",
+                "the professor use the lottry and tweet to encourage student to preview all the material before class to have better overview for the knowledge points",
+                "na",
+                "professor john is very supportive some improvements could be that some rubrics may not be very clear to understand when we have the project teamwork does not achieve the goal of learningsomething withing a partner",
+                "while class was helpful sometimes it felt like the projects had nothing to do with what we had covered so far connecting to mongo and implementing crud was taught after that project was due same withteaching passportexpecting implementation having a more conducive schedule would be helpful to helping with our understanding rather than expecting us to figure it out completely on our own iunderstand that struggling is helpful with teaching but i dont think its fair to expect students to learn how to implement for assignments when the topics were not even properly introduced yet",
+                "sometimes the class can be quite stressful for introverted individuals like myself"
+            ]
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": [
+                "",
+                "na",
+                "canvas was very helpful in storing all the lecture recordings and showing assignment instructions for me",
+                "very good",
+                "the course environment was great i was always able to talk to peers and ta when i had question about a topic or project",
+                "overall the instructor is very knowledgeable and engaging some of the online organization is a little scattered and ambiguous some materials in his personal website some in canvas or no specific datesfor the required readings but ambiguous labels",
+                "feels good about the course i hope more case study could be included in this course",
+                "the course materials prepared by the professor for the web development course were exceptional in terms of both quality and relevance each module was meticulously designed with a clear focus onessential web development concepts ranging from basic htmlcss to more advanced javascript frameworks",
+                "there is no online course materials",
+                "i am not a fan of the lottery thing but it did help me concentration sometimes",
+                "this class was a like a rollercoaster ride in itself if you really want to learn ins and out of web development professor johns class is a great start it challenges you to learn more things which are used in thereal world challenging but perfect course"
+            ]
+        },
+        {
+            "question": "what i could have done to make this course better for myself",
+            "responses": [
+                "",
+                "do more readings",
+                "better time management some weeks were loaded with heavy project assignments and some weeks i didnt do much the week of deadline for projects are usually extremely painful and full of struggles",
+                "practice more",
+                "i think i planned my weeks better juggling work ad school i think i would have been more prepared for class the weekly readings took a lot of time but were very useful in learning",
+                "more diligence on the readings and requesting office hours",
+                "to find more tutorial resource to learn deeper",
+                "i should prepare and preview the material deeper before the class and focus on the questions in class",
+                "probably need to some samples to work on the project",
+                "i think dedicating more time to doing nonassigned reading would have helped me understand the smaller more detailed topics that could help with projects",
+                "i should have taken this course early when i start the program"
+            ]
+        }
+    ],
+    "instructor": "Guerra Gomez, John Alexis"
+}

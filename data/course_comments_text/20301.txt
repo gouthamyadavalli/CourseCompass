@@ -1,0 +1,60 @@
+{
+    "crn": "20301",
+    "course_title": "",
+    "responses": [
+        {
+            "question": "what were the strengths of this course andor this instructor",
+            "responses": [
+                "",
+                "dr bhardwaj takes good care of all his students we love the pizza and the review before the final exam",
+                "the instructor is a funny guy and so down to earth he made the lesson fun and engaging",
+                "the instructor explains each chapter very clearly and transforms complex issues into very vivid explanations",
+                "just fine hard to say"
+            ]
+        },
+        {
+            "question": "what could the instructor do to make this course better",
+            "responses": [
+                "",
+                "forming or joining study groups to collaborate and learn from classmates",
+                "increase the readability of the pseudocodes as it is tough to understand and provide a more detailed code walkthrough",
+                "not very satisfied with the coursefirst the accent is hard to understandthen the material and the way the teacher teach in class not very comprehensive and enlightening",
+                "more organized with lectures some topic in exam did not teach in the lectures",
+                "the teaching of the class is a little bit shallow on the algorithms",
+                "teach harder spend more time and energy"
+            ]
+        },
+        {
+            "question": "please expand on the instructors strengths andor areas for improvement in facilitating inclusive learning",
+            "responses": [
+                "",
+                "i like how dr bhardwaj engages us actively in class discussions and activities to deepen our understanding of the concepts",
+                "pizza pizza pizza",
+                "teach harder"
+            ]
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": []
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": [
+                "",
+                "online materials could be updated the b tree slides seem outdated",
+                "canvas assignments were clearly organized",
+                "this is an inperson class"
+            ]
+        },
+        {
+            "question": "what i could have done to make this course better for myself",
+            "responses": [
+                "",
+                "read materials before class",
+                "i could have done more leetcode problems and understoodfamiliarize the most common algorithms before taking this course",
+                "since i have a weak foundation i should actually do something besides homework to reinforce my understanding"
+            ]
+        }
+    ],
+    "instructor": "Bhardwaj, Anurag"
+}

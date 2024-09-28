@@ -1,0 +1,51 @@
+{
+    "crn": "11744",
+    "course_title": "",
+    "responses": [
+        {
+            "question": "what were the strengths of this course andor this instructor",
+            "responses": [
+                "",
+                "the assignment in the course is designed in a such a way that the learner learns most of the concepts for implementing information retrieval concepts",
+                "he is very knowledgeable in the subject",
+                "course was easy to understand"
+            ]
+        },
+        {
+            "question": "what could the instructor do to make this course better",
+            "responses": [
+                "",
+                "assignments could have been paced better otherwise the course is highly recommended",
+                "he could be more transparent about the deadlines and what each homework is going to be about he should adapt the course to our current time not have slides based on a 2010 book i think we shouldvehad more practical assignments and one which included scraping",
+                "pace the course better"
+            ]
+        },
+        {
+            "question": "please expand on the instructors strengths andor areas for improvement in facilitating inclusive learning",
+            "responses": [
+                "",
+                "the instructor is fully aware of the materials which helps him in thoroughly explain the concepts",
+                "he should better identify which is the important material he could conduct a survey on why students signed up for the course to adapt it to their expected outcomes its of no use to learn about statisticalinference quickly and bad for an ir course"
+            ]
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": [
+                "",
+                "the classrooms were well equipped with technology to enable proper online environment for students who take the class remotely",
+                "piazza was a good choice as other students could expose his logistical wrongdoings",
+                "no supplementary online material provided other than the textbooks"
+            ]
+        },
+        {
+            "question": "what i could have done to make this course better for myself",
+            "responses": [
+                "",
+                "try implementing important theoretical concepts by myself to know its working even better",
+                "pay attention to the lecturer instead of reading the book",
+                "get familiar with probabilitymath concepts"
+            ]
+        }
+    ],
+    "instructor": "Smith, David"
+}

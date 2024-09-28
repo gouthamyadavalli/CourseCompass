@@ -152,13 +152,17 @@ def process_pdfs(pdf_directory):
     for pdf_file in os.listdir(pdf_directory):
         if pdf_file.endswith('.pdf'):
             pdf_path = os.path.join(pdf_directory, pdf_file)
+            courseId = pdf_file.split('.')[0]
             print(f"Processing: {pdf_file}")
             
             # Extract and parse text from the PDF
             structured_data = extract_data_from_pdf(pdf_path)
-            process_dataframes(structured_data)
-
-    save_dataframes_to_csv()            
+            file_path = "data/course_comments_text/{courseId}.txt".format(courseId=courseId)
+            with open(file_path, "w") as f:
+                f.write(json.dumps(structured_data, indent=4))
+            #  save the structured data to a txt file
+            
+    
 
 file_path = "data/course_comments"
 

@@ -1,0 +1,77 @@
+{
+    "crn": "41152",
+    "course_title": "",
+    "responses": [
+        {
+            "question": "what were the strengths of this course andor this instructor",
+            "responses": [
+                "",
+                "class material are well organized",
+                "i think materials provided are usually helpful",
+                "his way of teaching was very good and effective",
+                "clear explanation step by step",
+                "great videos and thoroughly planned out semester with planned quiz dates etc makes this course easy to follow and learn in",
+                "the instructor was very knowledgeable of the course topic",
+                "the instructor is knowledgable and experienced in his field replies to students questions in time",
+                "an extremely knowledgeable professor enjoyed learning from him",
+                "the whole class is well organized and each course is valuable",
+                "examples on class are very helpful and practical always give us clear explainations"
+            ]
+        },
+        {
+            "question": "what could the instructor do to make this course better",
+            "responses": [
+                "",
+                "class time is short only 1h of class and 1h of recitationcant feel the real interation with professor and classmates since its online",
+                "na",
+                "no more he is perfect",
+                "we need more office hours also please see if you can stop using teams for this course it is almost impossible to find any single thread or specific comment in teams nothing is specifically organized by weekor topic in teams use something like piazza or campuswire",
+                "it would be better to have more examples during class",
+                "canvas announcements are more organized than teamsit is better to put the github classroom link to accept the assignment in the assignments part in canvas otherwise it is hard to find the links to accept homework in github classrooma lot of people only check the resources part in modules at the beginning of the semester because it is located at the top of all modules and is automatically collapsed as more and more modules are addedthrough the semester updating the resources module should come with a notice on canvas otherwise people tend to not noticing the change",
+                "prep some sort of documentation where we could practice building basic apps from scratch on a weekly basis alongside posting weekly videos explaining the concepts",
+                "im satisfied with everything",
+                "maybe more examples of implementations of different scenarios i know its implicit but like a blog system and a todo list are different in some ways and therere different ways to interact with databasesyncasync when to update the items etc and a bit more assignments to practice them"
+            ]
+        },
+        {
+            "question": "please expand on the instructors strengths andor areas for improvement in facilitating inclusive learning",
+            "responses": [
+                "",
+                "profound knowledge in web development",
+                "know where to start",
+                "very easy to follow lectures and very well designed quizs and assignments",
+                "the instructor is experienced and professional",
+                "this is an online development course and according to me the professor has done an excellent job",
+                "everything is ok",
+                "nan"
+            ]
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": [
+                "",
+                "very good",
+                "not very good experience for beginners in web development firstly the difficulty range of each assignment is too broad the initial quizzes are very simple but the difficulty increases progressively making ithard for beginners to keep up the recordings are only one hour each and even after watching and keeping notes there isnt simple to complete the later assignments well secondly the tas arent thoroughin grading the assignments and do not clarify the specific reasons for mistakes lastly for beginners if the assignments are not completed perfectly a lot of points are deducted yet there are no remedialmeasures typically other instructors offering this course provide extra credit but this instructor does not this is the only course in which ive received a b since coming to northeastern university",
+                "great course great videos",
+                "good",
+                "the online videos and material was extremely helpful",
+                "very well",
+                "good professor cristian always teaches handson techniques and give us related assignments to practice we can learn new things in the lessons and ask questions through recitations"
+            ]
+        },
+        {
+            "question": "what i could have done to make this course better for myself",
+            "responses": [
+                "",
+                "i need to connect with tas about questions i confused",
+                "practice more with new and emerging web technologies",
+                "nothing",
+                "maybe practiced more on building apps myself rather than just for the assignments",
+                "i should have paid more attention to external resource link",
+                "practice more",
+                "na"
+            ]
+        }
+    ],
+    "instructor": "Penarrieta, Cristian"
+}

@@ -1,0 +1,162 @@
+{
+    "crn": "21186",
+    "course_title": "",
+    "responses": [
+        {
+            "question": "what were the strengths of this course andor this instructor",
+            "responses": [
+                "",
+                "prof raj is a handson person he gives his best to bring a holistic experience while presenting the topic he would provide reading papers and coding assignments to keep students covered across thebreadths and depths of the subject",
+                "the strengths of this course is that there was room to explore and challenge oneself although not by raising the base requirement i feel this aspect made the course rewarding and fruitful for all studentsthe strengths of the instructor was his down to earth nature and how approachable he was his depth of knowledge and emphasis on this depth really ensured that all students had a solid grasp on allconcepts",
+                "covering the wide range of domains under artificial intelligence and giving assignments that helped us understand and implement these was a great source of learning",
+                " the instructor approaches the topics with a gusto that reflects passion he has amazingly curated presentations and slides he includes a multitude of handson examples which makes his classes even more interesting his assignments have written and coding submissions which furthermore cement the foundations the instructor by himself is extremely congenial and approachable",
+                "very knowledgeable and interactive and supportive",
+                "the class was really inclusive and interactive",
+                "prof venkat has a youthful energy when he teaches he has his ideas and concepts clear in his head and makes the lectures interactive no doubt as he gains more years of experience im sure he willbecome one of the best ai professors at northeastern",
+                "the class was always fun with good presentation and demos",
+                "the professor was very enthusiastic about the class",
+                "1 very active and responsive instructor responds to queries on campuswire really quickly also provides solutions to all technical problems that may arise during assignments2 very friendly and open to discussions3 prof has lot of demos which are great for some topics4 assignments are very light and manageable",
+                "he really loves his students to bits i would message him at 3 am and he would be there to help ive never felt like i was alone in this course and it was truly one of the best interactive experiences ive had atnortheastern he teaches just enough to engage the students attention  makes them want to learn  and then it is up to the student to put in the effort to cover the content",
+                "i think the instructors affinity for ai shows and makes it more engaging",
+                "amazing teacher",
+                "the teacher is very knowledgable and can explain the conepts very well as well as simplifying the complicated concepts",
+                "v enthusiastic and easy going v approachable",
+                "this was his first time teaching in northeastern and perhaps a proper graduate classroom and he did a good job the assignments were similar to what he taught in class but anyone interested in learning aiand has a decent programming background can navigate through the assignments and classes fairly easily",
+                "the professor had very good understanding of the topics he was teaching and he taught them in a way that made them easier to understand",
+                "the instructor is really good and try to teach students useful knowledge",
+                "1 teaching style was something i enjoyed it was more catered to our will to learn2 always on time and ensured that the classes were not boring with a lot of demonstrations3 ensured that we explored new possibilities and made sure that we learnt the concepts to solve the assignments",
+                "the assignments set by the professor were based on the topics taught in the class this made the course more enjoyable as i would understand the concepts and apply them in the assignments professorwould take time to answer the questions asked and if he did not have the answer he would give the answer and explanation in the following class",
+                "it was a big class with over 100 students sometimes its hard to follow when professor speaks without a microphone on",
+                "he has great presentation skills and also he is very knowledgeable",
+                "the lecture content would give a great overview of the concepts and build foundation for selfpaced learning outside of class",
+                "converses with students like a peer and helps clarify any doubts andor help with homework readily",
+                " making the course very interesting by visually and technically strong presentations up to date teaching and content covered in class rather than age old out of touch with reality syllabus the assignments in this course were the very best",
+                "professor has good knowledge about the field but wasnt prepared with the course material in most of the classes assignments were interesting learned a lot about reinforcement learning through them",
+                "the instructor was clear in communicating the concepts and ideas the slides were well prepared",
+                "i think he has a lot of experience making the lecture as engaging as possible"
+            ]
+        },
+        {
+            "question": "what could the instructor do to make this course better",
+            "responses": [
+                "",
+                "given that this is his first time teaching prof raj is doing great he could revisit his slides to add more information and structure his lecture better",
+                "i believe the material could have been more structured but given that the faculty was new and that this was his first time taking this course i believe he went above and beyond what i would expect a newprofessor would be able to do",
+                " more informative slides and notes i personally like video simulations and the working behind algorithms and models  would appreciate more of them as they make the class extremely intuitive",
+                "sometimes the professor goes a little fast especially when it is related to math concepts but he takes all questions and answers them however could pace down a little sometimes",
+                "make the content and the lectures bit more detailed and organized",
+                "discuss the papers he included under reading for the next lecture in class have more handson coding sessions in class and increase the character limit to more than 140 in his quizzes",
+                "more tas for better doubt clearing when in need",
+                "in the early part of the semester you can follow the powerpoint and learn a lot but later on its not so easy to follow",
+                "1 there needs to be a lot more study material readings and notes ppts are not nearly enough they cannot serve as a resource for self study they merely delineate the topics covered in the lecture2 the teaching assisstants seem to change their office hours timings every other day3 have an unofficial prerequisite of basic probability and linear algebra maybe take the first two classes to share to the point high quality resources for these topics and keep a graded assignment to testthese topics since without these it is impossible to grasp anything from mdps and machine learning",
+                "i feel like more informative slides would definitely help more but the professor also didnt have much time to prepare for this course and is definitely an iterative process that will only get better and better",
+                "explain the concepts in more detail and make the teaching more engaging",
+                "i found myself taking in a lot of technical information like formulas or howtos like how to get loss or something at once and often leaving class forgetting most of it im not sure if this is the fault of theinstructor or me probably mefirstly i think for parts where you writedraw instead of having slides having uploaded notes would be great to look back oversecondly why i think the fault is on me is because im not an ai student and i took this class to try it and i found that i dont really like it so it was easy for me to lose interest in class when so much wasthrown at me which lead to the aforementioned issueregardless though class was enjoyable",
+                "typed up notes to review after lecture",
+                "i know this was the first year teaching but i would have loved to have more resources and examples on current topics as well as supportive topics that are prerequesets as reminders to bring those behindup to speed",
+                "provide more informationbackgroundexplanations in the slides for better review of concepts",
+                "while the lectures were informative i think there are things he should have been better prepared for especially the mathy areas of the course where you would need to pay the most attention",
+                "have more readings from texxtbooks for the class as just the notes and slides were not enough sometimes",
+                "i really think the set of quiz is so unreasonable if you answer wrong one question you can only get 80 marks it may be reasonable to set 5 questions for a 5 points quiz now you can only get a100otherwise b80 which i think is not fairthe homework tries to include too many things sometimes the pdf is not same as the code description and needs to use campuswire to correct them the details are sometimes not so clear related tohomework i have to revise my homework several times according to the update in campuswire",
+                "i hope the toughness of assignment 2 was a bit less",
+                "maybe the lectures could be recorded so they can be revisited laterbetter in class resources could be used as the board was not visible properly in the class and sometimes it was difficult to hear him if the mic was not workingtas should be better prepared to answer questions related to the assignment as i found many times they werent able to clear doubts easily",
+                "improve the expectations of the assignment sometimes i wasnt able to understand what was being asked of me until i spoke to the professor",
+                "for me personally i felt that during assignment 3 which required heavy usage of pytorch as i had not used the library before and was not aligned with the terminologies it would have been very helpful ifprofessor had taken extra classes or shared some exercises so that i could have tackled the assignment better it does not make sense to teach the fundamentals in the regular class but since i never gotthe opportunity to use these libraries in my undergraduate program or while i was working doing this would have been helpful for me",
+                "1 using a microphone if its a big class",
+                "he couldve written some code during the class to demonstrate the concepts",
+                "the instructor uses a color scheme for the slides that is friendly for color blindness issues however we had plenty of lectures where slides were projected on the chalk board instead of the projectorscreen since the colors of the chalk board and the projector screen is totally opposite the color blind friendly color scheme was not as viewer friendly in terms of readability against the dark backgroundchalkboard",
+                "incredible instructor and course no changes",
+                " added some more content into the slides atleast for later reference sometimes its hard to just look at the material provided for that class to recollect what was discussed during the class the notesprovided is not helpful enough",
+                "take a few months off prepare the course material and then start teaching again",
+                "the highlevel discussions on nlp and computer vision were interesting but i could not really follow the technical aspects and didnt feel like i have learnt much",
+                "i think a recording would really help students reviewing the course material i understand that his lecture slides are supposed to be vague to make it easier to readsee but it does not help a lot when itcomes to reviewing using it homework can be phrased a bit clearer with what direction he wants it to be and there should be some scale that student can use to determine how correct they are with theirsolution without having to involve the ta or the professor and so far that is only available for assignment 1 the last homework can use a bit of an extension too since the final project is around the corner bythat point and its hard to juggle both at the same time"
+            ]
+        },
+        {
+            "question": "please expand on the instructors strengths andor areas for improvement in facilitating inclusive learning",
+            "responses": [
+                "",
+                "his style of teaching is fresh and can pretty confidently answer most questions that arise but simultaneously acknowledges when he doesnt know something"
+            ]
+        },
+        {
+            "question": "please expand on the instructors strengths andor areas for improvement in facilitating inclusive learning",
+            "responses": [
+                "",
+                "anyway the rajagopal is a good teacher trying to help students if he can improve the set of quiz and homework it will be better",
+                "strengths the reading materials are a very good way of expanding my knowledgeareas of improvement people who have no idea of ai need to do a lot of postlecture studies to keep up this could be brought down to a minimum glace of the lecture notes basic revision one way that ibelieve would work is to plan the way to present the material",
+                "i know for a fact that inclusiveness is one of his core teaching principles and i noticed that he strives for it i dont think its possible to facilitate a better learning environment",
+                "1 very enthusiastic2 always willing to help3 showed a lot of demos and kept the class interesting4 the choice of topics were very interestingwhat can be improved is the clarity regarding what is expected from the assignment",
+                " the professor is extremely enthusiastic and i have no doubt hell get better with time and in turn make the classes mor intuitive and interesting",
+                "knowledgeablefriendlyinteractive",
+                "instructor has good knowledge of the subject and is a good teacher who promotes interactions in class",
+                "as mentioned above if professor took recitation sessions or something of that kind and gave exercises to practise it would be very useful for a student to become better in the course",
+                "he was pretty good for someone who taught his first semester as an undergrad and grad professor he could work on making the class a little more interactive and maybe include labsrecitations from thenext semester onwards",
+                "the instructor is very friendly open to answering questions and discussions they are very approachable and are very active on campuswire which is really helpful from an assignments point of viewthe instructor must provide more study material ensure tas adhere to their office hours timings and have more rigidity and structure in the overall course",
+                "intuitive way of teaching very wellprepared slides with carefully pickedout examples",
+                "i have autism and have a hard time learning and picking up content in a lot of my classes but he made the classroom and extremely inclusive environment for all you could ask questions any time and henever displayed any form of frustration or disapproval i cant give higher praise for a khoury processor at northeastern he definitely is one of the highlights of my college experience",
+                " really enjoyed the teaching style and keeping the class interesting probably for the same one or two students asking redundant questions it could be helpful for all the other students to tell them to take the discussion after the class",
+                "professor is knowledgeable but the course lacked structure were paying a lot of money for each course its reasonable to expect the instructor to have the course material ready and have a clear plan foreach lecture i regret taking this course but didnt have an option as its a core course for my program i suggest the professor to take a semester off to thoroughly prepare lectures and then resumeteaching the course",
+                "na",
+                "i also was very confused at how to adapt the concepts into practice code and would have benifited from more examples but was greatful for the extra time the proffessor took in his office hours whichcounteracted this drawback for me",
+                "v energetic and welcoming to questionsdoubts and feedback"
+            ]
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": [
+                "",
+                "excellent course to start off learning about aithe professor was very helpful and highly enthusiastic about teaching",
+                "average",
+                "amazing course great learning thoughout",
+                "professor would interact regularly with students and solve the doubts posted online easily approachable and answers questions effectively",
+                "na",
+                "online experience was mostly for doubts clarifications office hours and assignment related questionsit was easy to follow and keep track of questions being asked",
+                "campuswire the forum for class discussions has been really helpful with the professor actively responding to all queries posted by students this has been extremely positive and comforting there are however not enough course materials resources and lecture notes the ppts that are shared serve more as a tool to provide directions to the lectures in the classroom while the professor isteaching but they do very littlenothing as a learning resource some lecture notes would be really helpful for those trying to revise",
+                "helpful and informative especially the papers posted for reading",
+                "this is mostly an inperson course and you should be prepared to attend all lectures because the professor is truly awesome",
+                "there was no online class made available for this coursesometimes due to unavoidable circumstances one can miss a lecture at least a recording of the class should me made available to students who missed the class",
+                "campuswire was helpful",
+                "the campus wire interactions were good",
+                "na",
+                "campuswire and course website were used effectively slides were beautiful",
+                "no online option"
+            ]
+        },
+        {
+            "question": "what i could have done to make this course better for myself",
+            "responses": [
+                "",
+                "sometimes i need to learn more after class to handle the knowledge",
+                "nothing this course was beyond my expectations ",
+                "a stronger understanding of math wouldve made this course easier for me",
+                " could have spent more time on foundational books",
+                "teach interestingly",
+                "couldve read all the paper readings better",
+                "had given more time to learn about topics in ai apart from what were taught in class to get a deeper understanding of the concepts",
+                "i could have put more time in understanding the fundamentals of libraries used which could have made the assignments and projects easier",
+                "i couldve spent more time on the subject and get a better understanding of the concepts",
+                "practiced python programming more as concepts were easily understood but not being good at coding can really cause a person to get stuck",
+                "read more textbook",
+                "better time management on my part to finish assignments well ahead of timei will try and review the optional readings after the semester",
+                "1 read thoroughly and in depth about everything the professor teaches in class from eternal sources and the internet and make notes after reading so i have study material for later on2 have realistic expectations about the course outcomes it is only going to introduce me to various ai topics not so much teach me about them if i want to learn about them i need to do my own studyand research independently",
+                "none",
+                "i loved this class and i tried my absolute best",
+                "should have enrolled for the class earlier",
+                "probably go back and go over what i didnt fully understand from class",
+                "could have made myself familiar with numpy and matplotlib",
+                "i couldve read more paperarticle related to it to see the problem clearer and as preparation for the homework",
+                "started the assignments early ",
+                "learned more of the background to get caught up",
+                "started homework earlier"
+            ]
+        }
+    ],
+    "instructor": "Venkatesaramani, Rajagopal"
+}

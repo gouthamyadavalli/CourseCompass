@@ -1,0 +1,117 @@
+{
+    "crn": "35159",
+    "course_title": "",
+    "responses": [
+        {
+            "question": "what were the strengths of this course andor this instructor",
+            "responses": [
+                "",
+                "it is a good course to take professor jose is very diligent and hardworking",
+                " the instructor showed understanding and patience with student misunderstandings he provided helpful oneonone assistance during office hours he maintained a friendly demeanor",
+                "a lot of valuable office hours were provided",
+                "he has amazing knowledge and know how to teach  share it with students",
+                "steps and steps to tell students how to code",
+                "teaching courses in a way easy to understand course material is useful and course structure is wellorganized we can learn how to build a website i love this course",
+                "hats off the best prof at neu",
+                "his expertise in web development",
+                "very positive attitude and always created an inclusive environment",
+                "the professor is particularly knowledgeable about the practical applications of this technology not just teaching how to use it but also how to make it more practical",
+                "assignments",
+                "the assignments are very well structured and great tools for learning the concepts the instructor organized the assignment with a flow that helped me understand and implement the concepts learned ithoroughly enjoyed working on the assignments",
+                "the professor is very passionate",
+                "his detailed knowledge",
+                "assignments were generally helpful in understanding webdev",
+                "the coursework was well designed",
+                "the course materials are detailed and designed to teach students step by step",
+                "the assignments were generally straightforward and made sense"
+            ]
+        },
+        {
+            "question": "what could the instructor do to make this course better",
+            "responses": [
+                "",
+                "reduce workload from students especially in the finals week it can lead to stress we have two quizzes one exam one assignment plus a project to deliver in a week which makes it hectic along with otherclasses",
+                " clearly communicate his office hour schedules and additional sessions improve coordination and communication with tas to ensure consistency increase responsiveness to student inquiries on piazza emails and teams messages enforce policies consistently to maintain fairness for instance ensuring that missed quizzes or exams are not typically allowed to be retaken as stated in the syllabus implement better monitoring of office hour queues for both himself and his tas to ensure smoother and more efficient assistance for students",
+                "assignment instruction should be more clear and concise that help students easy to follow the instructions for asignments sometimes were not correct with cost time for students to understand and followalso if allowing student to take project individually instructor should assign doable and manageable workload for them to complete i had not too much time to complete the project by myself due tostruggling of completing previous assignment",
+                "i feel getting tailwind css somewhere along the course can make it more exciting",
+                "none",
+                "the instruction for setting up environment and deployment to cloud aatlas has some errors students may feel confusing and hard to follow up",
+                "nothing ",
+                "have more office hours  there was problem with my code and since there are many ta office hours i went to a bunch of them no ta was able to solve the problem i had to wait a week to reach theinstructor for his office hour because he doesnt have regularly scheduled office hour it took the instructor only five minutes to fix my issue so i wasted all that time asking the ta i wish the ta quality isbetter and i want the instructor to have regular office hours so that no one waste time",
+                "i hope the code and steps in the homework can be thoroughly proofread",
+                "i love this course in its current format",
+                "good enough for me",
+                "make weightage for exams less",
+                "the class is heavily disorganized expectations for assignments are super unclear very impersonal with the professor assignments unnecessarily detailed and cumbersome strongly takes away fromlearning",
+                "please a more reliable guide file there are too many typos in it which makes me struggling every assignment"
+            ]
+        },
+        {
+            "question": "what could the instructor do to make this course better",
+            "responses": [
+                "",
+                "the tas need to notify students in advance of any rescheduling of office hours instead of being noshows when students are waiting this is particularly crucial for students who require assistance withsubmitting their homework before the deadline additionally it would be beneficial to receive grading earlier allowing students to use the feedback to improve their subsequent assignments",
+                "please communicate the requirements for each assignment and project better and please make certain that tas are clear on when they will and wont be available in office hours"
+            ]
+        },
+        {
+            "question": "please expand on the instructors strengths andor areas for improvement in facilitating inclusive learning",
+            "responses": [
+                "",
+                "see above",
+                "while the instructor was helpful and approachable he could improve inclusivity by being more available outside of class and diversifying communication channels",
+                "i hope we can spend an additional one or two classes on how to use javascript as im having a hard time digesting the new technology",
+                "the highlight is the way this course is organized the instructor has made efforts to design the course to help us learn the tech stack required by the companies for the present day it was a great course oneof the best i have taken at neu",
+                "its about ta part i have met these things too many times ta cancel the office hour frequently they showed late and reschedule the office hour i know it maybe emergencies but it is too frequent foronline courses the essential part is office hours but it didnt work as i expect",
+                "na",
+                "na",
+                "smaller class more communication and feedback rather than just providing a word document for assignment requirements less nitpicky assignment requirements smaller knowledge gaps betweenassignments",
+                "please hire better and responsible tas the current tas are really bad and the professor given the amount of hard work he puts in deserves better tas",
+                "coursework was great"
+            ]
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": [
+                "",
+                "good experience",
+                "this course presented intriguing material but it had several organizational issues that impacted my experience negativelyconcerns the course lacked organization at times causing confusion homework assignments were frequently updated without clear announcements leading to uncertainty about completed work discrepancies between project requirements in different documents caused confusion ta availability and office hours were inconsistent often compounded by frequent cancellations or absences resulting in long wait times and disruptions heavy reliance on ta assistance made completing assignments stressful assignments sometimes used outdated instructions or code causing unnecessary challenges collaborating on the quiz project posed challenges as it built upon the homework assignments making code sharing uncomfortable i wish it had been made clear from the outset that individuals could optto work on the project alone nonetheless my team and i chose the quiz project for its clearer requirements and predefined website idea",
+                "the professor and the ta are both very nice and the course is wellorganized however there are errors in the assignment documents which require a lot of time to debug",
+                "well organized and supportive office hours",
+                "great",
+                "great"
+            ]
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": [
+                "",
+                "none",
+                "good like this online course",
+                "amazing course",
+                "it was insightful"
+            ]
+        },
+        {
+            "question": "what i could have done to make this course better for myself",
+            "responses": [
+                "",
+                "should have taken only one class for the semester it was and still is a really hectic class with a lot of homework to do with repetitive work which requires a lot of self work hours",
+                "i did everything i could to enhance my experience in the course i actively engaged with the material sought assistance promptly and effectively managed my time the only aspect i could have improvedupon was selecting my project partner more carefully collaborating with her posed significant challenges and notably increased the projects difficulty for me",
+                "should spend more time to understand all the concepts and knowledge in this course",
+                "its a very well structured course definitely should be the way it is",
+                "none",
+                "take a harder course",
+                "it was already amazing",
+                "spending more time",
+                "spend a bit more time to fully grasp the technology",
+                "read homework guide and practice more",
+                "nothing course started from very basics of html and css",
+                "take notes when working on the lab and the hw will be a lot easier",
+                "review a lot",
+                "studied more"
+            ]
+        }
+    ],
+    "instructor": "Annunziato, Jose"
+}

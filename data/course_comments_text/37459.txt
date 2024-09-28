@@ -1,0 +1,103 @@
+{
+    "crn": "37459",
+    "course_title": "",
+    "responses": [
+        {
+            "question": "what were the strengths of this course andor this instructor",
+            "responses": [
+                "",
+                "very few professor are able to successfully walk the line between giving too much and too little information but professor venkat navigated it expertly",
+                "",
+                "the assignments of the course make one learn the concepts deep",
+                "answer questions timely through office hours and direct messages",
+                "apporachablehelpful",
+                "raj is an intelligent and engaging professor he also spends a lot of time outside of class doing amazing things his late policies are lenient if you use them right and he overall is very solid for this course",
+                "attractive",
+                "the instructor was punctual and provided a wellstructured course outline",
+                "i enjoyed this class immensely i am not super into ai as others in the course are i took this class to know the basics and learn more if i want to after taking this class i know this material is not for me but iloved coming to class and learning the subject matter mostly because of the instructor he made a very difficult and in my case blas\u00e9 subject matter exciting i would take any class offered by thisinstructor hands down favorite",
+                "instructor is brilliant yet welcoming he adjusts caters the class well for people who are brand new to ai while seemingly keeping it engaging enough for others who are not new",
+                "assignments and projects",
+                "professor is really caring  he would willing to spend a lot time to talk explain concepts",
+                "he was always willing to explain concepts and was available often",
+                "very friendly"
+            ]
+        },
+        {
+            "question": "what could the instructor do to make this course better",
+            "responses": [
+                "",
+                "longer lectures honestly i could not get enough",
+                "",
+                "the submission could be structured more evenly so that the end of semester is not very heavy submission worth more than 60 of total grades were due in the a single week during the course end whichcould have been distributed in a better way",
+                "have premade material and resources in the beginning of the course",
+                "provide more informative lectures help us by selecting bettersupporting materials record the lectures",
+                "better organizing the course too much weightage on few assignment",
+                "i found the pace of lectures to be too slow to keep me challenged and engaged throughout but too fast to where i would start doing something else and couldnt click back in and catch up i also thing someof the organization of the homework assignments couldve been improved slightly",
+                "better online resources like recorded videos of classes more informative slidesnotes",
+                "reduce excessive explanation on theoretical concepts to maintain student engagement",
+                "lecture notes need to be posted on timeearlier the slides have little information on them and are not very useful when going back to look at them for working on homeworks or the project",
+                "the only thing that i would think to make this course better would be to use the same 3rd party software as everyone else i found it frustrating in the beginning of the semester to have to learn how to usecampuswire it ended up being much better than piazza which im guessing is why but in the beginning of the semester i was annoyed by it so i guess in all nothing this course was pretty awesome",
+                "i would appreciate inperson lab time with the tas to practice things or review certain concepts",
+                "the tas are useless they never answer any of my questions please replace all your tas",
+                "make sure that students who join little late to the class also get the chance to submit the labs as university allows students to chose the classes by a certain date",
+                "professor could spend less time explaining things for students answerprofessor could spend less time explain more concrete content instead of something like ethics of ai",
+                "have a more consistent schedule for assignments having more labs and smaller assignments could help students understand concepts",
+                "could explore concepts in depth as this is a foundational course",
+                "better notes"
+            ]
+        },
+        {
+            "question": "please expand on the instructors strengths andor areas for improvement in facilitating inclusive learning",
+            "responses": [
+                "",
+                "im not really sure what this means in this context",
+                "",
+                "in class teaching and presentation",
+                "professor take his class seriously wellprepared and answer students questions well",
+                "he understand students and how to effectively communicate with them",
+                "spend more time explaining difficult aspects in the course reduce random discussion time in class and focus the discussion within the incomprehensible knowledge aspects",
+                "he was always willing to listen and talk to everyones ideas and was very inclusive to all answers",
+                "i firmly believe that in two years taking this class with raj is going to be the best way to go its clear that hes newer to teaching this course and courses i general but he clearly cares a ton and is a goodlecturer so when it all comes together into a finished product it will be great its just a matter of when",
+                "the instructors punctuality and organized course outline contributed positively to inclusivity however to enhance inclusivity further the instructor could incorporate more interactive elements toaccommodate diverse learning preferences and ensure all students feel engaged and valued in the learning process",
+                "i think that the professor already does everything necessary regarding inclusive learning he is easily reachable online and he responds very quickly he is transparent about how and why he teaches theway he does and he readily answers questions and fosters an open environment in which to ask questions even just to repeat something he already said",
+                "i really enjoyed how the professor made the class and the topics interesting and engaging always excited to learn new things this wayadd prerecord lecture sections that have examples available on canvas there are already youtube videos that explain similarly but it helps if professors can relate them to other topics from classadd calculations and formula work into slides rather than board similar yet different formulas writing them out seemed repetitive at times and confusing took a lot of class time"
+            ]
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": [
+                "",
+                "course has been mainly in person but the one online lecture was well thought out and well delivered",
+                "",
+                "not enough material alot of the material is added during the course instead of the beginning",
+                "na",
+                "this was not an online class",
+                "i appreciated that the professor emphasized that his slides were to help guide the lecture and that he would sometimes reference notes he put together on his site like for the search algorithms in thebeginning of the semester",
+                "got to learn a lot",
+                "lectures could have been recorded as sometimes students are occupied with career related situations and recorded lectures would really help in such scenarios",
+                "professors and tas are really helpful and provide necessary help for students online",
+                "i would sometimes forget to look at campuswire because my other classes use piazza",
+                "no online experience",
+                ""
+            ]
+        },
+        {
+            "question": "what i could have done to make this course better for myself",
+            "responses": [
+                "",
+                "approached the professor or the tas a bit more to get my doubts cleared",
+                "spent more time implementing each idea taught",
+                "",
+                "nothing",
+                "if i can outsource more info",
+                "read the textbooks more to throughly understand concepts",
+                "put more time into the final project more checkpoints to force myself to make progress through the semester",
+                "i probably couldve paid more attention in class i was there all the times but id often get distracted with other thing i had to do",
+                "should be strong enough in mathematical skills",
+                "i thoroughly enjoyed the course due to its practical nature which aligned well with my passion for coding reflecting on my experience i realize that i could have enhanced my learning further by activelyengaging in discussions during lectures or online forums forming study groups with classmates could have provided valuable opportunities for collaboration and deeper understanding of the materialadditionally seeking out additional resources or challenging myself with extra coding exercises outside of the curriculum could have helped solidify my skills and knowledge overall while i appreciated thecourses structure and support provided by instructors and tas i recognize that taking a more proactive approach to my learning could have made the experience even more enriching",
+                "started each assignment labs and homework earlier i learned for the third lab and assignment but i wish i had for the second"
+            ]
+        }
+    ],
+    "instructor": "Venkatesaramani, Rajagopal"
+}

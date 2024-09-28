@@ -1,0 +1,67 @@
+{
+    "crn": "35058",
+    "course_title": "",
+    "responses": [
+        {
+            "question": "what were the strengths of this course andor this instructor",
+            "responses": [
+                "",
+                "i cannot say enough good things about prof aloupis the way he breaks down difficult concepts is fantastic his library of online resources filled with his previous lectures and slides is infinitely helpful  ivewatched each lecture multiple times and i think i will continue to reference them throughout my careerhe explains algorithms in a very visual way in the past ive struggled with grasping some of the harder concepts because the way theyve been explained in books or class has been really flat  i haventbeen able to really see how some solutions or even data structures work but prof aloupis takes the time to make them really accessible his diagrams are brilliant he color codes everything which makesthings so much clearer  i can actually see how things fit together he doesnt speed through steps he concentrates on the theory and the concepts and really explains the why and how behind everythingwhich means we actually learn and understand the concepts and can use them later rather than just memorizing them he goes over actual problems so we can see how theories work in multiple situationsprof aloupis is approachable and asks questions of students during class to encourage participation its clear there is no judgment and there are no dumb questionsi really appreciated him taking the time to survey students early in the semester and then reach out to us to have oneonones its so hard to create a sense of community in online classes and this was agreat way to make connectionsi very much appreciate that he offers makeup lectures whenever theres canceled class due to holidays i feel this class has excellent valueits obvious that prof aloupis values student input and is constantly striving to improve",
+                "unbelievable depth of understanding ability to understand incorrect student answers and diagnose their problems on the fly",
+                "great course summaries and problem sets and ppt",
+                "very knowledgable",
+                "some of his videos were very well done and well explained",
+                "the preclass materials are detailed and comprehensive easy to catch up greg explain concepts very well in an easily understandable way",
+                "professor aloupis is an expert in this field hes one of the best professors at northeastern he is very approachable"
+            ]
+        },
+        {
+            "question": "what could the instructor do to make this course better",
+            "responses": [
+                "",
+                "i definitely struggled with exams but i understand using them as the main way to grade for students like me who arent the fastest test takers it would be helpful to have more practice exams like we didfor exam 1 to use to get more comfortable solving problems quickly and practice concepts were learningid also love some easier practice problems that i can use to work my way up to the more difficult homework assignments sort of like how kids do multiplication tables in grade school to practice some of thebasics before doing some of the harder problems the class in which we went over some basic graph questions is a good example of the type of questions that help me get comfortable working more quicklywith some of the conceptsin general good written feedback was provided for homework in a couple situations it might be nice to expand on that feedback for instance with comments like not a welldefined description it could behelpful to have an example of what would have made it a welldefined description",
+                "much more optional course work i felt like i would have preferred more practice problems to look at because thats where i tend to learn the most",
+                "weighting homeworks and not weighing grades on just 5 exams",
+                "the recordings of his lectures that were 8 years old are not as welldone or easy to follow as when he would record walking through a new power point i wish all the lessons were done in this way the examswere unfairly challenging in my opinion",
+                "record the lec and do a review on past exams",
+                "can include some pseudo code in the course material and even have some coding assignments apart from that the course is perfect"
+            ]
+        },
+        {
+            "question": "please expand on the instructors strengths andor areas for improvement in facilitating inclusive learning",
+            "responses": [
+                "",
+                "every one should take a class from prof aloupis hes an excellent teacher this was one of the hardest classes ive taken and im not going to get a great grade in it but it was definitely the most worthwhileive taken at northeastern i learned so much that will benefit me throughout my career and i will retain it because we were taught how to understand the material rather than just memorize it",
+                "great powerpoint summary and course notes",
+                "grading scale was confusing",
+                "all lectures should be recorded over a powerpoint like his new videos are done and he should replace the videos from many years ago exams should be much less unfairly challenging"
+            ]
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": [
+                "",
+                "this was definitely the best and most worthwhile online course experience of my entire graduate experience i loved having live class time rather than doing things asynchronously the online resourcesavailable for each lesson were outstanding",
+                "professor aloupis navigated the online environment well allowing for additional office hours and time for questions",
+                "professor has awesome illustrations of course contents",
+                "i do not think reverse style learning was very successful with preparing us for the rigor of the exams",
+                "didnt get to interact much with my peers but thats probably the nature of an online course"
+            ]
+        },
+        {
+            "question": "what i could have done to make this course better for myself",
+            "responses": [
+                "",
+                "visit ta hours more find more ways to practice the information figure out ways to be more successful during exams",
+                "taken better notes during lecture",
+                "i should have started the course much earlier and have more time to read textbook carefully",
+                "watched videos before class instead of binging them right before exams also doing more homeworks",
+                "completing homeworks and solved extra problem sets",
+                "spent more time looking for practice problems in the book",
+                "prepare better before live classes",
+                "took me a while to get used to the style of questions asked in the exam homeworks and extra problem sets really helped in preparing for the exams"
+            ]
+        }
+    ],
+    "instructor": "Aloupis, Gregory"
+}

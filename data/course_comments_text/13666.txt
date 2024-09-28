@@ -1,0 +1,76 @@
+{
+    "crn": "13666",
+    "course_title": "",
+    "responses": [
+        {
+            "question": "what were the strengths of this course andor this instructor",
+            "responses": [
+                "",
+                "very lax and approachable cares a lot about the subject good at teaching it course was informative and just overall interesting and useful to me",
+                "very knowledgeable and professional and interactive",
+                "i think he is very open to questions and he is a nice person im not afraid to ask questions and feel like i interrupt class",
+                "dedicated",
+                "the content of this course was presented with a welldefined structure",
+                "has clear concept and have the full understanding of the course materials",
+                "knowledgeable",
+                "prof iraklis is very easy enthusiastic about the class material he leaves time for questions and has long office hours for students in case class time is not enough the lectures are also very interactive andfun",
+                "very clear teaching style explains and gives lots of examples to help understand material",
+                "teaches really well discusses problems in depth to make the concept clear i liked his late assignment submission policy"
+            ]
+        },
+        {
+            "question": "what could the instructor do to make this course better",
+            "responses": [
+                "",
+                "balance the exam difficulty better exam 1 was brutal later exams were easier",
+                "the instructor could be a little more clear about the real life applications of some of the more complex algorithms but otherwise he is great",
+                "more study guide better examsi really appreciate the easier exams but i guess its not for everyonebecause i did worse the second time even though i studied more but just got tested on recursion andthird time i started doubting myself i think i did even worse and more stressedits just weird i was never able to show what i learned from exambut i guess its just me",
+                "assignment and exam rubrics were harsh there were no partial marking",
+                "enhance student learning by providing detailed feedback on assignments and exams this could include posting comprehensive solutions and thorough explanations for each assignment and exam coupledwith indepth discussions during class sessions additionally ensure a more strategic selection and fair grading of exam questions to align with the learning objectives",
+                "sometimes during office hours the instructor could be less condescending in terms of asking students to ask read textbook since its a hard to digest textbook clrs book",
+                "more coding assignments",
+                "analysis different algorithms which is not found in the textbook for better understanding also having a lab where we can apply  code the algorithm which we are studying",
+                "present more enthusiastically",
+                "it would be helpful to provide us with the lecture note beforeduring a lecture it will make it easier for students to follow in class it is helpful when the projected slide is changed and we still need to readsomething on the previous slide"
+            ]
+        },
+        {
+            "question": "please expand on the instructors strengths andor areas for improvement in facilitating inclusive learning",
+            "responses": [
+                "",
+                "i think that adding in ways to force people to read the book would be good also to make it clear early on in the course that this course definitely has prerequisites in practice even if it doesnt in registration",
+                "very knowledgeable and good at teaching however some of the complex concepts needs a little more explanation as sometimes hes a bit quick paced",
+                "i think he is very good at giving more context to the things we learn on class like dfs and bfs applications on graphs and stuff i think it is more engaging when i know what i can do with what he teach i learneda lot from the class even though i might get a terrible grade but i learned",
+                "integrate a richer variety of engaging teaching resources including animations illustrative images and videos to enhance the learning experience",
+                "has clear concept and have the full understanding of the course materials he can understand what student wants to communicate easily keeps the class interactive so student doesnt feel a one waylearning"
+            ]
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": [
+                "",
+                "the course was really good and the professor was very professional and helpful",
+                "i think if at the beginning of the class he would give us a website for example for visually understanding many of the concepts would be great he is a very nice person but i hope he can give the code forexample for the corresponding chapterwe can run it line by line and see it more clearly will be super helpfulbut thats a lot of work",
+                "normal",
+                "this course was great for the fundamental of computer program gives a nice perspective on how algorithm works",
+                "it was good"
+            ]
+        },
+        {
+            "question": "what i could have done to make this course better for myself",
+            "responses": [
+                "",
+                "read the book chapters further in advance",
+                "the course requires an indepth knowledge of data structures and prior experience in computer theory and one should take a bridge course online to brush up concepts before attending the course",
+                "i think i spent a lot time studying the very hard concepts but the exam was very easy for the second and thirdi would prefer a hard exam with a curve to be honest because i feel like i did not get testedon what i learnedbut got examed on if i have the most accurate memory i think it is frustrating for me but maybe its good for all other people so i didnt say anything its just odd the more i study the worsei get on examsand its just completely off i do understand i get better grades if i study even harderbut i just really feel like it missed some really interesting things i learned in classor its just me beingvery forgetfuland stressed idk but yea",
+                "nothing much this course is very similar to my undergrad algo class ive taken 3 years ago",
+                "preview the knowledge of data structure",
+                "try different algorithms other than textbook and analysis them",
+                "attend more and complete assignments on time",
+                "should have started reading the textbook earlier",
+                "not decrease the difficulty of course so drastically after the first test also i wud have made the assignments more challenging and give 2 weeks rather than giving simple assignment with 1 week deadline"
+            ]
+        }
+    ],
+    "instructor": "Tsekourakis, Iraklis"
+}

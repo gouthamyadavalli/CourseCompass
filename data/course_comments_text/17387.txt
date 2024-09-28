@@ -1,0 +1,150 @@
+{
+    "crn": "17387",
+    "course_title": "",
+    "responses": [
+        {
+            "question": "what were the strengths of this course andor this instructor",
+            "responses": [
+                "",
+                "organized everything detailed instructionsthough sometimes too detailed and lengthy overall great online learning experience the instructor modified the assignments according to students feedbackwhich is great",
+                "he clearly has taught this course many times before and it is a well oiled machine",
+                "professor annunziato provides clear and thorough explanation for the class materials",
+                "",
+                "we learned a lot and i feel like i know and have the right resources that i can use to make any website",
+                "the teacher is patient and the lectures are of high quality",
+                "very nice truly cares students",
+                "great professor with great teaching skills",
+                "supportive",
+                " good information good homeworks",
+                "really wellprepared",
+                "provided a comprhensive knowledge of the mern stack even as a beginner i was able to understand most of it",
+                "is a very helpful class and the professor is very helpful during the oh",
+                "concise expression",
+                "the material is good",
+                "supportive knowledgeable",
+                "the course materials are very clearthe recordings of every online lectures are super helpfulprofessor jose annunziato will adjust the course base on our feedbacks",
+                "useful",
+                "knowledgable and provides clear expectations",
+                "the course is quite good but there is a lot of repetition and loads of content which is very overwhelming and any learning gets buried under and forgotten by the next steptaking this course a little slower or reducing the content for the assignments would be helpful the assignments themselves were over 30 pages long which is quite ridiculous"
+            ]
+        },
+        {
+            "question": "what could the instructor do to make this course better",
+            "responses": [
+                "",
+                "nothing",
+                "there were occasional bugs in the hw code instructions but this is a minor issue",
+                "check the code in the assignment make sure everything is correct",
+                "the workload for this class is pretty high for this course for students are taking two classes andor looking for internship its stresful to finish the assignments on time it would be nice if the instructors canadjust the workload to a more reasonable amount or provides more guidanceexplanation for the homework",
+                "",
+                "exams are too tricky i found it hard to understand the basis of the code for some questions because things were named too similarly",
+                "the lectures move more slowly",
+                "have tas more responsible",
+                "na",
+                " have the kanbas assignment connect together better where at the end of the long process we have something working thats presentable and functioning",
+                "no improvements needed",
+                "tas need to be trained some tas are irresponsible they didnt know about the assignment and went to the office hour or grade the students assignment"
+            ]
+        },
+        {
+            "question": "what could the instructor do to make this course better",
+            "responses": [
+                "",
+                "make it more logic from the overall standviewin our course the emphasis is often on instant responses rather than systematic learning moving from messy code to normalized code however ive found that this approach leaves a gap inunderstanding the overall architecturemoreover the challenging nature of messy code brings overwhelming workload pressure weekly i invest excessive time in dealing with messy codeim looking for a more efficient and concise approach thanks",
+                "some assignment took too much time",
+                "na",
+                "more time to finish the lab",
+                "the professor switched the course midway through from involved indepth challengebased material to copypaste fest as a result of workload complaints this drastically reduced the quality of thecourse and made homework assignments the equivalent of following a medium article would have been better standing by the standard set by earlier assignments and forcing people to actually coderather than copy paste",
+                "lessen the workload"
+            ]
+        },
+        {
+            "question": "please expand on the instructors strengths andor areas for improvement in facilitating inclusive learning",
+            "responses": [
+                "",
+                "clear instructions in full stack development",
+                "he seems to be understanding of students needs and was responsive to constructive criticism about the workload for assignment 2",
+                "1 the grading rubric is not clear in this class and different tas graded the assignments with different standards which provided inconsistency regarding the grading2 it would be nice if late days can be offered since sometimes things happen in life for example a total of 10 days can be offered to each student starting each semesters it would allow students to finishthe assignments more thoroughly instead of rushing it",
+                "",
+                "the teacher recorded the lesson it is convenient for students to review and those who cannot attend class in time",
+                "ver clear lecturei can tell professor jose is preparing a lot ahead of the lecture",
+                "tas should be more responsible",
+                "na",
+                "hands on practice demo code and project oriented",
+                "tas need to be trained some tas are irresponsible they didnt know about the assignment and went to the office hour or grade the students assignment",
+                "everything is good",
+                "the tas racial ratio is odd why are there no chinese tas even though approximately half of the students in this course are chinese and there are many chinese students in our university i believe there isnot enough representation",
+                "it is hard to do the assignment and the project at the same time it could be better to assign the assignment in the first couples of weeks and give us at least a mouth to complete the project with no need todo any assignment",
+                "na",
+                "best course",
+                "the instructor is really good and there to assist personally i think there is just way too much work required"
+            ]
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": []
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": [
+                "",
+                "extremely great experience organized materials online sources and ta supports",
+                "great",
+                "this course was extremely well organized for online work",
+                "",
+                "the online class was too long i found myself getting bored and having trouble focusing by the end of the 2 hour and a half lecture",
+                "time is flexible it is very convenient for students who live far away",
+                "good",
+                "the materials and lectures are straightforward and fun",
+                "good",
+                "workload too heavy",
+                "great the professor is awesome and wellknowledged",
+                "awesome experience",
+                "learn a lot from this course",
+                "the online class was very helpful",
+                "in our course the emphasis is often on instant responses rather than systematic learning moving from messy code to normalized code however ive found that this approach leaves a gap inunderstanding the overall architecturemoreover the challenging nature of messy code brings overwhelming workload pressure weekly i invest excessive time in dealing with messy codeim looking for a more efficient and concise approach thanks",
+                "good",
+                "supportive",
+                "really like this online course professor will answer students questions whenever during the online sessions",
+                "i like this useful course",
+                "very laid back course",
+                "this course has loads of content and it is very overwhelming once you fall behind it does get hard to catch up since sometimes this is not the only course being takenworkload should really be reduced as i struggled with that with so much information i feel like im just going through the content and fixing stuff and learning barely anything",
+                "its good"
+            ]
+        },
+        {
+            "question": "what i could have done to make this course better for myself",
+            "responses": [
+                "",
+                "nothing",
+                "attended the lectures more often",
+                "",
+                "shorter lectures and more examples in class that help us with exams",
+                "review after class",
+                "make sure ta are showing up at assigned office hour time",
+                "attend every single class lecture",
+                "na",
+                "reduce workload",
+                " maybe a different structured course having a nice working project at the end of the 3 month assignment"
+            ]
+        },
+        {
+            "question": "what i could have done to make this course better for myself",
+            "responses": [
+                "",
+                "practice more",
+                "start project and hw earlier",
+                "go to online class is more helpful just watching the video",
+                "to seek more online course source",
+                "take more time",
+                "make tasks smaller like seperate each assignment into 24 pieces so that we can focus on one task at each time and it helps debugging",
+                "time management",
+                "na",
+                "pretty good now",
+                "spent a lot more time on this course which i really dont think is feasible",
+                "start doing my project earlier"
+            ]
+        }
+    ],
+    "instructor": "Annunziato, Jose"
+}

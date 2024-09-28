@@ -1,0 +1,47 @@
+{
+    "crn": "11382",
+    "course_title": "",
+    "responses": [
+        {
+            "question": "what were the strengths of this course andor this instructor",
+            "responses": [
+                "",
+                "the professor was very enthusiastic and knowledgeable about the course but the material was very dense and contained lots of mathematical formulas and concepts",
+                "very passionate",
+                "he is very passionate about the subject  thats goodits just that he talks a lot and there is very little meat in the lecturesi would prefer going deeper in some of the math  like transformers and having exercises on that lot of the times i went home and i learned very little"
+            ]
+        },
+        {
+            "question": "what could the instructor do to make this course better",
+            "responses": [
+                "",
+                "align it with the latest developments and focus on the practical aspect",
+                "the machine learning part feels overwhelming to grasp at times so professor could probably go in some details",
+                "the course could be more interactive if the instructor didnt just go over the slides skipping the main ideas of the difficult probability formulas instead the instructor could point to the formula call its nameand then ask students to implement it in the midterm exam when the derivation of the formulas is skipped it becomes impossible to understand them completely use them efficiently and moreoverremember them additionally the pace of the lecture is too fast making it very hard to follow the instructor the attendance of the class dropped from 50 to 8 people with students showing up only for themidterm this is because reading the book is way more helpful than attending the lecturesthe assignment grading is another negative experience there is no rubric and no helpful feedback on graded assignments when you ask tas who havent taken this course before for help they do theirbest however they grade according to the key which is different from what they advised students to do",
+                "please make lectures less dry"
+            ]
+        },
+        {
+            "question": "please expand on the instructors strengths andor areas for improvement in facilitating inclusive learning",
+            "responses": [
+                "",
+                "answers all questions"
+            ]
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "question": "what i could have done to make this course better for myself",
+            "responses": [
+                "",
+                "focus on the practical aspect of the course assignments should contain clear language on what needs to be done",
+                "i think it would be better to drop this course before the deadline however i realized that the course is very bad after first two weeks"
+            ]
+        }
+    ],
+    "instructor": "Smith, David"
+}

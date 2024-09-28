@@ -1,0 +1,149 @@
+{
+    "crn": "36915",
+    "course_title": "",
+    "responses": [
+        {
+            "question": "what were the strengths of this course andor this instructor",
+            "responses": [
+                "",
+                "clearly explains topics very approachable stays after class to help acts with due diligence reviews his own work and assignments and points out flaws and mistakes and immediately lets students know",
+                "prof annunziato is a very engaging lecturer and the live coding examples were helpful to see",
+                "well structured and the professor knows the courses ins and outs",
+                "the lab is perfectpeople could figure things out even if they felt confused  or just got lost because their mind wondered in class",
+                "the instructor cleared every doubt after the class and was very effective in teaching us the concepts in a detailed way so that every student in the class can easily understand the concepts",
+                "prof annunziato organized the material well and explained concepts concisely he was always willing to stay and help students after class even though it was late",
+                "the professor has a good understanding of the course and its structure is welldesigned for learning and comprehension",
+                "the biggest strength is professor jose and this class would not have been the same without him and his amazing teaching method",
+                "the course covers a huge breadth of information and i really appreciate the historical perspective that dranunziado brings to his lectures",
+                "hes very enthusiastic about web development and is very approachable",
+                "the course covered a lot you can learn a lot by doing the homework",
+                "a lot of handson teaching covered topics in depth",
+                "his homework assignments had very detailed instructions that made it easier to do web development",
+                "the instructor is very passionate about the topic and very knowledgeable as well i think he also controls the pace of the lecture pretty well we always get to go through the materials that are importantwith some extra time for other activities like quizzes or in class questions",
+                "all of the professors materials are wellwritten",
+                "he is willing to help",
+                "the course will provide and overall view of the mern stack and its industry application is detail the instructor is also very well aware of the topics and help the student in any area they are stuck the finalproject is very much detailed and gives a good overview of the entire web development course",
+                "the class desgin is really good the professor is really flexible and kind",
+                "the course material and the assignments prepare you well for the tech stack and how to create an entire webapplication surely a good addition to my resume",
+                "great teaching best course materials and assignment arrangement ever",
+                "instructor explained the topics briefly and clearly homeworks were structured well enough to get clear understanding of the the topics"
+            ]
+        },
+        {
+            "question": "what could the instructor do to make this course better",
+            "responses": [
+                "",
+                "met more often throughout the week",
+                "while the live coding examples were helpful sometimes things could get a bit repetitive perhaps having some of the code available to demonstrate live and having other almost identical operations alreadyfinished and just briefly reviewed would allow us to cover more material",
+                "he did very well the homeworks were very timeconsuming but you come out the other side more confident because you have learned a lot",
+                "i wish the instructor could have more ohs as tas sometimes cannot really find what the bug  problem is",
+                "transparency on the rubric there is basically no way for the student to understand what is happening with the grading unless we approach a ta in their office hours it improved over the duration of thecourse but would be great if it is the norm",
+                "na",
+                "out of the instructors control but it would have been nice to either have a few more tas or a smaller amount of students it was often very difficult to get in contact with a ta based on the volume ofstudents attending office hours",
+                "na",
+                "there were never enough tas for the amount of people having trouble ive lost count of how many times i queued up to try and join office hours sat in the queue for four hours then got kicked out of thequeue once office hours had endedi felt incredibly ripped off by the textbook i was required to purchase it to answer a single question on one of the homework assignments and the answer just required me to copy and paste a block of textfurthermore the text of the textbook seemed to be identical to the homework so i paid 75 to get one question answeredthe lectures went way too fast for me dranunziado clearly knows his stuff but there was no way for me to keep up and codealong with the lecture especially since he was using ai to fill out big chunks ofthe code which i was unable to copy down by hand i spent so much time trying to keep up with him that i missed a lot of what he was talking aboutfinally the assignments felt simultaneously too easy and too hard there was a lot of what felt like busywork to me the labs seem designed to be completed purely by copying and pasting dranunziadoscode"
+            ]
+        },
+        {
+            "question": "what could the instructor do to make this course better",
+            "responses": [
+                "",
+                "personally i dont think the professor delivered an efficient lecture his lecture was solely based on live coding we know this based on the lab section on the homework but three hours of live coding makesthe lecture inefficient explaining concepts using slides before each live coding is probably better",
+                "assignments are a bit heavy maybe make them a bit more simple",
+                "make sure that the instructions on the homework assignment actually work before giving out the homework",
+                "though the assignments instructions are often very clear i still wish that the assignment has a grading rubric and also maybe decrease the amount of work asked for first two assignments its a lot ofrepetitive work and i feel like the amount of time i dedicated to these two and the amount of stuff i learned is not quite worth it only for the first two assignments",
+                "i think the course is already as good as it can be",
+                "more accurate code in homeworks",
+                "honestly i think that this course is not a good candidate for the onceweek time block i understand why it exists and why it works for some peoples schedules after all i took it however 3h 20minutes is alot given the sheer amount of material",
+                "better logistics for the course faced a lot of logistics issues the tas were rarely available when required skipped during submission days and a lot of late assignment evaluation which turned out a lot atthe end of the course",
+                "ask tas show up in their office hour the khoury q is never open the zoom meeting never starts",
+                "make the piazza more organized as it is very cluttered and most of the important announcements and details relateed to course are missed and not clearly conveyed",
+                "he is the best professor at least until now",
+                "make the piazza more organized its too spammed with instructor notes which kind of makes it hard to keep track of important announcements",
+                "this is the best"
+            ]
+        },
+        {
+            "question": "please expand on the instructors strengths andor areas for improvement in facilitating inclusive learning",
+            "responses": [
+                "",
+                "occasional group discussions helped in the beginning",
+                "prof annunziato delivers information very clearly and is able to respond to questions to clarify student misunderstandings",
+                "na",
+                "na",
+                "the professor possesses strong communication skills and is consistently available to assist students his grasp of web development is thorough ensuring that he imparts knowledge effectively theassignments are meticulously structured facilitating not only learning but also the practical application of concepts in project development this thoughtful design of coursework allows students toprogressively build their skills and confidence in web development",
+                "as i said the three hours of live coding dont facilitate inclusive learning also the instructor team should pay more attention to assignment preparation this professor has taught this class for manysemesters so errorfree and clear assignment instructions are the basic expectation there are six assignments this semester and every assignment has more than five errorstypos which is unacceptableand makes people feel the instructor didnt treat the class seriously",
+                "na",
+                "if the code on the homework actually works it makes learning the content easier instead of spending a lot of time debugging",
+                "the professor values an inclass learning environment that benefits everyone by ensuring the classroom is quiet allowing all students to fully focus on the lecture rather than discussing the course materialduring class",
+                "he is clear and passioante about his teachings",
+                "the class definitely imo focuses on breadth over depth i understand why it is a priority to have students touch on all the important concepts however it felt like a constant race to catch up witheverything i never really felt like i had a solid understanding of any given topic and rather than having time to work through it had to forego that understanding to be able to keep up with the next topic",
+                "na",
+                "he usually explains some difficult and complex content in simple way that we can all understand",
+                "na"
+            ]
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": []
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": [
+                "",
+                "the materials provided by prof jose are amazing and are really useful while preparing for job interviews",
+                "not often but effective the professor recaps the previous class very well before moving onto that days topics makes resources readily available",
+                "piazza question responses were helpful in troubleshooting common homework typosproblems i didnt use much oh support however i noticed a lot of students in piazza having difficulty getting in touchtas during their scheduled oh slots",
+                "very well structured course and professor annunziato really knows his stuff",
+                "love the recording makes it possible for me to review the part i got lost in the lecture",
+                "there was way too much handholding giving the student almost every bit of code required to finish the course leads to them not learning the ability to searchdebug i come to this conclusion due to 1 i have been a ta for studentsin other courses where students have come to expect the same and find it difficult2 i personally lose motivation to do something when everything is handed to me straight",
+                "there were many resources including the book provided by the professor which was very helpful in doing the assignments and understanding more about the instructions in detail",
+                "online canvas materials and piazza contributed greatly to my learning in this course it was also great to have the option to attend virtually especially with this being an evening class and other obligationssometimes arising the flexibility created by the online learning environment worked extremely well in this course",
+                "jose annunziato is a great professor and i enjoyed his classes i was not aware of the required technology before starting the classes but they helped me to gain a good understanding of web developmentbasics by the end of the class i had a solid grasp of web development and it was worth taking this course under prof jose",
+                "i found it extremely difficult to get help either through the class piazza or through office hours piazza questions often went unanswered for weeks and office hours required me to queue for hours to days tospeak with someone",
+                "the canvas is organized",
+                "online classes were just as useful as inperson ones",
+                "there were a lot of good resources online from the professor that helped me better understand the material",
+                "the course materials are really well organized in canvas and instructor and ta are also very active on piazza i also really appreciate the fact that theres a zoom option for the lectures",
+                "the professor and tas are very supportive",
+                "great",
+                "the material and the lecutures given by the professor are very insigntful the knowledge gained helped me solve the assignments and increase my knowledge of mern stack and its overall usage in theindustry",
+                "love the class design of delivering a real project throughout the whole semester professor quite helpful and tas answer questions effectively also the class materials are instructive love it",
+                "the materials and the lectures given by professor are very structured and insightful the knowledge gained helped me solve the assignments and increase my knowledge in tech stack and its usage inindustry"
+            ]
+        },
+        {
+            "question": "what i could have done to make this course better for myself",
+            "responses": [
+                "",
+                "go to office hours more to ask more questions",
+                "explore more applications of course material outside of kanbas assignments",
+                "i think i have done my best in this course and spent about 3040hrs a week for learning",
+                "read through the lab session and make sure i figured out what each function means will make the debugging a lot easier",
+                "been given a set of objectives to hit while not being handed everything directly and leaving the exact specifics of hitting the objectives openended",
+                "na",
+                "if i had more time i would have liked to build my own project alongside the homework and course project to expand more upon the topics i wanted more practice with after this course i am planning to takeadvantage of the summer to attempt a solo project",
+                "na",
+                "i could have paid closer attention during the lectures and come having already familiarized myself with the material",
+                "i couldve finished the labs consistently before every lecture",
+                "understood assignments a bit better and put in more time and effort in the assignments",
+                "probably attend more office hours for assignments earlier"
+            ]
+        },
+        {
+            "question": "what i could have done to make this course better for myself",
+            "responses": [
+                "",
+                "more guidance and less error in the code in the assignments",
+                "faster response on doubts asked in piazza",
+                "work on my own project",
+                "i could have revised the mern stack basics beforehand that would have helped me to perform more well in the class and ask meaningful doubts that would inturn help me",
+                "learn some more from outside of school",
+                "i could have done the assignments and labs more diligently by paying attention to every small detail",
+                "organized my time better",
+                "i registered for this course so late if i had started this course three weeks earlier i could make better outcome"
+            ]
+        }
+    ],
+    "instructor": "Annunziato, Jose"
+}

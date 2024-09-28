@@ -1,0 +1,64 @@
+{
+    "crn": "11209",
+    "course_title": "",
+    "responses": [
+        {
+            "question": "what were the strengths of this course andor this instructor",
+            "responses": [
+                "",
+                "professor is great to learn search algorithms and certain reinforcement learning techniques you may grit your teeth at times but the job does get accomplished",
+                "professor amato is very knowledgeable and the material is fascinating",
+                "the course would be interesting if the professor explained concepts rather than showing slides of uc berkley the course is not at the grad level since the course work has been taken from uc berkleyundergrad he provided the same to us",
+                "material and in class teaching session",
+                "na"
+            ]
+        },
+        {
+            "question": "what could the instructor do to make this course better",
+            "responses": [
+                "",
+                "provide better instructions for content beyond search and markov chains examples in class sometime became confusing because of the convoluted examples used homeworks were extremelyinconsistent often times context of problems were confusing where the professor admit that the context is confusing there were many instances where the question was wrong or misleading as wellgrading also became an issue where often times tas were proven to be incorrect i often wonder whether the tas graded correctly because some of the questions the tas or professor refuse to give thesolution and i question how grading was performed overall i just got tired of bad homework problems bad ta gradings trying to understand confusing material that he teaches but is completely clear froma previous professor i have taken at neu i have had many excellent professors at neu who taught better and this professor failed to deliver",
+                "professor amatos lectures are dry and seem to be built around a level of student interaction that he doesnt get homework often felt like it was coming out late or based on material we hadnt gotten toyet the pace of the class felt very confused",
+                "tas did not seem knowledgable in subjectmore oh times with professor that worked better in the weekly schedule ie not the day ps were duemore examples in classhave ps ready earlier",
+                "the professor should explain the concepts and at least implement the algorithms in the class instead of assuming that students will understand everything just from ppt",
+                "the cs188 assignments both problem sets and programming assignments need to be replaced the slides as well",
+                "instructor could grade performance more fairly and provide homework solution so students do not repeat same mistakes in exam",
+                "adding more basic concepts in regard to machine learning and explaining concepts clearly",
+                "get more tas since there are only 4 tas and they dont respond on piazza as well as dont know the concepts when visiting office hours could provide solutions of the problem sets"
+            ]
+        },
+        {
+            "question": "please expand on the instructors strengths andor areas for improvement in facilitating inclusive learning",
+            "responses": [
+                "",
+                "professor has great enthusiasm and tempo in right areas but loses individuals with unconventional methods of teaching that could be more simple with better handson examples accept better tas whocan grade and is more available provide better homework questions that is vetted by yourself for understanding narrow the scope for midterms by providing a past mock exam that students can studynarrowing topics on over 10 lectures for midterm 2 was a nightmare especially when scope can be within class lectures homeworks programming assignments and etc give the midterm a test trial fortime before handing to students several students ive talked to didnt even finish the exam or rushed answers there were several areas that calculations took time to calculate provide a guideline forresearch projects where you give an example of what formal is within different scopes beside search",
+                "the programming assignments are taken from uc berkley and the evaluation is too bad for the assignment adding new assignments would be better and problem sets are also from uc berkley theresnothing new the professor is adding to the course",
+                "exam material and time distance between 2 exams"
+            ]
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": [
+                "",
+                "online stuff was halfbaked wished things were a bit more organized and uploaded more promptly especially mock exams to help study for midterms",
+                "class recording are of no use as most of video will be blocked by the professor",
+                "class was in person",
+                "great course"
+            ]
+        },
+        {
+            "question": "what i could have done to make this course better for myself",
+            "responses": [
+                "",
+                "take a different course",
+                "i wouldve liked to have come into the class with deeper knowledge of probability and linear algebra",
+                "find more example questions and do them",
+                "practice more problem to helped with exam",
+                "start working on assignments earlier",
+                "worked on coding skills",
+                "to be prepared with the content before taking this course"
+            ]
+        }
+    ],
+    "instructor": "Amato, Christopher"
+}

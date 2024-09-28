@@ -1,0 +1,147 @@
+{
+    "crn": "11550",
+    "course_title": "",
+    "responses": [
+        {
+            "question": "what were the strengths of this course andor this instructor",
+            "responses": [
+                "",
+                "the professor livecoded which enhanced the learning processin spite of being a completely online class the learning process was not compromised none whatsoever one of the best courses for web development for sure",
+                "professors knowledge on the subject",
+                "the instructor knows and explains the concepts very well",
+                "made concepts and methodologies clear was very respectful and nice to students answered questions with patience",
+                "very good practical demonstration for learning",
+                "thank you so much professor really helpful explanation and make web dev much more attractive to me",
+                "welldesigned course and always up for any queries",
+                "professor explain the concepts in depth and explained industry relevant concepts",
+                "good at clearing doubts and took out sufficient time for student to clear their doubts",
+                "the best professor",
+                "the topics taught were extremely practical and delivered efficiently",
+                "instructor is passionate friendly and good at teaching this class overall",
+                "ive learned a lot of new skills that are very useful and when im done ill be able to master the basics of developing the front and back end of a website thats why i recommend this class to anyonestudying computers",
+                "documentation",
+                "practical implementation",
+                "instructor was always open to resolving doubts and taught the course really well",
+                "instructor had a clear picture of what he is planning to discuss in every class and was welcoming to take up students questions",
+                "prof is very knowledgeable and is enthusiastic about the subject very fair in grading as well",
+                "the professor created a really good syllabus the assignments were extremely creative and informative he also conducted a lot of office hours to resolve queries and help students out i would 100recommend this course to all cs students",
+                "great professor explains really well very understanding",
+                "he was enthusiastic he had a lot of knowledge he himself during lecture is very organized",
+                "the professor knows his field thoroughly he teaches enthusiastically and answers all doubts patiently he makes the topics interesting",
+                "covers material thoroughlyanswers questions"
+            ]
+        },
+        {
+            "question": "what could the instructor do to make this course better",
+            "responses": [
+                "",
+                "provide more organized assignments lectures demanded a lot of time on top of already demanding class work",
+                "na",
+                "upload lecture videos more promptly",
+                "the instructor should have given more time for the project",
+                "nothing much",
+                "have a better office hour system for students many students facing waiting in line for almost a hour to get into the zoom meeting and i felt like theres not a very clear schedule like rubrics for tas to followif almost 80 students are facing the deployment problem and each of them goes to ask for help from ta it would cause lot of people waiting and not getting a better learning experience in this case a tacan make an announcement in piazza to answer deployment problem or to show tutorial for all students this is just an example thank you very much i learned a lot from this course and wish this course tobe better an better for infuture students",
+                "reduce a little bit of course load",
+                "na",
+                "its hard to follow an instructor in class and do hw and still end up spending extra time rewatching the instructors video several times but the nice thing about recording is that you can see it until you learnit but its time consuming",
+                "pretty much nothing but can be given us something realtime projects and tasks",
+                "assignments can be a little more challenging without providing the entire starter code"
+            ]
+        },
+        {
+            "question": "what could the instructor do to make this course better",
+            "responses": [
+                "",
+                "more challenging assignments avoid giving all the code",
+                "the management of the ta group is messy",
+                "na",
+                "make the assignments less redundant",
+                "everything is already perfect",
+                "he is a very good professor",
+                "lessen the amount of assignments exams quizzes",
+                "hire better tas",
+                "",
+                "na",
+                "his online material was out of date",
+                "setup the khoury office hours app for this course the tas just have their zoom links and there is no transparency if the ta is available or not during their office hours many a times we would be just stuck inthe waiting room unaware if the ta is busy with a student or unavailable altogether",
+                "cover best practicesvariable names on midterm were extremely difficult to keep straight ie asd dsa qwe ewq etc in the same question more thought was put into keeping vars straight rather than webdev concepts"
+            ]
+        },
+        {
+            "question": "please expand on the instructors strengths andor areas for improvement in facilitating inclusive learning",
+            "responses": [
+                "",
+                "it was an online course there could be more in group projects",
+                "lectures were great to attend",
+                "i wish i would have taken the in person lecture class that would have been an even better experience with the professor",
+                "welldesigned course and always up for any queries every class had qna sessions and other than that we had wellinformed and cooperating tas piazza for help for time other than lecture hours",
+                "professor was teaching the practical applications and his assignments really made us understand the concepts",
+                "everything related to learning was really good",
+                "professor is really great at getting to the most important topics through extremely helpful hands on exercises that aides in putting the concepts into practice",
+                "na",
+                "but there is really a lot of homework and its still a struggle for me to master so many skills in a short period of time especially final project because basically the skills needed to be able to actually startbuilding a standalone website are taught at the very end and although you can start very early you can really only start doing it at the end of the semester for someone like me who doesnt have a webfoundation it was a really big workload for me in this class",
+                " clear and concise while discussing concepts good coursework practical assignments",
+                "na",
+                "the professor has really strong basics and has helped with any type of query in the course",
+                "he should make the coursework less but more in depth this way we have more time for the final project",
+                "it was great"
+            ]
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": [
+                "",
+                "one of the best online courses taught",
+                "great experience professor jose made everything easy for us to understand he is amazing",
+                "great professor love the live coding there are video recording of the lessons on youtube which helps a lot",
+                "the materials are wellorganized the instructor gives live broadcasting of the course each week and is is extremely helpful",
+                "professor was interactive in lectures however office hours with instructors was difficult queues were long and no reason was given to interact with classmates",
+                "very good experience the only issue was the tas were non responsive and the worst of any course i have taken so far",
+                "good",
+                "this was the best course i have seen in northeastern",
+                "the lectures were very helpful and gave me deep knowledge about the course",
+                "really appreciate how professor took initiative to reduce the courseload after listening to the students that it was becoming too hectic without compromising on the learning aspect",
+                "great professor greating teaching",
+                "i still enjoy taking online classes because i can watch the professors videos over and over again until i get it and for me online classes are a little more efficient than offline ones but its a challenge for selfdrive",
+                "this is by far my favorite course i absolutely loved the way it was taught",
+                "its good though the interaction can be little less professor managed to keep the documentation so detail that we barely need any assistance",
+                "online course environment had sufficient resources to help me with my course",
+                "taking online course is great but did not get chance to interact much with my fellow students",
+                "the assignments were well done overall and had good instructions",
+                "the class was very interactive and collaborative even in an online format the professor attended to all the queries posted during the class",
+                "good",
+                "i felt like the class would have been better online the online class shouldnt even have been offered deadlines were pushed back final project is nearly impossible to do with all the deadlines pushed backhowever the deadlines had to be pushed back because of the poorly written documentation which might have been out of date i would have loved professor annunziatos class offline there are too manylectures to catch up on but scheduling would have been better if offline i enjoyed how much help hed give in oh but i feel like it was also giving him and the tas more workload if the docs assignmentscourses were not so disorganized his tas would also often not attend oh",
+                "the online experience was great prof jose is extremely accommodating and creates a good classroom environment even on a zoom call"
+            ]
+        },
+        {
+            "question": "what i could have done to make this course better for myself",
+            "responses": [
+                "",
+                "nothing course was great and well done",
+                "the grading criteria for assignments should be more precise transparent and consistent between different tagradersquizzes should provide explanations on the correct answers after students submit",
+                "spend more time on the work"
+            ]
+        },
+        {
+            "question": "what i could have done to make this course better for myself",
+            "responses": [
+                "",
+                "shouldve done more selfstudy",
+                "nothing much",
+                "found the course load a little too much",
+                "turning exams into mini projects rather than theoretical exam",
+                "study more",
+                "go through the study materials on your own before watching the professors course otherwise it will be difficult to follow what the teacher is saying in class",
+                "i have completed all my coursework as per the schedule so i think this course has helped me a lot and taught me lot of things",
+                "i strictly followed the documentation and followed the process",
+                "start assignments early",
+                "given some more dedicated time to learning the technology in more depth than the assignments",
+                "been more proactive at giving feedback to the professor or being more active on piazza",
+                "managed time better for the assignments",
+                "spent more time on it"
+            ]
+        }
+    ],
+    "instructor": "Annunziato, Jose"
+}

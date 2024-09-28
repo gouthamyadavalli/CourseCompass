@@ -1,0 +1,68 @@
+{
+    "crn": "17405",
+    "course_title": "",
+    "responses": [
+        {
+            "question": "what were the strengths of this course andor this instructor",
+            "responses": [
+                "",
+                "the professor is clearly very knowledgeable about the course material and his years of teaching experience show in his lectures he also treats students with a great deal of respect and it is enjoyable to bein his class",
+                "dr mwaura was very prepared enthusiastic about the course and willing to go deep into topics to foster students understandings",
+                "i really love prof mwauras enthusiasm for the subject and his commitment to making sure everyone in the class understands a topic he does an excellent job communicating ideas and provides lots ofexamples and group exercises which enhanced my understanding of various topics",
+                "na",
+                "good communicator and able to understand students difficulties and needs"
+            ]
+        },
+        {
+            "question": "what could the instructor do to make this course better",
+            "responses": [
+                "",
+                "i think the classes where the professor has materialsnotes prepared beforehand go more smoothly the dynamic programming lecture stands out to me in my memory because the professor had broughtnotes for the tabulation algorithm to solve 01 knapsack what could have been a difficult algorithm to cover was made clear and simple by the advance preparation",
+                "i think adding more leetcode problems for assignments will be better",
+                "more flexible deadlines would have been nice",
+                "i cant think of anything",
+                "na",
+                "too much theoretical part of the course and the homework has been designed with too much proof questions i personally think we should focus more on how to use the theoretical part instead of beingasked to prove those which have been proved by the great people and we should stand on the great mans shoulder instead of sitting with them",
+                "1 i suggest clearer segregation of assignments on canvas particularly for students without zybooks access to avoid confusion2 more transparent grading criteria on gradescope would help students understand the rationale behind deducted points"
+            ]
+        },
+        {
+            "question": "please expand on the instructors strengths andor areas for improvement in facilitating inclusive learning",
+            "responses": [
+                "",
+                "everything said above",
+                "i really enjoyed having dr mwaura as a proffessor",
+                "nothing more to add than what i have already said",
+                "na",
+                "1 i suggest clearer segregation of assignments on canvas particularly for students without zybooks access to avoid confusion2 more transparent grading criteria on gradescope would help students understand the rationale behind deducted points"
+            ]
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": []
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": [
+                "",
+                "i attended in person most of the timecanvas contained many useful resources but sometimes they were uploaded a bit late not a big deal though",
+                "i felt pretty neutral about the online environment it was mostly just a support of in class",
+                "too many online products used why use canvas modules if the modules do not contain the assignments why have different reading materials in zybooks canvas and teams why have gradescopeassignments and canvas assignments"
+            ]
+        },
+        {
+            "question": "what i could have done to make this course better for myself",
+            "responses": [
+                "",
+                "i think i did everything i could to make this course a valuable learning experience for me i gained a lot of valuable information and skills from it that i expect to be able to use in my future classwork andcareer",
+                "study more about the subject before going to the class",
+                "studied more in the beggining",
+                "i wish i had attended more professor and ta office hours to review topics",
+                "tweak notification settings in canvas or zybooks so i can get upcoming due date deadlines in my email i missed a couple reading assignments because i forgot when they were due",
+                "do your homework faster if you have any problems you need to talk to someone in time instead of waiting and escaping",
+                "i could have solved more leet code problems"
+            ]
+        }
+    ],
+    "instructor": "Mwaura, Jonathan"
+}

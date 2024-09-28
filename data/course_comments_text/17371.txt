@@ -1,0 +1,79 @@
+{
+    "crn": "17371",
+    "course_title": "",
+    "responses": [
+        {
+            "question": "what were the strengths of this course andor this instructor",
+            "responses": [
+                "",
+                "it was a fully online class so i was able to pause the lecture when i needed to think",
+                "i would say the strengths are the course materials i always left his videos feeling like i understood the concepts he was teaching when i gave enough time for note taking i found it easy to jot down info in away i could process",
+                "he clearly explained the topics",
+                "clear",
+                "i actually found the online lectures very interesting and engaging",
+                "the professor created optional homework assignments but then graded them much harsher than the tests were graded i got points off for both being too explicit in my proofs and not being explicit enough it felt like he instructed his graders to assess whether we answered the homework in the same way he did proofs in class rather than assess how we we answered the question itself i have always beentaught that there is no one right way to prove something  proofs are a form of communication like essay writing and should be assessed based on how well the point is communicated since homework wasso poorly graded and did not contribute to my actual grade i stopped doing them altogether half way through the course",
+                "good and easy to follow material",
+                "course taught valuable problem solving skills in addition to the obvious teaching of algorithmic approaches and optimizations also this is more a personal opinion than a general strength of the course but ithought the course was very interestinginstructor explained subject matter clearly provided thorough answers to questions both in office hours and via email responded promptly to emails fostered student enthusiasm for the course material",
+                "good"
+            ]
+        },
+        {
+            "question": "what could the instructor do to make this course better",
+            "responses": [
+                "",
+                "hire better tas go over homeworks with them so they know what the solution is some tas consistently gave wrong answers",
+                "a longer exam time and homeworks that feel more connected to the questions asked on exams i found myself floundering through the homeworks as they never seemed to be on topics that were coveredin the course videos or more specifically they were asking for an understanding of the topics i did not get from the course videos to the point that i gave up on actually completing the homeworks myselfand would just use the solutions as a study aid for the exam even doing that however felt fruitless as the exam questions never seemed to connect with the homework in much else than that they werepulled from the same general themei was also always finding myself short on time during exams to the point where i think i was able to answer all of the questions in only 1 out of the 7 exams it is so incredibly frustrating to not be graded on youractual answer to an exam question but on the lack thereof an answer because you didnt have enough time to finish 50 minutes for an online exam that is asking you questions that are supposed to test youon your understanding of the topics instead of asking questions that are variations of homework or extra problem set questions is not realistic two of my first exams were abysmal because i was rushingthrough questions and answered them using a quick method instead of the method asked of me in the question if the 50 minutes is nonnegotiable then maybe cutting the number of questions down to 2 or3 each exam with subproblems might be feasible",
+                "include more examples for each topic",
+                "null",
+                "please rerecord the lectures from when you taught the class in person the audit and visual quality is so poor that i am honestly embarrassed that i paid as much as i did for this course the educationalvalue and overall professionalism of this course is worse than a free udemy or coursera course this course felt like an afterthought rather than something the prof saw as his primary job",
+                "test difficulty sometimes were challenging and discouragingi genuinely feel sometimes the material provided was not enough to do well in the tests however that kept me going",
+                "not sure if this is something the instructor could really do but the one thing missing from the course was a sense of community among students of course this was an online course so there are limits towhat can be done in general but it was the one thing i felt was missing from the course",
+                "good"
+            ]
+        },
+        {
+            "question": "please expand on the instructors strengths andor areas for improvement in facilitating inclusive learning",
+            "responses": [
+                "",
+                "the videos filmed in 2016 are outdated and hard to follow please re record those sections",
+                "speaking with the instructor felt fruitless at one point a student posted in our discussion board about adding 5 or 10 minutes to the exam length and the professor said no because it was his understandingthat those who did not perform well under that time limit did so because they didnt understand the topics and not because they didnt have enough time thats possible sure but when a b is given to astudent with a 40 in the class then i think something needs to be reworkedi really do like professor aloupis teaching style like i said above i would come away from each video feeling like i understood the material i have four separate notebooks full of notes from this course ispent hours on this material each week all to culminate in one of the worst averages ive ever had in a classmaybe im an outlier in this experience but i feel like im not considering the overall average of the class",
+                "no need for improvement",
+                "null"
+            ]
+        },
+        {
+            "question": "please expand on the instructors strengths andor areas for improvement in facilitating inclusive learning",
+            "responses": [
+                "",
+                "good material easy to followcoding would be more practical in this course",
+                "good"
+            ]
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": [
+                "",
+                "professor stopped hosting walkin oh so i stopped going",
+                "i really enjoyed the course resources page it made keeping up and understanding what was expected of me very easy",
+                "online class was helpful as we could learn at our own pace",
+                "great",
+                "the professor was very shortrude in his response to student questions often just saying see section x of the syllabus for where i addressed this the same is true for questions asked during office hours they were often met by reiterating what was said in lecture rather than actually addressing the issue this made me and i assume others feel like asking questions would be met with responses that mademe feel dumb rather than by genuine support and individualized answers by the prof as a result no one has posted a single discussion post or question since the first few weeks of class there was zeroclassroom interactions  community for this course a lot of which i blame on the poor attitude of the professor  students should not feel like they are imposing when asking for help or clarity",
+                "good"
+            ]
+        },
+        {
+            "question": "what i could have done to make this course better for myself",
+            "responses": [
+                "",
+                "towards the end i didnt allot enough time to watch the course videos and go over the homeworkextra problem sets i would have better managed my time if i had to do the course over",
+                "include more examples for each topic",
+                "null",
+                "i could have went to more of the live meetings",
+                "nothing",
+                "started going to office hours earlier in the semester",
+                "good"
+            ]
+        }
+    ],
+    "instructor": "Aloupis, Gregory"
+}

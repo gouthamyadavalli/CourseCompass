@@ -1,0 +1,77 @@
+{
+    "crn": "31430",
+    "course_title": "",
+    "responses": [
+        {
+            "question": "what were the strengths of this course andor this instructor",
+            "responses": [
+                "",
+                "teaches very well",
+                "the instructor is cooperative and understanding she is willing to help however the logistics of the course are extremely imbalanced the course slides and assignments have a huge gap and it is reallystruggling to wrap your head around everything",
+                "organised and clear assignment and deadline instructions on day 1 of course",
+                "practical implementation",
+                "it taught me a lot of new stuff i didnt expect to learn so much in the field of information retrieval and how vital it is in the tech world",
+                "prof amortijiani is by far the best professor i have had at neu she shows a clear passion for the field and is great at taking complex concepts and breaking them down into a digestible format",
+                "very knowledgeable and nice professor"
+            ]
+        },
+        {
+            "question": "what could the instructor do to make this course better",
+            "responses": [
+                "",
+                "improve the logistics of the course design your own syllabus and course requirements the tas are completely unsure about what is expected the course content taught in class is just slide reading and noin depth understanding of material is provided there is a lot to improve on this course",
+                "better ta hours",
+                "less computing power and less hours to run the code",
+                "the course is perfect assignments challenge you and the classes prepare you for the assignments you get to learn a lot through assignments",
+                "na",
+                "assignments were wellconstructed and complex enough to encourage learning",
+                "na"
+            ]
+        },
+        {
+            "question": "please expand on the instructors strengths andor areas for improvement in facilitating inclusive learning",
+            "responses": [
+                "",
+                "the instructor is a really good teacher and empathizes  understands the situation of students but the course definitely needs to be restructured",
+                "same as above",
+                "the professor is very good at explaining concepts she makes you comfortable in the class and it helps while understand new concepts tas are helpful as well",
+                "na"
+            ]
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": []
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": [
+                "",
+                "very informative and learnt something new",
+                "the online materials provided were good and supportive of the lecture content but it was mostly from other professors website and content",
+                "it was greatly organised course",
+                "it was good all the resources were provided",
+                "the piazza page was well managed my only complaint is that occasionally questions would go unanswered for a couple days",
+                "this was the most challenging experience of a course in my student life",
+                "ok",
+                "na"
+            ]
+        },
+        {
+            "question": "what i could have done to make this course better for myself",
+            "responses": [
+                "",
+                "spend more time and try out the extra credits",
+                "i did my best based on what resources and logistics situation was in the course",
+                "a little more organised office hours and clear instructions about assignments to tas",
+                "a little bit of headsup that prof virgil pavlu designed the assignments",
+                "started on homework earlier",
+                "start on the assignments earlier",
+                "better logistics could make the assignments easy to follow it is not the difficulty but the ambiguity in the instructions that needs oh for clarifications",
+                "spend more and more hours",
+                "it was good",
+                "more direct code experience for abstract concepts without consistent direct examples for each homework"
+            ]
+        }
+    ],
+    "instructor": "Amor-Tijani, Ghita"
+}

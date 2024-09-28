@@ -1,0 +1,64 @@
+{
+    "crn": "39709",
+    "course_title": "",
+    "responses": [
+        {
+            "question": "what were the strengths of this course andor this instructor",
+            "responses": [
+                "",
+                "professor demonstrated exceptional patience and understanding while addressing our questions",
+                "professor is really patient and happy to answer any question whether in class or out of class pretty helpful",
+                "friendly and easy to talk with",
+                "good",
+                "the material and organization is helpful to learn algorithm",
+                "a lot of logical thinking and practices"
+            ]
+        },
+        {
+            "question": "what could the instructor do to make this course better",
+            "responses": [
+                "",
+                "prefer more activities",
+                "everything is good",
+                "the ppt can be more concise and clear",
+                "exam tends to be a little bit more difficult than expect it would be great if we can have harder questions in homework for challenging ourselves but easier questions in exam for testing fundamentalknowledges"
+            ]
+        },
+        {
+            "question": "please expand on the instructors strengths andor areas for improvement in facilitating inclusive learning",
+            "responses": [
+                "",
+                "everything goes well",
+                "na"
+            ]
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": [
+                "",
+                "yeah i like it the professor is kind and always responsive",
+                "good",
+                "the overall organization is good and material is helpful"
+            ]
+        },
+        {
+            "question": "what i could have done to make this course better for myself",
+            "responses": [
+                "",
+                "maybe more detailed examples",
+                "did more leetcode questions accordingly it will help me refresh the knowledge that i have learned",
+                "do more leetcode problems and i could practice more after class on topic of dp",
+                "everything is good",
+                "to review more material and practice more",
+                "do more leetcode questions to reinforce knowledge learned from the class"
+            ]
+        }
+    ],
+    "instructor": "Bayat, Akram"
+}

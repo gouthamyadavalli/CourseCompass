@@ -1,0 +1,74 @@
+{
+    "crn": "20299",
+    "course_title": "",
+    "responses": [
+        {
+            "question": "what were the strengths of this course andor this instructor",
+            "responses": [
+                "",
+                "he has a lot passion in teaching",
+                "prof lee is always attentive and enthusiastic to teach about algorithms and covers the points in introduction to algorithms in great detail",
+                "lectureatmosphere in class",
+                "clear demonstration and useful assignments",
+                "covered useful algorithms and concepts",
+                "none",
+                "i can feel the professors strong passion for algorithms and his kindness in helping students when we have any questions",
+                "the professor was very knowledgeable about the subject and displayed an enthusiasm to teach"
+            ]
+        },
+        {
+            "question": "what could the instructor do to make this course better",
+            "responses": [
+                "",
+                "walk through the assignments and explain",
+                "they could add more leetcode questions to the classroom",
+                "bridge the gap between exam and class material better",
+                "post notes",
+                "none",
+                "firstly it would be good to create easytounderstand lecture files not just copy the clrs for those who dont have experience with cs its tough to understand the original textbooksecondly i would like you to get prepared before teaching we can feel your passion for algorithms but i think the teaching method doesnt fit most of us giving more simple or interesting examples andteaching step by step would be great",
+                "perhaps providing some alternative learning resources besides the textbook as the writing in the book was quite complex"
+            ]
+        },
+        {
+            "question": "please expand on the instructors strengths andor areas for improvement in facilitating inclusive learning",
+            "responses": [
+                "",
+                "explain the codes in the assignments",
+                "none",
+                "professor is enthusiastic and cheerful in class",
+                "could talk more about coding since writing code is a huge part of tests",
+                "none",
+                "the professor was able to answer questions clearly and did a good job of showing how they got to their answer"
+            ]
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": []
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": [
+                "",
+                "great",
+                "very good",
+                "exam is much harder as well as some questions on the homework than what was covered in class",
+                "very good",
+                "na"
+            ]
+        },
+        {
+            "question": "what i could have done to make this course better for myself",
+            "responses": [
+                "",
+                "write more codes",
+                "i will summarize the knowledge after the class and then do more leetcode questions",
+                "learned math better in university",
+                "post class notes on canvas",
+                "spend more time on leetcode",
+                "i would read the lecture file carefully and join the officehour of the professor",
+                "i could have prepared more by brushing up on math and some other prerequisite skills"
+            ]
+        }
+    ],
+    "instructor": "Lee, Hyonho"
+}

@@ -1,0 +1,96 @@
+{
+    "crn": "40408",
+    "course_title": "",
+    "responses": [
+        {
+            "question": "what were the strengths of this course andor this instructor",
+            "responses": [
+                "",
+                "professor rad is a responsible and professional professor this is a hard course and i think from him i learned more than just knowledge but also lessons for reallife applications he wasnt just trying to finishup with the teaching process but wanna pass his skills to us he remembers all our names which impressed us a lot and felt welcomed in the class the materials are sometimes boring but his teaching makesthis course more interesting",
+                "communications both inside and outside classroomcourse material delivery",
+                "wellprepared and insightful teaching",
+                "well organized materials",
+                "the best professor i have ever met",
+                "instructors ability to make the topics more lucid to understand for studentshas incredible style of delivering lectures",
+                "quiz before class is helpful for us to get to know each other",
+                "thank you so much for your instructions",
+                "the instructor has been supportive and knowledgeable throughout the entire stretch of the course",
+                "he is passionate about teaching the practical knowledge he has can be really helpful for my future career the different style algorithm course actually taught me a lot not just trying to memorizeeverything from textbook he really care his students",
+                "best prepared teacher",
+                "ryan is great always energetic and friendly",
+                "he is good",
+                "the professor cares about teaching and students he tries his best to present the material in an interesting way"
+            ]
+        },
+        {
+            "question": "what could the instructor do to make this course better",
+            "responses": [
+                "",
+                "i think adding more reallife applications to this course material will make this course more interesting",
+                "provide better distance learning instructional methods",
+                "thank you so much for your instructions",
+                "i think the instructor has been already doing very well",
+                "maybe it is not a good idea to cover the entire book within on semester some parts we did not learn enough",
+                "balance of mathematics proof and algorithms",
+                "less homework",
+                "the assignment is a bit hard could have more hints",
+                "satisfied with current curriculum",
+                "i think assignment can be organized better",
+                "the course is perfect"
+            ]
+        },
+        {
+            "question": "please expand on the instructors strengths andor areas for improvement in facilitating inclusive learning",
+            "responses": [
+                "",
+                "thank you so much for your instructions",
+                "the instructor has been hardworking in helping students get a strong grasp on the topic for both the common and advanced topics in the algorithm design and analysis field he knew when students couldhave difficulties preparing themselves before class during those topics and he had made videos to explain part of the topics in great details",
+                "the knowledge of real working experience the practical teaching style is really helpful",
+                "na",
+                "less homework more leetcode",
+                "idk just want to cheer him up",
+                "not required"
+            ]
+        },
+        {
+            "question": "please expand on the instructors strengths andor areas for improvement in facilitating inclusive learning",
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": [
+                "",
+                "my experience with online courses has been positive",
+                "nice",
+                "i attended this course inperson i am not able to comment on the online course environment",
+                "i did not use much however i can access all the materials i need and get ta when i need",
+                "all the materials are helpful and wellorganized the videos provided are also of good quality feedback on piazza is timely",
+                "good",
+                "enough materials",
+                "good",
+                "its pretty good the materials are wellorgranized and ryan has provided some prerecorded videos thats pretty awesome",
+                "the materials of the course for each week are sufficient and accurately matching the onground courses",
+                "na"
+            ]
+        },
+        {
+            "question": "what i could have done to make this course better for myself",
+            "responses": [
+                "",
+                "thank you so much for your instructions",
+                "if i could put more time into elaborating on the necessary mathematical proves i could have a better grasp of the topic",
+                "ask more questions after class i just do like to post something on piazza",
+                "have a better mathematics understanding",
+                "less homework",
+                "do more leetcode",
+                "have prior knowledge of algorithms being taught",
+                "more practice for the algorithm problems",
+                "i will read more text books",
+                "did more reading"
+            ]
+        }
+    ],
+    "instructor": "Rad, Ryan"
+}

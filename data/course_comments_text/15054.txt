@@ -1,0 +1,107 @@
+{
+    "crn": "15054",
+    "course_title": "",
+    "responses": [
+        {
+            "question": "what were the strengths of this course andor this instructor",
+            "responses": [
+                "",
+                "any student taking this course will know how to design a program based on the problem statement",
+                "smart and very welldesigned teaching pattern",
+                "good at lecture assignments were alligned with lecture without going to lecture you cant do the assignments well",
+                "it is very easy to communicate with prof shesh his expertise in the subject is awesome hed give just the right amount of help to the students with assignments which motivated me further to find a betterway out",
+                "prof shesh is very intellectual and he also live code during the class which helps in practical learning the course was also very well structured and seamless",
+                "his ability to answer questions effectively and completely was amazing he always first explains why we dont use alternatives before explaining why we do use a particular approach this was super helpfulthe structure of the class was really very intuitive and i learned a lot",
+                "the course was highly informative and included practical coding challenges that significantly enhanced my coding practices style and understanding of design principles i am very satisfied with both thecourse content and the assignments i am pleased with the courses design by the instructor which ensured maximum learning for everyone involved",
+                "extremely knowledgeablevery helpfulextremely empathetic",
+                "the grasp of the concepts of the professorquality of assignmentsteaching assistants are very knowledgeable too",
+                "the sheer knowledge the professor has is amazing he teaches very affectively and his classes are super engaging he is also very approachable and we love his classes",
+                "this is not about the instructor but rather to khoury im disappointed with khourys course selection making a java class a core requirement this class is 75 not about programming design paradigm itsmore like a classes that teaches java tips most of the skills are not transferable i knew this is going to be a bad class at least for me after the first lecture the professor gives very bad example comparingjava with c and python the suffering continues for the rest of the semester definitely not worth the tuition im paying",
+                "deep and through knowledge of course",
+                "i think the instructor made this course very interesting and engaging additionally this course probably ranks 3rd in terms of courses that i took and how much they improved me as a coder  behind intro tocoding course and data structure and algorithms course",
+                " professor shesh is extremely dedicated and passionate about his course and it shows in the gusto with which he approaches his teaching methodology he is humorous and that allows the class to have pleasant refreshers during long theoretical content he comes to class with meticulous preparedness and has always been timely in his teachings",
+                "great at teaching has real in depth knowledge of the subject and possesses great energy for teaching very approachable",
+                "a very good teacher very knowledgable always taking doubts and giving good answers a really interactive and enjoyable class",
+                "prof shesh has such a good grasp on programming design paradigms each concept was taught with a lot of precision and clarity he is an excellent professor whose experience reflects through histeaching"
+            ]
+        },
+        {
+            "question": "what could the instructor do to make this course better",
+            "responses": [
+                "",
+                "if both canvas and handins are being used then i want the percentage weightage or points for each assignment to be mentioned in canvas this would be more helpful for new students who might havemissed out on handins",
+                "i would say nothing just should have made video lectures public from the start  maybe only that",
+                "not sure maybe assignment 3 could have been easier",
+                "i am happy with the syllabus and the way the course was presented",
+                "na",
+                "really the only thing would be to shore up the corner cases of the assignments that could go one way or another",
+                "having a clearer understanding of the expectations for the selfevaluation would have allowed for better preparation and integration of these elements into the project i believe this is where i missed out onmarks which im not pleased about a better grasp of these expectations could have helped me achieve a higher score",
+                "nothing more",
+                "a little more feedback from the professor on our assignments instead of just from the tas would be helpful",
+                "i have 0 complaints it was great",
+                " i could not find flaw in his methodology or his course content but i do wish the classes were a bit spread out instead of having a fairly long class time"
+            ]
+        },
+        {
+            "question": "what could the instructor do to make this course better",
+            "responses": [
+                "",
+                "have extra sessions for student with no programmingwork experience apart from lecture hours office hours and labs so people like us would feel a little less intimidated concept in class were explainedwell but for people that take time to understand or grasp a concept the lectures could seem a little fast paced"
+            ]
+        },
+        {
+            "question": "please expand on the instructors strengths andor areas for improvement in facilitating inclusive learning",
+            "responses": [
+                "",
+                "the instructor is well versed in the subject and explains the concepts clearly any student who understands what is taught in the class will be able to apply that concept in any program they are doing",
+                "the instructor honestly just has a knack for making random design patterns very engaging and i never found myself bored in class",
+                "not sure",
+                " na",
+                "the instructor has enjoyable and fruitful lectures but he delves too long on student discussions and i kept losing track of the subject matter",
+                "na",
+                "the professors lectures were excellent but i faced a challenge in revising certain topics that i might have missed in class as there were no lecture videos available for review",
+                "he is an amazing educator",
+                "strengths are his confidence and grasp on the subject assignments were perfectly structured classes were made interactive the only suggestion i would have is to keep an extra session for students withless experience apart from that the course is perfect so glad to have had the opportunity to learn under prof shesh",
+                "grading should be more focused on the implementation and logic part instead of focusing more on static things like java doc"
+            ]
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": [
+                "",
+                "my online experience of the class was relatively great the office hours app was great for meeting up with tas and knowing their status",
+                "it was the nice and intriguing course felt very overwhelming in the start but then got used to it professor was super during that time",
+                "piazza was very helpful",
+                "great course he taught well projects were hard but good",
+                "the course was very well structured and it has pre lecture surveys that helped in becoming familiar to the concepts ahead of classes",
+                "materials and assignments are clearly listed and very organized",
+                "i believe it would have been more beneficial if the online course materials had been made available immediately after each class as this would have enhanced my understanding",
+                "amazing course takes you from the basics of oops to the advanced topics of mvc",
+                "did not have many online classes all were inclass",
+                "sir as well as all the tas were very helpful the material was great and really organized"
+            ]
+        },
+        {
+            "question": "what i could have done to make this course better for myself",
+            "responses": [
+                "",
+                "maybe spent my time effectively going through the course material and started my assignments a bit earlier",
+                "maybe revised the concepts before every lecture",
+                "ask the professor more questions in oh",
+                "i wish i would have participated more in the pre lecture surveys as they helped in learning concepts before class so that we could better understand and ask questions during classes",
+                "listened more in class",
+                "i understood the courses selfevaluation process grading and expectations better after completing assignment 3 while this information was provided on canvas and in class it wasnt clear to me until thatpoint once i completed assignment 3 i gained a better grasp of the project its pace and what was expected which allowed me to improve my performance overall the course was excellent and i learneda great deal i just wish i had this understanding earlier if i had i believe i would have performed better from assignment 1",
+                "had previous practical experience in java",
+                "honestly did my very best this course was challenging but fun i could have been a little calmer",
+                "plan out the assignment work early on",
+                "na",
+                "i could have divided and managed my time better",
+                "join office hours and ask doubts to prof and tas",
+                "managed time better kept track of the assignments better",
+                "read the course materials more thoroughly",
+                "practiced coding in java as i am not good at it spent more time getting doubts clarified"
+            ]
+        }
+    ],
+    "instructor": "Shesh, Amit"
+}

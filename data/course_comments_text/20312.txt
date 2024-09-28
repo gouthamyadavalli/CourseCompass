@@ -1,0 +1,68 @@
+{
+    "crn": "20312",
+    "course_title": "",
+    "responses": [
+        {
+            "question": "what were the strengths of this course andor this instructor",
+            "responses": [
+                "",
+                "the professor made a lot of progress since the beginning of the semester in clearly communicating through teaching it is clear that she prepared well before each lecture and that preparation wasappreciated and helped us learn better she also took lots of student requests and feedback into account and was always available for additional help outside of class and occasional additional questionsabout the field even when these did not exactly relate to the course this was much appreciated",
+                "organized notes encouraged feedback by providing a feedback link",
+                "the instructor gives good lectures her syllabus is organized well so that i can learn about every stage of information retrieval the instructor teaches in a way easy to follow",
+                "material and learning object are sufficient",
+                "professor amjad was extremely flexible and fair and she always made herself available to students outside of class she tried to keep students engaged during lectures and was always mindful of our energylevels",
+                "patient and slow pace",
+                "she did communicate with students",
+                "professor has passion in teaching very responsible"
+            ]
+        },
+        {
+            "question": "what could the instructor do to make this course better",
+            "responses": [
+                "",
+                "i think there should be more of a set structure planned in advance of what topics are covered each week and what book chapters correspond to the lecture i found myself often reading 3 chapters listed inthe syllabus as suggested reading and then we did not cover that material in class until a month later when the information was no longer fresh in my mind the topics and chapters listed for a given weekchanged regularly often with 1 days notice if we truly want to learn it is better to know in advance what will be covered in the following week so that we can read and supplement our learning please set thesyllabus before the start of the semester and announce changes to it to everyone preferably with some time for us to prepare and adequately read and learn the material",
+                "speak louder have clearer quiz and exam questions",
+                "the assignments and projects of this course are very bad its too few and too vague and too smallscale a largescale projectassignment with steptostep guide will help students better practice whatthey learned in lecturesalso since the lack of practice the quizzes and exams become more difficult and they rely more on remembering the course content instead of understand how they can be used",
+                "give more feedback on how we performed give study guide before exam the exam is extremely difficult and theres no curve on the score which made us struggled in getting a fair score the exam weightis too high",
+                "recording lectures would have been helpful",
+                "upload reading material including power point a few days before each lecture",
+                "it is better to enrich course content and assign more hands on assignment to let student know how to build an ir system or implement ir algorithms from scratch",
+                "be more clear in what needs to get done",
+                "it will be better to use inclass time more efficiently given the exams are very hard it will be helpful to provide clearer guidelines past exam examples before exams",
+                "there could be more coding assignments which play an important role as pratice of concepts learnt from class besides the pace of class is a little bit slow if more concepts or learning stuff could bepresented would be better"
+            ]
+        },
+        {
+            "question": "please expand on the instructors strengths andor areas for improvement in facilitating inclusive learning",
+            "responses": [
+                "",
+                "greatly improved communication skills during lectures much appreciated slow and careful explanations that include people of all backgrounds still managing to include somewhat complex materialcontinue working on delivery but it is much improved already we can feel her passion for the subject and the language used is inclusive to all please be more consistent and give notice for changes made tothe syllabus and course plan please also make quizzes more straightforward since they were a bit abstract at times",
+                "this is mentioned in the previous two sections",
+                "give a better percentage weight for the assignments"
+            ]
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": [
+                "",
+                "maybe the discussions could have been more interactive like respond to at least one other student in the discussion forum or introduce yourself at the beginning of the course that way we learn somethingabout our fellow students",
+                "never created an online group to encourage discussion",
+                "overall experience ok"
+            ]
+        },
+        {
+            "question": "what i could have done to make this course better for myself",
+            "responses": [
+                "",
+                "spend more time reviewing the provided slides in order to learn the information in more detail that said i prefer textbook learning to reading slides",
+                "i should have practiced on more search engine projects",
+                "read book before the class starts",
+                "i could have organized my time better so i could make use of office hours",
+                "finish the reading material",
+                "i could read the additional materials",
+                "read related materials including books and other tech websites"
+            ]
+        }
+    ],
+    "instructor": "Amjad, Tehmina"
+}

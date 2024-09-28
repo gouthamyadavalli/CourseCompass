@@ -1,0 +1,63 @@
+{
+    "crn": "40203",
+    "course_title": "",
+    "responses": [
+        {
+            "question": "what were the strengths of this course andor this instructor",
+            "responses": [
+                "",
+                "the topic was very interesting and there were some cool videos i did like the assignments but the teacher did not explain how to use the tools or show us any examples in class",
+                "vocal open to conversation in all scenarios enthusiastic approach was encouraging",
+                "all of the homework assignments were extremely interesting and i think i learned a lot from each one the chess projects were unique and i enjoyed both of them and hope that they remain a part of thecurriculum the exams based on the midterm were a good reflection of course content",
+                "the instructor is passionate and helpful and the class topics are interesting overall",
+                "professor oscar is very passionate about teaching he put a lot of efforts into this class and wants to make this class better and me as a student can directly feel that energy and dedication which inspiredme a lot"
+            ]
+        },
+        {
+            "question": "what could the instructor do to make this course better",
+            "responses": [
+                "",
+                "provide in class coding examples of the assignment show students how to use tools like networkx and scikitlearn instead of having us teach ourselves at home give more context as to what quizzes will beon teach instead of show youtube clips provide better feedback during office hours instead of vague answers give homework and assignment grades back in a more timely manner allow us to know whatwe will be graded on with rubics if you have a lot going on in your personal life ask for more than one ta so grades can be returned in a timely manner instead of a month later",
+                "maybe execute some of the stuff we did in assignments in class as well like writing some level of code and executing it  we were provided with templates but i feel like this wouldve helped a whole lot",
+                "more time being given to contemporary topics like language models and computer vision would have been nice i think it is difficult to balance this with teaching the classic topics as these new techniqueshave full classes dedicated to just nlp and computer vision for example while the classic techniques like adversarial search and csps will likely only be discussed in this ai course a project related to nlpcomputer vision generative ai etc areas would have been a nice addition in my opinion",
+                "i do not feel the strong relations between the lectures and the assignments the assignments are challenging and requires lots of selflearning the content covered in lectures does not actually help muchin success of assignments",
+                "professor oscar speaks too quickly given the amount of information each sentence contains its rather hard for an average student to keep up and more time should be given between each sentence toallow students to process the information also can consider using sentences with easier terms and shorter sentences"
+            ]
+        },
+        {
+            "question": "please expand on the instructors strengths andor areas for improvement in facilitating inclusive learning",
+            "responses": [
+                "",
+                "quizzes are given every week without any guidance on what they will be on not everyone learns well in this manner i for one struggle with quizzes as someone with attention issues it is hard for me to retaininformation unless i study specific points without knowing what to study i am at a huge disadvantage in this class",
+                "quizzes dont need to be there for every class some classes dont cover a lot and quizzes are then on concepts either too trivial or not too much of",
+                "no additional comments",
+                "i personally does not like the chess assignment overall as an introduction to ai class the chess assignment does not seem to be intro level overall the beat random bot requirement needs lots of learningoutside class and does not seem to be related to the class topics i feel there is a gap between lectures and assignments",
+                "professor oscar is very accommodating in facilitating inclusive learning"
+            ]
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": []
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": [
+                "",
+                "the professor did not teach any coding aspects in class and simply regurgitated slides from berkeley when going to office hours for help his answers were vague and did not point to any kind of resolutionthe grades took over a month to get back leaving me with no sense of where i stood in the class quizzes were assigned each week with no indication as to what would be covered rubics for assignmentswere not given until grades were given which would have been helpful for students to know exactly what was being looked at",
+                "more preparation materials for quizzes would have been helpful especially early on it felt hard to predict how to study to succeed on the quizzes and the concept checks did not provide much help in thisregard the slides were extremely valuable for this though so by the end of the semester i felt more comfortable with how to prepare",
+                "there is no communication among classmates the students came to class and leave by their own and few discussions made on piazza"
+            ]
+        },
+        {
+            "question": "what i could have done to make this course better for myself",
+            "responses": [
+                "",
+                "i dont think there was much i could have done better",
+                "i guess being prepared for the worst case scenarios my laptop blue screened right before a submission of a big assignment and model training can take a lot of time",
+                "no comments",
+                "read course materials more thoroughly before class"
+            ]
+        }
+    ],
+    "instructor": "Veliz, Oscar"
+}

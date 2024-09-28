@@ -1,0 +1,82 @@
+{
+    "crn": "10685",
+    "course_title": "",
+    "responses": [
+        {
+            "question": "what were the strengths of this course andor this instructor",
+            "responses": [
+                "",
+                "i believe his remarkable experience and knowledge with the course and teaching itself is his greatest strength he is easily the best professor who taught me",
+                "prof virgil is a genius his lectures are really good and it looks at the material is a different perspective",
+                "good at explaining hard concepts in a simple manner good at breakdown hard to read textbook chapters into easy to follow lectures",
+                "i really enjoy how the professor would sometimes leave small  managablysized holes in the material in class leaving bits for us to think about on our own time with this i knew where to devote my extratime to go deeper into the content",
+                "the instructor was very clear about the expectations for the course and cared about the learning of the students very much",
+                "professor pavlu is highly knowledgable great teaching style and expresses ideas very effectively related how certain topics have modern day applications immense knowledge and overall an excellentprofessor the exams were highly challenging and pushed us to prepare harder for it",
+                "the way professor pavvluu teaches algorithms once the class is done even the advanced topics start to seem easy and he does this without spoon feeding everything making you think about all the detailsand coming up with spolutions on your own",
+                "professor was very knowledgeable about the material",
+                "he is very enthusiastic about this course even after teaching it for so many years he explained everything clearly but also challenged everyone to think for themselves as well he cleared all doubts foreveryoneif you want to learn about algorithms and then potentially work in top tech companies i strongly recommend taking his class as it will help you understand where you stand",
+                "the instructor was great at teaching and explaining the difficult concepts of the course he used visualized and outlines very clearly and well in class on the whiteboard while explaining the concepts classwas definitely valuable and every word out of his mouth was pure gold",
+                "profvirgil is a great instructor the best in neu an oldfashioned teaching style of writing everything on the board instead of slides makes the course interactive and engaging",
+                "i think that the professor is very passionate about algorithms"
+            ]
+        },
+        {
+            "question": "what could the instructor do to make this course better",
+            "responses": [
+                "",
+                "more solved questions would have been super helpful i believe i would have done significantly better if this was available",
+                "the assignments were a bit lengthy in some weeks and especially the weeks leading to the midterm and end term exams i felt the time spent in typesetting the assignment could have better been utilizedstudying for the exam",
+                "provide some kind of pre requisite brush up materials the initial days were full of math and i really struggled to find the rhythm i completed by bachelors 6 years ago and the last time i studied math was 7years ago so was finding it a little hard to follow along the math was nothing new just that i was out of touch for a long period and the class was fast paced",
+                "do some more background concepts coverage for people who are not having the sufficient prereq else the course becomes too heavy",
+                "sometimes i feels like the professor wants to make the course hard simply for the sake of making the course hard not to challenge the students directly in addition i wish we had more time in the classdevoted to solving problems rather than just lecture however i do understand that we were very short on time and taking time out of lecture to do this might not be possible",
+                " since this is the undergraduate section of graduate algorithms do not just brush over concepts that we shouldve learned in undergraduate when this is the section specifically meant for people whohavent taken it before make the homework and midterms more relevant to what we actually go over in class i understand graduate courses are more independent but it should not be to the extent where i can only do 1 of thehomeworkquestions based on what i learned in class and the rest i have to teach myself or teach the material that will be on the homeworkmidterm in class return homework grades and regrades back in a timely manner it is impossible to assess how well we understand the material if we dont know our grade more often than not students piazza questions are unanswered and it is very difficult to get help and feedback the midterm is incredibly unproductive and does not evaluate how well we know the material in the class just how well we knew one specific topic that we had yet to receive sufficient feedback on lessthan 10 of the class got above a 50 and even with a curve the average was still failing  8 hours is too long for an exam with 6 questions that doesnt even assess most of what we have learned",
+                "nothing",
+                "the instructor cannot do much to make the course better as he already does a lot at a very high level that is both inducive to learning and material retention"
+            ]
+        },
+        {
+            "question": "what could the instructor do to make this course better",
+            "responses": [
+                "",
+                "i think that the professor could take his time going through topics like dynamic programming with much more detail too often we would go over an example and then never fully complete it he would explainthe theory but not go over the pseudocode which made it difficult to visualize how to actually implement the solution to the problemthe professor likes students who come into algorithms with a good background knowledge of the subject this is understandable as it is a masters class however many undergraduates were taking thisclass as part of the plusone program as an undergraduate coming into the class with no algorithms background it made it very difficult to follow along and learn the topics properly the professoracknowledged that there were undergraduates in the class but made very little effort to help them he often said that we should have seen this exercise in undergrad even though we had never taken analgorithms class before the resources on the class webpage were very limited as a result i had to find my own materials to teach the topics to myself the professor needs to take the time to help all of hisundergraduate and graduate students with these topics he needs to explain them more instead of skipping over key detailsmultiple times throughout the semester we would not learn a concept until the day the homework was due this happened with topics like memoization as well as prim and kruskals algorithms so we had lessthan 12 hours to use the information we learned in class to complete the homeworkunfortunately i feel like i did not learn much from this class i was constantly struggling to keep up with the material so i fell behind several times i felt like the youtube videos i found did a better job ofexplaining the concepts than the lecture did"
+            ]
+        },
+        {
+            "question": "please expand on the instructors strengths andor areas for improvement in facilitating inclusive learning",
+            "responses": [
+                "",
+                "i think a lot of students are not initially confident about their solutions and methods and reasoning so including a bank of solved question i feel would be one of the greatest resources for average students ifnot allotherwise there is no way his lectureclass could be more inclusive each lecture was a concentrated dose of pure insight",
+                "i strongly believe he is one of the best professor in khoury",
+                "at the beginning of the course and throughout each new concept the instructor would oftentimes use words designed to scare the students about the difficulty of the material in the course this turned meoff to some of the earlier lectures due to the fear tactic that he employed which was probably just to get people serious about the course and its difficulty however the students already knew the extent ofthe difficulty of the class and this only turned scared me enough to turn me off to learning"
+            ]
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": [
+                "",
+                "except for the ta office hours we did not have any online class sessions",
+                "quite good",
+                "the online resources provided such as the videos and the slides were really helpful to revise the concepts after lectures and covered all the topics in class",
+                "the questions on piazza were not always answered there were a lot of open ended questions it would have been awesome if tas could make sure the questions on piazza were addressed",
+                "the online code demos were well run and instructors generally showed up to the assigned slot",
+                "the course website is useful and has lots of relevant links but almost too many near the start of the semester i was confused with what resources were actually helpful and which were just there for futurereference maybe the layout could be changed or a more detailed explanation could be added in addition to the preexisting discussion on the first day of class posts on piazza were generally responded toslower than in other classes"
+            ]
+        },
+        {
+            "question": "what i could have done to make this course better for myself",
+            "responses": [
+                "",
+                "course generally requires you to have few prerequisite knowledge on many topics even though it does not say so in the course requirements having that knowlege prior to the course would have certainlybeen beneficial",
+                "i could not have done anything to improve the course and this may not be upto the professor but i strongly feel more lecture hours would have helped",
+                "if i knew the details of the schedule before hand i could have brushed up on the more advanced topics before the start of the semseter that were assumed to the pre reqs",
+                "i have spend almost 2040 hours per week for this material i was taking a lot of time in completing the assignments i should have spent more time in solving questions outside of the assignments but i reallycouldnt find time ",
+                "i did everything i could",
+                "i should have some background on algorithms",
+                "i could have spent more time on assignments and learning the material rather than just doing it for the grade i tried to maximize the grade which hurt my learning and also probabaly hurt my grade",
+                "i should have taken this course by itself during the summer if you try to take this course with any other difficult courses you will struggle most weeks i had to contribute 25 to 30 hours to work on theconcepts and do the homework",
+                "more practice"
+            ]
+        }
+    ],
+    "instructor": "Pavlu, Virgil"
+}

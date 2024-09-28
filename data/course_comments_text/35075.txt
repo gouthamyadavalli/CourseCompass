@@ -1,0 +1,62 @@
+{
+    "crn": "35075",
+    "course_title": "",
+    "responses": [
+        {
+            "question": "what were the strengths of this course andor this instructor",
+            "responses": [
+                "",
+                "the professor really makes an effort to engage with his students he uses literally every second of our allotted time together as effectively as possible hes very knowledgeable about the subject willing toanswer questions and encourages discussion he provides a lot of supplementary materials",
+                "professor m is fantastic he knows his subject and he genuinely cares about his students learning not just checking a box for doing the class he will help as much as you need him to",
+                "professor clearly loves the material and his excitement is contagious he knows it all very well",
+                "instructor is extremely knowledgable in the subject of algorithms very cordial and professional",
+                "clarity in his lectures"
+            ]
+        },
+        {
+            "question": "what could the instructor do to make this course better",
+            "responses": [
+                "",
+                "better organization the lectures did not line up with homework assignments or modules which made the course hard to follow additionally while i appreciate the professors use of technology to provide abetter class experience the use of teams made the course more confusing than necessary it was hard to find the course information materials and supplementary materials and because i do not receivenotifications from teams through the web application i often missed announcementsdiscourse additionally it seemed that office hours were more accommodating to students who did not work during theday",
+                "the only thing i found a little challenging was navigating teams gradescope canvas i was always worried i would miss something",
+                "its a lot of material to cover in a short time i have seen these algorithms twice now from undergraduate in a graduate level course i would have expected to see more focus on fewer algorithms andtechniques with deeper analysis of each one this could just be my ignorance of 5000 level or it could be that ne is catering to students in the align program",
+                "please update the syllabus to state the expected hours students need to dedicate to this class i spent on average 30 hours per week for the this class it would helpful to advise students the expectation forthis class is well above the mandatory 1016 hours graduate classesthe textbook introduction to algorithms by thomas cormen charles leiserson ronald rivest and clifford stein was fantastic the other textbook algorithm design by jon kleinberg and eva taros was notuseful in parallel most of the northeastern module videos were not useful and unpractical a suggestion would be to update those module videos for this class",
+                "improve assignments and quizzes the topic in the problem set is always ahead of what we learned in the class as a result students struggle to catch up on assignments dont release all quizzes at the end ofthe semester grade assignments on time not after weeks reply to students messages and dont ignore them publish assignment grading rubrics thats why students know how to write answers toassignment questions"
+            ]
+        },
+        {
+            "question": "please expand on the instructors strengths andor areas for improvement in facilitating inclusive learning",
+            "responses": [
+                "",
+                "a true teacher",
+                "the learning was inclusive prof did a great job including the students who phoned in each week this material is just hard",
+                "give more practical questions like solving questions and then uploading source code for assignments there are only 10 of questions are leet code practical questions others are theory questions givefeedback for a final project proposal i never received feedback for my final project proposal even though i requested to review my project but the professor ignored my messages",
+                "more focus on dynamic programming in class"
+            ]
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": []
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": [
+                "",
+                "the professor made a huge effort to connect with students and help the students connect with each other unfortunately i just dont feel the experience in teams was very impactful or organized it wasdifficult to find class materials and keep track of conversations and i did not consistently receive notifications for activity in teams",
+                "the hardest part of attending virtually is that many of the students in the class had very heavy accents and it was difficult to hear their contributions to the class prof m did his best to recap what they saidusually but i wonder if theres a way to get better mics in some of the class rooms",
+                "course materials didnt seem to correlate to the class lectures or homework in an easytounderstand way i found the online recorded lectures largely unhelpful they seem to essentially be someonereading from a textbook most of the algorithms we covered are taught in a much more understandable manner by abdul bari on youtube i gave up on the online videos about halfway through thesemester"
+            ]
+        },
+        {
+            "question": "what i could have done to make this course better for myself",
+            "responses": [
+                "",
+                "being more proactive about starting assignments sooner attending lectures in person and engaging more with classes asking more questions",
+                "did the best i could this subject is very hard and i always seem to spend 20 hours a week on homework and reading",
+                "asked more questions do more prep work prior to lectures",
+                "improve communication skills i had been waiting for a reply for weeks when i sent a message to the professor"
+            ]
+        }
+    ],
+    "instructor": "Mwaura, Jonathan"
+}

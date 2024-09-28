@@ -1,0 +1,63 @@
+{
+    "crn": "20302",
+    "course_title": "",
+    "responses": [
+        {
+            "question": "what were the strengths of this course andor this instructor",
+            "responses": [
+                "",
+                "extremely patient in explaining course material after class provides lots of examples",
+                "shes very passionate about the class and handwrites all the important notes",
+                "she provides easytounderstand examples",
+                "she is knowledgeable in the field and provided additional resources outside of class so we could learn the material"
+            ]
+        },
+        {
+            "question": "what could the instructor do to make this course better",
+            "responses": [
+                "",
+                "need to be clear about the algorithms and concepts almost each timealmost every class after the midterm as contents after midterm are difficult she explained one complex algorithm she first went to awrong direction and then tried to come back sometimes she couldnt come back to the right track and already made students really confusedthe instructors ability to explain a complex algo is limited",
+                "when she draws on ipad she can use another color or the cursor when she explains ie simply saying here and there over the writings sometimes are hard to follow",
+                "provide better learning materials such as slides",
+                "teaching pace the pace of teaching is notably fast this speed can be challenging especially for students who need a bit more time to absorb information a slower pace would help in better understandingand following the lectureshomework management there seems to be a need for more organization in terms of homework deadlines and workload consistency and clear communication in this area would be beneficialclass time management there have been instances of class schedules being unexpectedly changed such as the addition of a class due to the professors mistake adherence to the syllabus schedule forclass times would aid in better planning and attendanceteaching assistants involvement it would be helpful if the teaching assistants were more informed about the homework solutions this would enable them to provide better assistance to studentsclarity of notes the legibility of handwritten notes sometimes poses a challenge clearer notes or providing them in a typed format would assist students in taking accurate notes and understanding thematerial more effectively",
+                "make sure her teaching progress is aligned with the schedule even if some classes are affected by public holidays they should have been handled beforehand",
+                "she is a great professor with that said if she could improve on her organizational skills especially regarding the topics covered in the class that would be helpful"
+            ]
+        },
+        {
+            "question": "please expand on the instructors strengths andor areas for improvement in facilitating inclusive learning",
+            "responses": [
+                "",
+                "not good at explaining something complexmake complex things more complicatedstudents even feel less confident after taking this course",
+                "na",
+                "this course is really helpful for preparing for an sde interview professor mukunds insights and teachings have been particularly helpful i have gained a wealth of knowledge from the content she hasshared however the homework appears to extend beyond the class content presenting a challenge and we need a significant amount of time and effort to complete it if the professor could explain theassignments or possibly reduce the difficulty level it would greatly enhance the learning experience i really appreciate the professors guidance and believe that such adjustments would further contributeto the success of the course thank you",
+                "shes doing a pretty good job shes my favorite professor at northeastern so far i love that she uses inclass handwriting notes to teach not just slides moreover including examples during algointroduction from beginnerfriendly to more advanced the approach help me a lot",
+                "as mentioned above if her organizational skills could be improved especially regarding assignments and lectures this would be helpful"
+            ]
+        },
+        {
+            "question": "please comment on your experience of the online course environment in the openended text box",
+            "responses": [
+                "",
+                "the instructor provides online materials but she never offer standard solutionsfeedback for any homework",
+                "professor refused to provide her class notes and she refuse to provide the recordings to every class",
+                "ive found that the pace of the lectures can be quite rapid which sometimes makes it challenging for me to thoroughly grasp the material in realtime additionally i sometimes struggle to read thehandwritten notes on the her ipad basically after midterm i dont have much confidence about learning algorithms anymore she doesnt like to give homework answers to tas or us when i have questionsabout homework even ta cant really help i have a hard time finishing homeworks",
+                "the tas are very helpful",
+                "still one of the worst class of all time i couldve just learned everything on youtube instead of coming to class",
+                "she communicated online via announcements on canvas about upcoming information about the class"
+            ]
+        },
+        {
+            "question": "what i could have done to make this course better for myself",
+            "responses": [
+                "",
+                "need to be a master of leetcode medium and above before the class so that i could do well in her exams",
+                "more coding practice by myself",
+                "watch more youtube algorithms class teaching videos and review homework again and again",
+                "focus even more during class and make sure i practice a lot until i fully understand the concepts",
+                "prepared more for the course before taking it"
+            ]
+        }
+    ],
+    "instructor": "Mukund, Smruthi"
+}
