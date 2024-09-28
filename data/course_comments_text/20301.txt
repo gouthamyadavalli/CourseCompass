@@ -1,6 +1,8 @@
 {
     "crn": "20301",
     "course_title": "Algorithms",
+    "instructor": "Bhardwaj, Anurag",
+    "course_number": "5800",
     "responses": [
         {
             "question": "what were the strengths of this course andor this instructor",
@@ -55,6 +57,5 @@
                 "since i have a weak foundation i should actually do something besides homework to reinforce my understanding"
             ]
         }
-    ],
-    "instructor": "Bhardwaj, Anurag"
+    ]
 }

@@ -1,6 +1,8 @@
 {
     "crn": "20450",
     "course_title": "Algorithms",
+    "instructor": "Rad, Ryan",
+    "course_number": "5800",
     "responses": [
         {
             "question": "what were the strengths of this course andor this instructor",
@@ -64,6 +66,5 @@
                 "do more previews before coming to class"
             ]
         }
-    ],
-    "instructor": "Rad, Ryan"
+    ]
 }

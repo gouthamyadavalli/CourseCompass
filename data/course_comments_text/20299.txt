@@ -1,6 +1,8 @@
 {
     "crn": "20299",
     "course_title": "Algorithms",
+    "instructor": "Lee, Hyonho",
+    "course_number": "5800",
     "responses": [
         {
             "question": "what were the strengths of this course andor this instructor",
@@ -69,6 +71,5 @@
                 "i could have prepared more by brushing up on math and some other prerequisite skills"
             ]
         }
-    ],
-    "instructor": "Lee, Hyonho"
+    ]
 }

@@ -1,6 +1,8 @@
 {
     "crn": "20312",
     "course_title": "Information Retrieval",
+    "instructor": "Amjad, Tehmina",
+    "course_number": "6200",
     "responses": [
         {
             "question": "what were the strengths of this course andor this instructor",
@@ -63,6 +65,5 @@
                 "read related materials including books and other tech websites"
             ]
         }
-    ],
-    "instructor": "Amjad, Tehmina"
+    ]
 }

@@ -1,6 +1,8 @@
 {
     "crn": "10685",
     "course_title": "Algorithms",
+    "instructor": "Pavlu, Virgil",
+    "course_number": "5800",
     "responses": [
         {
             "question": "what were the strengths of this course andor this instructor",
@@ -77,6 +79,5 @@
                 "more practice"
             ]
         }
-    ],
-    "instructor": "Pavlu, Virgil"
+    ]
 }

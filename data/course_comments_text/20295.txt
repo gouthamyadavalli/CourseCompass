@@ -1,6 +1,8 @@
 {
     "crn": "20295",
     "course_title": "Web Development",
+    "instructor": "Veliz, Oscar",
+    "course_number": "5610",
     "responses": [
         {
             "question": "what were the strengths of this course andor this instructor",
@@ -46,6 +48,5 @@
                 "taken this course with as my only course and had a background already in the subject"
             ]
         }
-    ],
-    "instructor": "Veliz, Oscar"
+    ]
 }

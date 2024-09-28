@@ -1,6 +1,8 @@
 {
     "crn": "20302",
     "course_title": "Algorithms",
+    "instructor": "Mukund, Smruthi",
+    "course_number": "5800",
     "responses": [
         {
             "question": "what were the strengths of this course andor this instructor",
@@ -58,6 +60,5 @@
                 "prepared more for the course before taking it"
             ]
         }
-    ],
-    "instructor": "Mukund, Smruthi"
+    ]
 }

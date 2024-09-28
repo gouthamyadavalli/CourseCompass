@@ -1,6 +1,8 @@
 {
     "crn": "39756",
     "course_title": "Programming Design Paradigm",
+    "instructor": "Guerra Gomez, John Alexis",
+    "course_number": "5010",
     "responses": [
         {
             "question": "what were the strengths of this course andor this instructor",
@@ -76,6 +78,5 @@
                 "spend more time on the projects"
             ]
         }
-    ],
-    "instructor": "Guerra Gomez, John Alexis"
+    ]
 }

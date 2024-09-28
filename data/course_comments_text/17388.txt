@@ -1,6 +1,8 @@
 {
     "crn": "17388",
     "course_title": "Algorithms",
+    "instructor": "Kennedy, Justin",
+    "course_number": "5800",
     "responses": [
         {
             "question": "what were the strengths of this course andor this instructor",
@@ -80,6 +82,5 @@
                 "more focus on the project"
             ]
         }
-    ],
-    "instructor": "Kennedy, Justin"
+    ]
 }

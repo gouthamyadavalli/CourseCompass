@@ -1,6 +1,8 @@
 {
     "crn": "35155",
     "course_title": "Programming Design Paradigm",
+    "instructor": "Dym, Brianna",
+    "course_number": "5010",
     "responses": [
         {
             "question": "what were the strengths of this course andor this instructor",
@@ -69,6 +71,5 @@
                 "allocating more time regularly instead of sudden bursts of time and energy"
             ]
         }
-    ],
-    "instructor": "Dym, Brianna"
+    ]
 }

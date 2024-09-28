@@ -1,6 +1,8 @@
 {
     "crn": "10855",
     "course_title": "Programming Design Paradigm",
+    "instructor": "Shesh, Amit",
+    "course_number": "5010",
     "responses": [
         {
             "question": "what were the strengths of this course andor this instructor",
@@ -169,6 +171,5 @@
                 "reflecting on my experience in the course i realize that a more structured study schedule and active participation in discussions would have significantly improved my learning outcomes i could have beenmore proactive in communicating with the instructor seeking clarification when needed additionally exploring supplementary resources and incorporating selfassessment tools would have deepened myunderstanding of the material in hindsight setting clear learning goals and regularly evaluating my progress against them would have provided a more focused approach moving forward i plan toimplement these insights to enhance my online learning experience"
             ]
         }
-    ],
-    "instructor": "Shesh, Amit"
+    ]
 }

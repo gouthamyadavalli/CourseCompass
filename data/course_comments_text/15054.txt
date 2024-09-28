@@ -1,6 +1,8 @@
 {
     "crn": "15054",
     "course_title": "Programming Design Paradigm",
+    "instructor": "Shesh, Amit",
+    "course_number": "5010",
     "responses": [
         {
             "question": "what were the strengths of this course andor this instructor",
@@ -102,6 +104,5 @@
                 "practiced coding in java as i am not good at it spent more time getting doubts clarified"
             ]
         }
-    ],
-    "instructor": "Shesh, Amit"
+    ]
 }

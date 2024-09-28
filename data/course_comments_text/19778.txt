@@ -1,6 +1,8 @@
 {
     "crn": "19778",
     "course_title": "Algorithms",
+    "instructor": "Socha, Katherine",
+    "course_number": "5800",
     "responses": [
         {
             "question": "what were the strengths of this course andor this instructor",
@@ -60,6 +62,5 @@
                 "spent more time coding but i was not able to manage my time effectively"
             ]
         }
-    ],
-    "instructor": "Socha, Katherine"
+    ]
 }

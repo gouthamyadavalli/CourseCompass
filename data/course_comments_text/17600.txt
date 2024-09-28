@@ -1,6 +1,8 @@
 {
     "crn": "17600",
     "course_title": "Algorithms",
+    "instructor": "Hamandi, Lama",
+    "course_number": "5800",
     "responses": [
         {
             "question": "what were the strengths of this course andor this instructor",
@@ -59,6 +61,5 @@
                 "i could have spent more hours to have a better understanding of the algorithms i wish i had more time to solve more algorithm problems"
             ]
         }
-    ],
-    "instructor": "Hamandi, Lama"
+    ]
 }

@@ -1,6 +1,8 @@
 {
     "crn": "40203",
     "course_title": "Fndtns Artificial Intelligence",
+    "instructor": "Veliz, Oscar",
+    "course_number": "5100",
     "responses": [
         {
             "question": "what were the strengths of this course andor this instructor",
@@ -58,6 +60,5 @@
                 "read course materials more thoroughly before class"
             ]
         }
-    ],
-    "instructor": "Veliz, Oscar"
+    ]
 }
