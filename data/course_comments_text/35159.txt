@@ -1,6 +1,8 @@
 {
     "crn": "35159",
     "course_title": "Web Development",
+    "instructor": "Annunziato, Jose",
+    "course_number": "5610",
     "responses": [
         {
             "question": "what were the strengths of this course andor this instructor",
@@ -112,6 +114,5 @@
                 "studied more"
             ]
         }
-    ],
-    "instructor": "Annunziato, Jose"
+    ]
 }

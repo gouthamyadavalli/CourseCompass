@@ -1,6 +1,8 @@
 {
     "crn": "31750",
     "course_title": "Information Retrieval",
+    "instructor": "Smith, David",
+    "course_number": "6200",
     "responses": [
         {
             "question": "what were the strengths of this course andor this instructor",
@@ -60,6 +62,5 @@
                 "i should have spent more time to study the subject"
             ]
         }
-    ],
-    "instructor": "Smith, David"
+    ]
 }

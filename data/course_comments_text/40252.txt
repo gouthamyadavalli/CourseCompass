@@ -1,6 +1,8 @@
 {
     "crn": "40252",
     "course_title": "Algorithms",
+    "instructor": "Mwaura, Jonathan",
+    "course_number": "5800",
     "responses": [
         {
             "question": "what were the strengths of this course andor this instructor",
@@ -59,6 +61,5 @@
                 "could have spent more time devoting to this course"
             ]
         }
-    ],
-    "instructor": "Mwaura, Jonathan"
+    ]
 }

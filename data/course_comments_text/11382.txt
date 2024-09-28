@@ -1,6 +1,8 @@
 {
     "crn": "11382",
     "course_title": "Information Retrieval",
+    "instructor": "Smith, David",
+    "course_number": "6200",
     "responses": [
         {
             "question": "what were the strengths of this course andor this instructor",
@@ -42,6 +44,5 @@
                 "i think it would be better to drop this course before the deadline however i realized that the course is very bad after first two weeks"
             ]
         }
-    ],
-    "instructor": "Smith, David"
+    ]
 }

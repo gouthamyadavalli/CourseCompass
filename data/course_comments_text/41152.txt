@@ -1,6 +1,8 @@
 {
     "crn": "41152",
     "course_title": "Web Development",
+    "instructor": "Penarrieta, Cristian",
+    "course_number": "5610",
     "responses": [
         {
             "question": "what were the strengths of this course andor this instructor",
@@ -72,6 +74,5 @@
                 "na"
             ]
         }
-    ],
-    "instructor": "Penarrieta, Cristian"
+    ]
 }

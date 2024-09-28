@@ -1,6 +1,8 @@
 {
     "crn": "17364",
     "course_title": "Fndtns Artificial Intelligence",
+    "instructor": "Mwaura, Jonathan",
+    "course_number": "5100",
     "responses": [
         {
             "question": "what were the strengths of this course andor this instructor",
@@ -62,6 +64,5 @@
                 " more interaction in class"
             ]
         }
-    ],
-    "instructor": "Mwaura, Jonathan"
+    ]
 }

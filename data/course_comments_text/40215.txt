@@ -1,6 +1,8 @@
 {
     "crn": "40215",
     "course_title": "Algorithms",
+    "instructor": "Lee, Hyonho",
+    "course_number": "5800",
     "responses": [
         {
             "question": "what were the strengths of this course andor this instructor",
@@ -58,6 +60,5 @@
                 "i could have realized sooner that the teaching style did not align with my learning style perhaps joined a study group of students"
             ]
         }
-    ],
-    "instructor": "Lee, Hyonho"
+    ]
 }

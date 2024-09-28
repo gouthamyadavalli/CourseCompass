@@ -1,6 +1,8 @@
 {
     "crn": "13666",
     "course_title": "Algorithms",
+    "instructor": "Tsekourakis, Iraklis",
+    "course_number": "5800",
     "responses": [
         {
             "question": "what were the strengths of this course andor this instructor",
@@ -71,6 +73,5 @@
                 "not decrease the difficulty of course so drastically after the first test also i wud have made the assignments more challenging and give 2 weeks rather than giving simple assignment with 1 week deadline"
             ]
         }
-    ],
-    "instructor": "Tsekourakis, Iraklis"
+    ]
 }

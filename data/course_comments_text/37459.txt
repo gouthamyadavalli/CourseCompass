@@ -1,6 +1,8 @@
 {
     "crn": "37459",
     "course_title": "Fndtns Artificial Intelligence",
+    "instructor": "Venkatesaramani, Rajagopal",
+    "course_number": "5100",
     "responses": [
         {
             "question": "what were the strengths of this course andor this instructor",
@@ -98,6 +100,5 @@
                 "started each assignment labs and homework earlier i learned for the third lab and assignment but i wish i had for the second"
             ]
         }
-    ],
-    "instructor": "Venkatesaramani, Rajagopal"
+    ]
 }

@@ -1,6 +1,8 @@
 {
     "crn": "37421",
     "course_title": "Web Development",
+    "instructor": "Mitra, Joydeep",
+    "course_number": "5610",
     "responses": [
         {
             "question": "what were the strengths of this course andor this instructor",
@@ -62,6 +64,5 @@
                 "i did not do well in assignment 4 due to submit problem i should start assignment earlier"
             ]
         }
-    ],
-    "instructor": "Mitra, Joydeep"
+    ]
 }

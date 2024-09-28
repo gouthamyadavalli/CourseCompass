@@ -1,6 +1,8 @@
 {
     "crn": "35058",
     "course_title": "Algorithms",
+    "instructor": "Aloupis, Gregory",
+    "course_number": "5800",
     "responses": [
         {
             "question": "what were the strengths of this course andor this instructor",
@@ -62,6 +64,5 @@
                 "took me a while to get used to the style of questions asked in the exam homeworks and extra problem sets really helped in preparing for the exams"
             ]
         }
-    ],
-    "instructor": "Aloupis, Gregory"
+    ]
 }

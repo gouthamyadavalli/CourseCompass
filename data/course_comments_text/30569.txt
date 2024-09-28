@@ -1,6 +1,8 @@
 {
     "crn": "30569",
     "course_title": "Algorithms",
+    "instructor": "Tsekourakis, Iraklis",
+    "course_number": "5800",
     "responses": [
         {
             "question": "what were the strengths of this course andor this instructor",
@@ -103,6 +105,5 @@
                 "doing more textbook problems"
             ]
         }
-    ],
-    "instructor": "Tsekourakis, Iraklis"
+    ]
 }

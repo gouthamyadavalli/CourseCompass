@@ -1,6 +1,8 @@
 {
     "crn": "31430",
     "course_title": "Information Retrieval",
+    "instructor": "Amor-Tijani, Ghita",
+    "course_number": "6200",
     "responses": [
         {
             "question": "what were the strengths of this course andor this instructor",
@@ -72,6 +74,5 @@
                 "more direct code experience for abstract concepts without consistent direct examples for each homework"
             ]
         }
-    ],
-    "instructor": "Amor-Tijani, Ghita"
+    ]
 }

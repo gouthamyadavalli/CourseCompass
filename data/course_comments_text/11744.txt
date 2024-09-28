@@ -1,6 +1,8 @@
 {
     "crn": "11744",
     "course_title": "Information Retrieval",
+    "instructor": "Smith, David",
+    "course_number": "6200",
     "responses": [
         {
             "question": "what were the strengths of this course andor this instructor",
@@ -46,6 +48,5 @@
                 "get familiar with probabilitymath concepts"
             ]
         }
-    ],
-    "instructor": "Smith, David"
+    ]
 }

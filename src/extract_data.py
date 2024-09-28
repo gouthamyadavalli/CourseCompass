@@ -58,6 +58,9 @@ def extract_data_from_pdf(file_path):
     structured_data = {
         "crn": "",
         "course_title": "",
+        "instructor": "",
+        "course_number": "",
+        "course_title": "",
         "responses": []
     }
 
@@ -72,11 +75,14 @@ def extract_data_from_pdf(file_path):
             instructor = page_text.split("Instructor: ")[1].split("\n")[0]
             course_code = page_text.split("Course ID: ")[1].split("\n")[0]
             course_title = page_text.split("\n")[0].split("(")[0].strip()
+            # get the course number and strip the text after the first space
+            course_number = page_text.split("Catalog & Section: ")[1].split(" ")[0].strip()
             # course_description = page_text.split("Course Description: ")[1].split("\n")[0]
 
             structured_data["crn"] = course_code
             structured_data["instructor"] = instructor
             structured_data["course_title"] = course_title
+            structured_data["course_number"] = course_number
             # structured_data["course_title"] = course_title
             # structured_data["course_description"] = course_description
 

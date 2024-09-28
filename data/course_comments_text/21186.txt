@@ -1,6 +1,8 @@
 {
     "crn": "21186",
     "course_title": "Fndtns Artificial Intelligence",
+    "instructor": "Venkatesaramani, Rajagopal",
+    "course_number": "5100",
     "responses": [
         {
             "question": "what were the strengths of this course andor this instructor",
@@ -157,6 +159,5 @@
                 "started homework earlier"
             ]
         }
-    ],
-    "instructor": "Venkatesaramani, Rajagopal"
+    ]
 }

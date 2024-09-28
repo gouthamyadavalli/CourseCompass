@@ -1,6 +1,8 @@
 {
     "crn": "21011",
     "course_title": "Web Development",
+    "instructor": "Penarrieta, Cristian",
+    "course_number": "5610",
     "responses": [
         {
             "question": "what were the strengths of this course andor this instructor",
@@ -53,6 +55,5 @@
                 "i could have tried completing a preparatory course that would align with the classroom learning it was just so fast paced when it got to react"
             ]
         }
-    ],
-    "instructor": "Penarrieta, Cristian"
+    ]
 }

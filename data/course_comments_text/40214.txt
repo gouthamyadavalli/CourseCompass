@@ -1,6 +1,8 @@
 {
     "crn": "40214",
     "course_title": "Algorithms",
+    "instructor": "Sun, Zhifeng",
+    "course_number": "5800",
     "responses": [
         {
             "question": "what were the strengths of this course andor this instructor",
@@ -54,6 +56,5 @@
                 "well if the curriculum could be normal the last two week of curriculum is too intense as 2 assignments following a quiz is a bit overloading"
             ]
         }
-    ],
-    "instructor": "Sun, Zhifeng"
+    ]
 }

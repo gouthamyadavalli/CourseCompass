@@ -1,6 +1,8 @@
 {
     "crn": "21104",
     "course_title": "Web Development",
+    "instructor": "Guerra Gomez, John Alexis",
+    "course_number": "5610",
     "responses": [
         {
             "question": "what were the strengths of this course andor this instructor",
@@ -93,6 +95,5 @@
                 "i should have taken this course early when i start the program"
             ]
         }
-    ],
-    "instructor": "Guerra Gomez, John Alexis"
+    ]
 }

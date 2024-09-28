@@ -1,6 +1,8 @@
 {
     "crn": "39706",
     "course_title": "Fndtns Artificial Intelligence",
+    "instructor": "Saad, Nadim",
+    "course_number": "5100",
     "responses": [
         {
             "question": "what were the strengths of this course andor this instructor",
@@ -70,6 +72,5 @@
                 "improve my basic understanding for the course"
             ]
         }
-    ],
-    "instructor": "Saad, Nadim"
+    ]
 }

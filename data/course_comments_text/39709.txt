@@ -1,6 +1,8 @@
 {
     "crn": "39709",
     "course_title": "Algorithms",
+    "instructor": "Bayat, Akram",
+    "course_number": "5800",
     "responses": [
         {
             "question": "what were the strengths of this course andor this instructor",
@@ -59,6 +61,5 @@
                 "do more leetcode questions to reinforce knowledge learned from the class"
             ]
         }
-    ],
-    "instructor": "Bayat, Akram"
+    ]
 }

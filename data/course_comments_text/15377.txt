@@ -1,6 +1,8 @@
 {
     "crn": "15377",
     "course_title": "Algorithms",
+    "instructor": "Behnezhad, Soheil",
+    "course_number": "5800",
     "responses": [
         {
             "question": "what were the strengths of this course andor this instructor",
@@ -353,6 +355,5 @@
                 "the university should have done a better job making sure that a new professor has all the resources shehe needs and follow up with the students to ensure that things are going well i dont appreciatebeing treated as a guinea pig when i am paying 8000 dollars for this course"
             ]
         }
-    ],
-    "instructor": "Behnezhad, Soheil"
+    ]
 }
